@@ -1,1 +1,1287 @@
-{}
+{
+ "d9a30b31a41d33b7657258813e73f5cc142b2adb": {
+  "id": "d9a30b31a41d33b7657258813e73f5cc142b2adb",
+  "source": "adzuna",
+  "external_id": "5886030228",
+  "url": "https://www.adzuna.com/land/ad/5886030228?se=QnjfrJq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=1BBDD0749FC808F9A28863EC48F88117D905A3E7",
+  "title": "Senior Medical Planner - Behavioral and Mental Health",
+  "company": "Stantec",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 116679,
+  "salary_max": 116679,
+  "posted_at": "2026-09-16T06:55:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "b48910b640b8e76623d951a654b09432319c89cf": {
+  "id": "b48910b640b8e76623d951a654b09432319c89cf",
+  "source": "adzuna",
+  "external_id": "5896871119",
+  "url": "https://www.adzuna.com/land/ad/5896871119?se=6ImurZq88RGhE4vlhvVcdQ&utm_medium=api&utm_source=53549fa7&v=947CA949A50E0EB523A0D3A7CCF2D831449F4081",
+  "title": "Senior Business Analyst (Public-sector healthcare / MITA)",
+  "company": "Jobot",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 104000,
+  "salary_max": 145600,
+  "posted_at": "2026-09-24T08:54:38.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "14c5df4505605ff724a2e71675baebc34e9b1c0f": {
+  "id": "14c5df4505605ff724a2e71675baebc34e9b1c0f",
+  "source": "adzuna",
+  "external_id": "5902762448",
+  "url": "https://www.adzuna.com/land/ad/5902762448?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=5B853C9EFE719C1F8F6232C4ED549BE29DBC7FD4",
+  "title": "Sr Project Manager - Healthcare Construction",
+  "company": "Turner & Townsend",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 173342,
+  "salary_max": 173342,
+  "posted_at": "2026-09-29T06:58:07.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "2bbe3147db908cf44f2fa4ae1e8333f5fa58bca9": {
+  "id": "2bbe3147db908cf44f2fa4ae1e8333f5fa58bca9",
+  "source": "adzuna",
+  "external_id": "5901699314",
+  "url": "https://www.adzuna.com/details/5901699314?utm_medium=api&utm_source=53549fa7",
+  "title": "4Th Year Student",
+  "company": "SENT Management Services",
+  "location": "North Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 47840,
+  "salary_max": 52000,
+  "posted_at": "2026-09-28T11:40:43.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "32203fb6f4e47277e2fe295c86e8022ec63fcf2f": {
+  "id": "32203fb6f4e47277e2fe295c86e8022ec63fcf2f",
+  "source": "adzuna",
+  "external_id": "5901478420",
+  "url": "https://www.adzuna.com/land/ad/5901478420?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=36C310FB6310DC6A2249175B319C1AD99B3FE438",
+  "title": "Clinical & Financial Performance Manager",
+  "company": "Accenture",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 303536,
+  "salary_max": 303536,
+  "posted_at": "2026-09-28T06:46:43.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "6191875eb7cecdbe4575400acc66fff3840f48fc": {
+  "id": "6191875eb7cecdbe4575400acc66fff3840f48fc",
+  "source": "adzuna",
+  "external_id": "5901478269",
+  "url": "https://www.adzuna.com/land/ad/5901478269?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=2ED9A89FE4B6B87105CC6EC28A33314A8CB338A5",
+  "title": "Health Industry - Clinical Management Senior Manager",
+  "company": "Accenture",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 241409,
+  "salary_max": 241409,
+  "posted_at": "2026-09-28T06:46:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "7ba9a949dfc6c1348697108a1c348303a232e960": {
+  "id": "7ba9a949dfc6c1348697108a1c348303a232e960",
+  "source": "adzuna",
+  "external_id": "5901478297",
+  "url": "https://www.adzuna.com/land/ad/5901478297?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=F27600E689BFBEF737BEF130AB17F31B207472CF",
+  "title": "Health Industry - Payer Utilization Management Consulting Manager",
+  "company": "Accenture",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 297446,
+  "salary_max": 297446,
+  "posted_at": "2026-09-28T06:46:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "08bff906b1b08687080a9d48baafa6b2c839e5de": {
+  "id": "08bff906b1b08687080a9d48baafa6b2c839e5de",
+  "source": "adzuna",
+  "external_id": "5901478308",
+  "url": "https://www.adzuna.com/land/ad/5901478308?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=14759BA69691F422D8CC45C7EA0684E6F2FB7B49",
+  "title": "Clinical Management Manager",
+  "company": "Accenture",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 348859,
+  "salary_max": 348859,
+  "posted_at": "2026-09-28T06:46:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "1214a795de0043acb12dd18fb67a0f6d1a6cf955": {
+  "id": "1214a795de0043acb12dd18fb67a0f6d1a6cf955",
+  "source": "adzuna",
+  "external_id": "5901478298",
+  "url": "https://www.adzuna.com/land/ad/5901478298?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=F17A6D763A8DAD17079E04AEAE5BE2C045D9A440",
+  "title": "Health PBM Operations Manager (Specialty Pharma, PBM)?",
+  "company": "Accenture",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 366379,
+  "salary_max": 366379,
+  "posted_at": "2026-09-28T06:46:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "6ec5c774cb0b190df6c05a362a231f2122e6fb3e": {
+  "id": "6ec5c774cb0b190df6c05a362a231f2122e6fb3e",
+  "source": "adzuna",
+  "external_id": "5901478226",
+  "url": "https://www.adzuna.com/land/ad/5901478226?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=7EA22D4181064B381E0762E9CC91E7BD2D42BD15",
+  "title": "Pharmacy Management Consulting Manager",
+  "company": "Accenture",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 249129,
+  "salary_max": 249129,
+  "posted_at": "2026-09-28T06:46:40.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "053eade47402e53b77f8561eea6fe880084d2785": {
+  "id": "053eade47402e53b77f8561eea6fe880084d2785",
+  "source": "adzuna",
+  "external_id": "5900612010",
+  "url": "https://www.adzuna.com/land/ad/5900612010?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=9B8BBF1F142179D135CFE0FA3833AD381081900F",
+  "title": "Full-Time Licensed Marriage and Family Therapist - Remote Position",
+  "company": "Reflective Space Counseling Services, LLC",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 120000,
+  "salary_max": 130000,
+  "posted_at": "2026-09-27T08:01:38.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "9a03f955c77ebf22e18ec167b703e43a0890af3e": {
+  "id": "9a03f955c77ebf22e18ec167b703e43a0890af3e",
+  "source": "adzuna",
+  "external_id": "5899556146",
+  "url": "https://www.adzuna.com/land/ad/5899556146?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=C466E18E406C69059747922E1961FF511591F83C",
+  "title": "Lead Channel Sales Representative",
+  "company": "Honeywell Technologies",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 110536,
+  "salary_max": 110536,
+  "posted_at": "2026-09-26T06:51:07.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "a968326d5135d3683f600ead7401c79eb9ec3413": {
+  "id": "a968326d5135d3683f600ead7401c79eb9ec3413",
+  "source": "adzuna",
+  "external_id": "5893903828",
+  "url": "https://www.adzuna.com/land/ad/5893903828?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=CBA6A9BFC2E847FE7B977BA49D2BC48501F3C985",
+  "title": "Outpatient Physical Therapist Assistant at Velocity Wellness",
+  "company": "Velocity Wellness & Physical Therapy",
+  "location": "Davis, Yolo County",
+  "remote": null,
+  "salary_min": 47043,
+  "salary_max": 47043,
+  "posted_at": "2026-09-22T07:27:25.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "1bb99389a1332ee6a5252084215de843385230b9": {
+  "id": "1bb99389a1332ee6a5252084215de843385230b9",
+  "source": "adzuna",
+  "external_id": "5889178199",
+  "url": "https://www.adzuna.com/land/ad/5889178199?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=B3BE2D1F55B8A25F53A792EF123A8CEC2F4F86D5",
+  "title": "Senior Licensed Professional Clinical Counselor – Telehealth",
+  "company": "Sunny Skies Wellness & Healing Center",
+  "location": "Placerville, El Dorado County",
+  "remote": null,
+  "salary_min": 120000,
+  "salary_max": 130000,
+  "posted_at": "2026-09-18T07:20:05.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "b3ecea61a44ecec07f96846b4a6604ede6aaec1b": {
+  "id": "b3ecea61a44ecec07f96846b4a6604ede6aaec1b",
+  "source": "adzuna",
+  "external_id": "5889106475",
+  "url": "https://www.adzuna.com/land/ad/5889106475?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=D90980EC78A46EB5261C1C8951452F9EA905FF45",
+  "title": "Principal Consultant- Oracle Health",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 135604,
+  "salary_max": 135604,
+  "posted_at": "2026-09-18T06:50:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "c199b614a29b0c6276dc2f6afa3c4d46d6b0abcc": {
+  "id": "c199b614a29b0c6276dc2f6afa3c4d46d6b0abcc",
+  "source": "adzuna",
+  "external_id": "5889106480",
+  "url": "https://www.adzuna.com/land/ad/5889106480?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=8C925BEA3E39A1039D0279016D3ABACB50E87A34",
+  "title": "Implementation Consultant - Revenue Cycle Patient Access (Scheduling/ Registration )",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 91937,
+  "salary_max": 91937,
+  "posted_at": "2026-09-18T06:50:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "49d395314022591b492f01aed03762f9f34a8862": {
+  "id": "49d395314022591b492f01aed03762f9f34a8862",
+  "source": "adzuna",
+  "external_id": "5889106329",
+  "url": "https://www.adzuna.com/land/ad/5889106329?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=D4BF1C86F2139E98D632ABBBAC1B85799FC2B87A",
+  "title": "Oracle Health Federal Senior Testing Integration Architect",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 133333,
+  "salary_max": 133333,
+  "posted_at": "2026-09-18T06:50:39.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "d13c5f265c6b1bae2444092f9b1cc38386512e26": {
+  "id": "d13c5f265c6b1bae2444092f9b1cc38386512e26",
+  "source": "adzuna",
+  "external_id": "5889105864",
+  "url": "https://www.adzuna.com/land/ad/5889105864?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=4A4DF180754B55C70DE98DFE4BA28507C8EC670C",
+  "title": "Implementation Consultant - Revenue Cycle Patient Access (Scheduling/ Registration )",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 82650,
+  "salary_max": 82650,
+  "posted_at": "2026-09-18T06:50:31.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "ac4654b896fde66b1d4a83675700689e28eb9572": {
+  "id": "ac4654b896fde66b1d4a83675700689e28eb9572",
+  "source": "adzuna",
+  "external_id": "5887731255",
+  "url": "https://www.adzuna.com/land/ad/5887731255?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=EBFCADA98016D374EE16376DE3FFF50F36D1E1BB",
+  "title": "Home Health Branch Director / Administrator (RN)",
+  "company": "Mission Healthcare",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 74619,
+  "salary_max": 74619,
+  "posted_at": "2026-09-17T09:51:16.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "869e8324607cc192acfacbb2b670a5ea812146cf": {
+  "id": "869e8324607cc192acfacbb2b670a5ea812146cf",
+  "source": "adzuna",
+  "external_id": "5887583736",
+  "url": "https://www.adzuna.com/land/ad/5887583736?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=5119E5053B339A7B4A86C6C3096928ADF1C7CB49",
+  "title": "Design Coordinator - Healthcare",
+  "company": "Stantec",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 79083,
+  "salary_max": 79083,
+  "posted_at": "2026-09-17T06:58:17.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "61f0f5dff98bf81123626598e5e599df31097308": {
+  "id": "61f0f5dff98bf81123626598e5e599df31097308",
+  "source": "adzuna",
+  "external_id": "5886656259",
+  "url": "https://www.adzuna.com/land/ad/5886656259?se=vkAXrpq88RG_XPlEoh-ysA&utm_medium=api&utm_source=53549fa7&v=053F7A97EB3DCDA68F7AA7CB44D8ED49AA469111",
+  "title": "Travel Occupational Therapist - SNF - $2,490 per week",
+  "company": "Cross Country Allied",
+  "location": "Yuba City, Sutter County",
+  "remote": null,
+  "salary_min": 0,
+  "salary_max": 129480,
+  "posted_at": "2026-09-16T18:29:04.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "9a3f544e2d4b04596ef47ef9eb31c4358528d863": {
+  "id": "9a3f544e2d4b04596ef47ef9eb31c4358528d863",
+  "source": "adzuna",
+  "external_id": "5903237630",
+  "url": "https://www.adzuna.com/land/ad/5903237630?se=Csi6r5q88RGHXcMrfQWkfQ&utm_medium=api&utm_source=53549fa7&v=1DF67CB7434285AA91E8179ABC829CE9089DC335",
+  "title": "Electrical Project Manager",
+  "company": "Actalent",
+  "location": "Newtown, El Dorado County",
+  "remote": null,
+  "salary_min": 115560,
+  "salary_max": 115560,
+  "posted_at": "2026-09-29T21:30:23.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "4dcdbd8dbc5342f8959afcb34d62864e3a2a6198": {
+  "id": "4dcdbd8dbc5342f8959afcb34d62864e3a2a6198",
+  "source": "adzuna",
+  "external_id": "5901497872",
+  "url": "https://www.adzuna.com/land/ad/5901497872?se=Csi6r5q88RGHXcMrfQWkfQ&utm_medium=api&utm_source=53549fa7&v=AC75AC2408A64AC8CE36765D9303D33D664EBD51",
+  "title": "Consulting Project Snr Principal Consultant",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 139379,
+  "salary_max": 139379,
+  "posted_at": "2026-09-28T06:54:06.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "ccf9d1493334ca064f525fed226959a23bfd93ec": {
+  "id": "ccf9d1493334ca064f525fed226959a23bfd93ec",
+  "source": "adzuna",
+  "external_id": "5900553793",
+  "url": "https://www.adzuna.com/land/ad/5900553793?se=Csi6r5q88RGHXcMrfQWkfQ&utm_medium=api&utm_source=53549fa7&v=B7F7DAD69FA3F0091C9C0CF6F07562CD9EF5547C",
+  "title": "Lead Project Manager",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 127686,
+  "salary_max": 127686,
+  "posted_at": "2026-09-27T06:54:08.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "92f132eaa9ddc9b20e4404dc4d17d80b5475d317": {
+  "id": "92f132eaa9ddc9b20e4404dc4d17d80b5475d317",
+  "source": "adzuna",
+  "external_id": "5900552342",
+  "url": "https://www.adzuna.com/land/ad/5900552342?se=Csi6r5q88RGHXcMrfQWkfQ&utm_medium=api&utm_source=53549fa7&v=9D4F507E78C0AA84EB2DFD2AA1A284269908EFB4",
+  "title": "Healthcare IT Project Manager- Critical Support",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 113544,
+  "salary_max": 113544,
+  "posted_at": "2026-09-27T06:53:53.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "400ca7612916c035ed87454bd84d03a40baea1b7": {
+  "id": "400ca7612916c035ed87454bd84d03a40baea1b7",
+  "source": "adzuna",
+  "external_id": "5899593959",
+  "url": "https://www.adzuna.com/details/5899593959?utm_medium=api&utm_source=53549fa7",
+  "title": "Commercial HVAC Project Manager",
+  "company": "Gpac",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 75000,
+  "salary_max": 120000,
+  "posted_at": "2026-09-26T06:59:43.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "6bde9007c0228bec0bcd0779901ddcc0623871ea": {
+  "id": "6bde9007c0228bec0bcd0779901ddcc0623871ea",
+  "source": "adzuna",
+  "external_id": "5895245889",
+  "url": "https://www.adzuna.com/details/5895245889?utm_medium=api&utm_source=53549fa7",
+  "title": "Project Manager",
+  "company": "Vanir Construction Management, Inc.",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 109791,
+  "salary_max": 109791,
+  "posted_at": "2026-09-23T10:26:36.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "c56b9adb5a4a78e8c3495d5e9eb14d658310d0f0": {
+  "id": "c56b9adb5a4a78e8c3495d5e9eb14d658310d0f0",
+  "source": "adzuna",
+  "external_id": "5892606094",
+  "url": "https://www.adzuna.com/details/5892606094?utm_medium=api&utm_source=53549fa7",
+  "title": "Construction Project Manager (Healthcare / Medical)",
+  "company": "Essel Environmental",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 127437,
+  "salary_max": 127437,
+  "posted_at": "2026-09-21T04:46:31.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "54a4ecb461c026269104cd7951b84f558c6f4632": {
+  "id": "54a4ecb461c026269104cd7951b84f558c6f4632",
+  "source": "adzuna",
+  "external_id": "5889375112",
+  "url": "https://www.adzuna.com/details/5889375112?utm_medium=api&utm_source=53549fa7",
+  "title": "Architecture Project Manager: Healthcare",
+  "company": "LPA",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 100000,
+  "salary_max": 155000,
+  "posted_at": "2026-09-18T10:30:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "737022929f01e94b82f5244a1ee4959b33966463": {
+  "id": "737022929f01e94b82f5244a1ee4959b33966463",
+  "source": "adzuna",
+  "external_id": "5889106130",
+  "url": "https://www.adzuna.com/land/ad/5889106130?se=Csi6r5q88RGHXcMrfQWkfQ&utm_medium=api&utm_source=53549fa7&v=26068F8A6B2D5C01542D963571CEC3158BAA7E0E",
+  "title": "Technical Intake and Modernization",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 127160,
+  "salary_max": 127160,
+  "posted_at": "2026-09-18T06:50:35.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "a46771ad0effc12048fc8c9e2dcde8be1e0e2d09": {
+  "id": "a46771ad0effc12048fc8c9e2dcde8be1e0e2d09",
+  "source": "adzuna",
+  "external_id": "5889106131",
+  "url": "https://www.adzuna.com/land/ad/5889106131?se=Csi6r5q88RGHXcMrfQWkfQ&utm_medium=api&utm_source=53549fa7&v=D8F21D4612E82AF5B4EAFA7B66E8D4CA8955938C",
+  "title": "Senior Data Migration Architect - Oracle Health",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 145662,
+  "salary_max": 145662,
+  "posted_at": "2026-09-18T06:50:35.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "4ccf4ac3acb52edbc03cc6d81a3bf682fea3d09d": {
+  "id": "4ccf4ac3acb52edbc03cc6d81a3bf682fea3d09d",
+  "source": "adzuna",
+  "external_id": "5889090294",
+  "url": "https://www.adzuna.com/land/ad/5889090294?se=Csi6r5q88RGHXcMrfQWkfQ&utm_medium=api&utm_source=53549fa7&v=B735D8CDB935392E0669BEA13E448BED918A0406",
+  "title": "Technical Program Manager (Remote)",
+  "company": "GovCIO",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 138991,
+  "salary_max": 138991,
+  "posted_at": "2026-09-18T06:46:21.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "a3a4900d85ac7bc500ca239976dfdb05181de602": {
+  "id": "a3a4900d85ac7bc500ca239976dfdb05181de602",
+  "source": "adzuna",
+  "external_id": "5889087087",
+  "url": "https://www.adzuna.com/land/ad/5889087087?se=Csi6r5q88RGHXcMrfQWkfQ&utm_medium=api&utm_source=53549fa7&v=902871CD57E057731D8630FC7885EE2192324BE6",
+  "title": "Senior Cybersecurity Engineer",
+  "company": "Eliassen Group",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 117317,
+  "salary_max": 117317,
+  "posted_at": "2026-09-18T06:44:40.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "0df31917432584ad6e5cd2b7599451f32c8d75a7": {
+  "id": "0df31917432584ad6e5cd2b7599451f32c8d75a7",
+  "source": "adzuna",
+  "external_id": "5889083449",
+  "url": "https://www.adzuna.com/land/ad/5889083449?se=Csi6r5q88RGHXcMrfQWkfQ&utm_medium=api&utm_source=53549fa7&v=F962B8C1499506CCBACC66AE9F9EE3360F056977",
+  "title": "RCM Performance Analyst",
+  "company": "Deloitte",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 78325,
+  "salary_max": 78325,
+  "posted_at": "2026-09-18T06:43:19.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "3a7cc394158943d2fa272487366b908696bace60": {
+  "id": "3a7cc394158943d2fa272487366b908696bace60",
+  "source": "adzuna",
+  "external_id": "5887458424",
+  "url": "https://www.adzuna.com/details/5887458424?utm_medium=api&utm_source=53549fa7",
+  "title": "Project Coordinator",
+  "company": "SitelogIQ",
+  "location": "North Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 58240,
+  "salary_max": 70720,
+  "posted_at": "2026-09-17T05:51:03.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "54f3c71d27f390e60436d933891afb5a04d2ae85": {
+  "id": "54f3c71d27f390e60436d933891afb5a04d2ae85",
+  "source": "workday:sutterhealth",
+  "external_id": "R-139906",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Project-Manager--Facilities-III_R-139906",
+  "title": "Project Manager, Facilities III",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 129188,
+  "salary_max": 193793,
+  "posted_at": "2026-09-15T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento\" not CA/remote"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "4b42ed36c2709cffc87af7032be3d825ed2034eb": {
+  "id": "4b42ed36c2709cffc87af7032be3d825ed2034eb",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141412",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Manager--Business-Intelligence---Data-Analytics_R-141412",
+  "title": "Manager, Business Intelligence & Data Analytics",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 156332,
+  "salary_max": 234478,
+  "posted_at": "2026-09-24T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "b1d99351f39de688ae66c8ff63b5a3919517029d": {
+  "id": "b1d99351f39de688ae66c8ff63b5a3919517029d",
+  "source": "workday:sutterhealth",
+  "external_id": "R-140730",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Manager--Cloud-and-Modern-Workplace-Infrastructure-Engineering_R-140730",
+  "title": "Manager, Cloud and Modern Workplace Infrastructure Engineering",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": true,
+  "salary_min": 181875,
+  "salary_max": 291012,
+  "posted_at": "2026-09-23T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "016358030a3b52023d548e45176e32be90076a71": {
+  "id": "016358030a3b52023d548e45176e32be90076a71",
+  "source": "workday:sutterhealth",
+  "external_id": "R-137197",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Business-Intelligence-Developer-IV_R-137197",
+  "title": "Business Intelligence Developer IV",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 117437,
+  "salary_max": 176155,
+  "posted_at": "2026-09-04T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "5a4fa3fd6743934c52df48d0b30779f18018e021": {
+  "id": "5a4fa3fd6743934c52df48d0b30779f18018e021",
+  "source": "workday:sutterhealth",
+  "external_id": "R-138793",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Director--Project-Management--Valley_R-138793",
+  "title": "Director, Project Management, Valley",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 200096,
+  "salary_max": 320153,
+  "posted_at": "2026-08-27T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "5f004ca6d0735751ddfdc741f56bf5ae65af001c": {
+  "id": "5f004ca6d0735751ddfdc741f56bf5ae65af001c",
+  "source": "workday:sutterhealth",
+  "external_id": "R-140954",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Radiation-Therapist-II_R-140954-1",
+  "title": "Radiation Therapist II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 147326,
+  "salary_max": 206232,
+  "posted_at": "2026-09-29T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "9d07833f0e5b8b6ff19cea2fddb57b0d4df91123": {
+  "id": "9d07833f0e5b8b6ff19cea2fddb57b0d4df91123",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141619",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/medical-Director--Clinical-Informatics--Pathology_R-141619",
+  "title": "Medical Director, Clinical Informatics, Pathology",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": null,
+  "salary_max": null,
+  "posted_at": "2026-09-29T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "f1e7e50f015046f93ae502260895f562ee129094": {
+  "id": "f1e7e50f015046f93ae502260895f562ee129094",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141583",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Infection-Preventionist--Acute_R-141583",
+  "title": "Infection Preventionist, Acute",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 129708,
+  "salary_max": 181584,
+  "posted_at": "2026-09-28T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "a2f8be7315beabb437b3d6fe8e263398d8e0b48a": {
+  "id": "a2f8be7315beabb437b3d6fe8e263398d8e0b48a",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141540",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Clinical-Dietitian-II_R-141540-1",
+  "title": "Clinical Dietitian II",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 112278,
+  "salary_max": 157186,
+  "posted_at": "2026-09-25T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "d082e46b40731e98c1ce84435f5c408c18817873": {
+  "id": "d082e46b40731e98c1ce84435f5c408c18817873",
+  "source": "workday:sutterhealth",
+  "external_id": "R-135645",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Transfer---Referral-Specialist_R-135645-1",
+  "title": "Transfer & Referral Specialist",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 58240,
+  "salary_max": 109325,
+  "posted_at": "2026-09-22T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "661787510b64d8de02f149f5d3df089e2f14d6d5": {
+  "id": "661787510b64d8de02f149f5d3df089e2f14d6d5",
+  "source": "workday:sutterhealth",
+  "external_id": "R-140185",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Clinical-Dietitian-II_R-140185",
+  "title": "Clinical Dietitian II",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 112278,
+  "salary_max": 157186,
+  "posted_at": "2026-09-22T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "b15e8c97b30eabda0afc4523d79b351158be7e0f": {
+  "id": "b15e8c97b30eabda0afc4523d79b351158be7e0f",
+  "source": "workday:sutterhealth",
+  "external_id": "R-139617",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Infusion-Clinical-Pharmacy-Specialist--Oncology_R-139617-1",
+  "title": "Infusion Clinical Pharmacy Specialist, Oncology",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 189862,
+  "salary_max": 265782,
+  "posted_at": "2026-09-09T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "2ce47ebb526b8a49a146bec8155bd5418cdcf987": {
+  "id": "2ce47ebb526b8a49a146bec8155bd5418cdcf987",
+  "source": "workday:sutterhealth",
+  "external_id": "R-139503",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Interventional-Specialist-Technologist---Cath-Lab_R-139503",
+  "title": "Interventional Specialist Technologist - Cath Lab",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 148325,
+  "salary_max": 207646,
+  "posted_at": "2026-09-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "e3e3c236bb7ccb60dc24ed353274ba8b7e0c75b6": {
+  "id": "e3e3c236bb7ccb60dc24ed353274ba8b7e0c75b6",
+  "source": "workday:sutterhealth",
+  "external_id": "R-139811",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Clinical-Nurse-Educator_R-139811",
+  "title": "Clinical Nurse Educator",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 188760,
+  "salary_max": 264264,
+  "posted_at": "2026-09-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "e7cd744f830d5860859538fcb9c808e2ab99f581": {
+  "id": "e7cd744f830d5860859538fcb9c808e2ab99f581",
+  "source": "workday:stryker",
+  "external_id": "R569177",
+  "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Senior-Supply-Planner_R569177",
+  "title": "Senior Supply Planner",
+  "company": "Stryker",
+  "location": "Irvine, California",
+  "remote": null,
+  "salary_min": 76500,
+  "salary_max": 117100,
+  "posted_at": "2026-08-04T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "8ce567e23f73c9f3a24e9547da7bbc2961a01559": {
+  "id": "8ce567e23f73c9f3a24e9547da7bbc2961a01559",
+  "source": "workday:stryker",
+  "external_id": "R571256",
+  "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Senior-Supply-Planner_R571256",
+  "title": "Senior Supply Planner",
+  "company": "Stryker",
+  "location": "Irvine, California",
+  "remote": null,
+  "salary_min": 76500,
+  "salary_max": 117100,
+  "posted_at": "2026-09-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "baa0fea5368aff53707026ea276ae088f9154236": {
+  "id": "baa0fea5368aff53707026ea276ae088f9154236",
+  "source": "workday:stryker",
+  "external_id": "R569747",
+  "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Manager--Supply-Planning_R569747",
+  "title": "Manager, Supply Planning",
+  "company": "Stryker",
+  "location": "Irvine, California",
+  "remote": null,
+  "salary_min": 118000,
+  "salary_max": 196600,
+  "posted_at": "2026-08-28T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.949Z"
+ },
+ "56f8b12b4b6d88500a664d92250d19b1781c270d": {
+  "id": "56f8b12b4b6d88500a664d92250d19b1781c270d",
+  "source": "workday:stryker",
+  "external_id": "R572467",
+  "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Staff-Clinical-Insights-Data-Systems-Engineer_R572467",
+  "title": "Staff Clinical Insights Data Systems Engineer",
+  "company": "Stryker",
+  "location": "Irvine, California",
+  "remote": null,
+  "salary_min": 110100,
+  "salary_max": 183400,
+  "posted_at": "2026-09-29T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "b0fc7005340965de5ff3dc883aebb5c6fb7bb066": {
+  "id": "b0fc7005340965de5ff3dc883aebb5c6fb7bb066",
+  "source": "workday:stryker",
+  "external_id": "R571646",
+  "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Diego-California/Senior-Manager---R-D_R571646",
+  "title": "Senior Manager - R&D",
+  "company": "Stryker",
+  "location": "San Diego, California",
+  "remote": null,
+  "salary_min": 171500,
+  "salary_max": 285700,
+  "posted_at": "2026-09-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "58572fcaa5564e4764fe2709d2a30b1c10de7a37": {
+  "id": "58572fcaa5564e4764fe2709d2a30b1c10de7a37",
+  "source": "workday:stryker",
+  "external_id": "R571251",
+  "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Senior-Staff-Product-Owner--Voice-Intelligence_R571251",
+  "title": "Senior Staff Product Owner, Voice Intelligence",
+  "company": "Stryker",
+  "location": "San Jose, California",
+  "remote": null,
+  "salary_min": 153400,
+  "salary_max": 255700,
+  "posted_at": "2026-08-27T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "56b0d77a47b9b1c08a1734aebbc3df00b87e03c6": {
+  "id": "56b0d77a47b9b1c08a1734aebbc3df00b87e03c6",
+  "source": "workday:stryker",
+  "external_id": "R573757",
+  "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Staff-R-D-Engineer_R573757",
+  "title": "Staff R&D Engineer, Peripheral Vascular",
+  "company": "Stryker",
+  "location": "Irvine, California",
+  "remote": null,
+  "salary_min": 102700,
+  "salary_max": 171100,
+  "posted_at": "2026-09-29T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "5d8ef0c686c9894807f087cbafa36d1525d30011": {
+  "id": "5d8ef0c686c9894807f087cbafa36d1525d30011",
+  "source": "workday:stryker",
+  "external_id": "R573753",
+  "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Staff-R-D-Engineer--Peripheral-Vascular---Sensors_R573753",
+  "title": "Staff R&D Engineer, Peripheral Vascular - Sensors",
+  "company": "Stryker",
+  "location": "Irvine, California",
+  "remote": null,
+  "salary_min": 102700,
+  "salary_max": 171100,
+  "posted_at": "2026-09-29T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "941ed62c04d9e7a94469385b8d7f96eb8c895936": {
+  "id": "941ed62c04d9e7a94469385b8d7f96eb8c895936",
+  "source": "workday:stryker",
+  "external_id": "R573868",
+  "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Sr-R-D-Engineer_R573868-1",
+  "title": "Sr. R&D Engineer, Peripheral Vascular",
+  "company": "Stryker",
+  "location": "Irvine, California",
+  "remote": null,
+  "salary_min": 89400,
+  "salary_max": 148900,
+  "posted_at": "2026-09-29T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "0cfec2b5073ce802bc0545ff82052b3930f99f50": {
+  "id": "0cfec2b5073ce802bc0545ff82052b3930f99f50",
+  "source": "workday:philips",
+  "external_id": "590780",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Ontario-California-United-States/North-America-Supply-Planning-Lead---Personal-Health_590780",
+  "title": "North America Supply Planning Lead - Personal Health",
+  "company": "Philips",
+  "location": "Ontario, California, United States",
+  "remote": null,
+  "salary_min": 162000,
+  "salary_max": 258000,
+  "posted_at": "2026-09-28T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "739ebcee5c0f0c3df719304e32bc60af09732055": {
+  "id": "739ebcee5c0f0c3df719304e32bc60af09732055",
+  "source": "workday:philips",
+  "external_id": "589343",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Canada---Remote-Based-Ontario-Canada---Canada----distance-Ontario-Canada/Senior-Program-Manager--Enterprise-Imaging-Implementations---Canada_589343-1",
+  "title": "Senior Program Manager, Enterprise Imaging Implementations - (Mississauga, ON)",
+  "company": "Philips",
+  "location": "Canada - Remote Based, Ontario, Canada - Canada - À distance, Ontario, Canada",
+  "remote": null,
+  "salary_min": 126000,
+  "salary_max": 198000,
+  "posted_at": "2026-09-25T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "ba31bf41db5a23e2800d836dae94697fa1b38e5a": {
+  "id": "ba31bf41db5a23e2800d836dae94697fa1b38e5a",
+  "source": "workday:philips",
+  "external_id": "580990",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Brazil---Remote-Based/Medical-Devices-Maintenance-Specialist-III_580990",
+  "title": "Medical Devices Maintenance Specialist III",
+  "company": "Philips",
+  "location": "Brazil - Remote Based",
+  "remote": null,
+  "salary_min": null,
+  "salary_max": null,
+  "posted_at": "2026-07-08T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "cb6fd67fc244066eae59df0f0e744f3670a92bd9": {
+  "id": "cb6fd67fc244066eae59df0f0e744f3670a92bd9",
+  "source": "workday:philips",
+  "external_id": "584310",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Canada---Remote-Based-Ontario-Canada---Canada----distance-Ontario-Canada/Medical-Imaging-Account-Manager---Based-in-British-Columbia_584310",
+  "title": "Account Manager, Medical Imaging - Based in British Columbia",
+  "company": "Philips",
+  "location": "Canada - Remote Based, Ontario, Canada - Canada - À distance, Ontario, Canada",
+  "remote": null,
+  "salary_min": 137900,
+  "salary_max": 176700,
+  "posted_at": "2026-09-16T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "09e8961e490f362380aae5a55e7f347e9a76306f": {
+  "id": "09e8961e490f362380aae5a55e7f347e9a76306f",
+  "source": "workday:philips",
+  "external_id": "585188",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/San-Diego-California-United-States/Senior-Staff-Electrical-Engineer---Medical-Device--San-Diego--CA-_585188",
+  "title": "Staff Electrical Engineer – Medical Device (San Diego, CA)",
+  "company": "Philips",
+  "location": "San Diego, California, United States",
+  "remote": null,
+  "salary_min": 114000,
+  "salary_max": 182000,
+  "posted_at": "2026-09-23T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "565b38a0c0f5c8a2929bf7ca98799a2389166877": {
+  "id": "565b38a0c0f5c8a2929bf7ca98799a2389166877",
+  "source": "adzuna",
+  "external_id": "5887700131",
+  "url": "https://www.adzuna.com/details/5887700131?utm_medium=api&utm_source=53549fa7",
+  "title": "Sr Project Manager - Healthcare Construction",
+  "company": "Turner & Townsend",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 136806,
+  "salary_max": 136806,
+  "posted_at": "2026-09-17T08:39:06.000Z",
+  "score": 72,
+  "verdict": {
+   "role_fit": "adjacent",
+   "work_mode": "remote",
+   "location_ok": true,
+   "salary_ok": true,
+   "salary_note": "136806 - 136806",
+   "seniority": "senior",
+   "score": 72,
+   "summary": "Sr Project Manager role for healthcare construction at Turner & Townsend (remote, CA-based); adjacent to target family but lacks clarity on whether this is healthcare facility/planning-focused versus general construction PM.",
+   "concerns": [
+    "generic construction PM title",
+    "healthcare construction scope unclear",
+    "30% travel"
+   ]
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z",
+  "notified_at": "2026-09-30T06:47:15.676Z"
+ },
+ "f302e73356ec81d8f06735ebc79dc15e24f745ac": {
+  "id": "f302e73356ec81d8f06735ebc79dc15e24f745ac",
+  "source": "workday:stryker",
+  "external_id": "R569161",
+  "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Lead-Demand-Planner_R569161",
+  "title": "Lead Demand Planner",
+  "company": "Stryker",
+  "location": "Irvine, California",
+  "remote": null,
+  "salary_min": 89400,
+  "salary_max": 148900,
+  "posted_at": "2026-07-30T00:00:00.000Z",
+  "score": 15,
+  "verdict": {
+   "role_fit": "excluded",
+   "work_mode": "hybrid",
+   "location_ok": false,
+   "salary_ok": false,
+   "salary_note": "$89,400 - $148,900",
+   "seniority": "mid",
+   "score": 15,
+   "summary": "Supply chain demand planner at Stryker; falls under excluded category (capital equipment procurement/supply chain) and fails on both location (Irvine onsite/hybrid) and salary floor ($89.4K max below $90K floor).",
+   "concerns": [
+    "Irvine hybrid (not in acceptable cities)",
+    "salary max $89.4K below $90K floor",
+    "supply chain/procurement role, not healthcare planning/design"
+   ]
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "a0718032dfdb2ff5ccf8345733ebd6a9b1342ae7": {
+  "id": "a0718032dfdb2ff5ccf8345733ebd6a9b1342ae7",
+  "source": "workday:stryker",
+  "external_id": "R567610",
+  "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Senior-Demand-Planner_R567610",
+  "title": "Senior Demand Planner",
+  "company": "Stryker",
+  "location": "Irvine, California",
+  "remote": null,
+  "salary_min": 76500,
+  "salary_max": 117100,
+  "posted_at": "2026-08-04T00:00:00.000Z",
+  "score": 12,
+  "verdict": {
+   "role_fit": "excluded",
+   "work_mode": "hybrid",
+   "location_ok": false,
+   "salary_ok": true,
+   "salary_note": "$76,500 - $117,100",
+   "seniority": "mid",
+   "score": 12,
+   "summary": "Demand planner role at Stryker in Irvine (Orange County), not healthcare facility/equipment planning; this is supply chain/procurement planning and falls under excluded family.",
+   "concerns": [
+    "Irvine location (not acceptable cities)",
+    "supply chain/demand planning, not facility/equipment planning",
+    "excluded role family"
+   ]
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "6dcbce710c556d3e5b213d14b8e61f1383d2d380": {
+  "id": "6dcbce710c556d3e5b213d14b8e61f1383d2d380",
+  "source": "workday:stryker",
+  "external_id": "R562681",
+  "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Senior-Interaction-Designer--IxD-_R562681",
+  "title": "Senior Interaction Designer (IxD)",
+  "company": "Stryker",
+  "location": "San Jose, California",
+  "remote": null,
+  "salary_min": null,
+  "salary_max": null,
+  "posted_at": "2026-08-31T00:00:00.000Z",
+  "score": 15,
+  "verdict": {
+   "role_fit": "excluded",
+   "work_mode": "hybrid",
+   "location_ok": false,
+   "salary_ok": true,
+   "salary_note": "$101,000 - $168,400",
+   "seniority": "senior",
+   "score": 15,
+   "summary": "Senior UX/UI interaction designer for medical device R&D—design role not healthcare planning/design, and San Jose hybrid requires unacceptable commute from Rocklin.",
+   "concerns": [
+    "San Jose requires unacceptable commute",
+    "UX/UI designer, not healthcare planner",
+    "medical device but design-focused, not planning-focused"
+   ]
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "80ccb18087f5fbf0a474d897616ce67776245446": {
+  "id": "80ccb18087f5fbf0a474d897616ce67776245446",
+  "source": "workday:stryker",
+  "external_id": "R566481",
+  "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fresno-California/Clinical-Specialist--Enabling-Technologies--Fresno--CA-_R566481",
+  "title": "Clinical Specialist, Enabling Technologies (Fresno, CA)",
+  "company": "Stryker",
+  "location": "Fresno, California",
+  "remote": null,
+  "salary_min": 70304,
+  "salary_max": 91600,
+  "posted_at": "2026-08-13T00:00:00.000Z",
+  "score": 15,
+  "verdict": {
+   "role_fit": "excluded",
+   "work_mode": "onsite",
+   "location_ok": false,
+   "salary_ok": false,
+   "salary_note": "70304 - 91600",
+   "seniority": "mid",
+   "score": 15,
+   "summary": "Field-based bedside clinical specialist in surgical navigation; excluded as primary duty is on-site OR training and support rather than equipment planning/site design, location is Fresno (not acceptable), and salary max is below $90K floor.",
+   "concerns": [
+    "salary max below $90K floor",
+    "Fresno onsite not in acceptable cities",
+    "primary role is bedside OR support training, not equipment planning"
+   ]
+  },
+  "first_seen_at": "2026-09-30T06:47:14.950Z"
+ }
+}
