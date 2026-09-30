@@ -1283,5 +1283,131 @@
    ]
   },
   "first_seen_at": "2026-09-30T06:47:14.950Z"
+ },
+ "b0fc777963f04a20a060dcde4869dc67645a3e21": {
+  "id": "b0fc777963f04a20a060dcde4869dc67645a3e21",
+  "source": "adzuna",
+  "external_id": "5903882106",
+  "url": "https://www.adzuna.com/details/5903882106?utm_medium=api&utm_source=53549fa7",
+  "title": "Assistant Vice President, Mechanical Engineer - Buildings",
+  "company": "WSP",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 134700,
+  "salary_max": 200100,
+  "posted_at": "2026-09-30T08:15:31.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T17:59:35.978Z"
+ },
+ "d54118ce6b8ec3c2c854c0bf9184fe694e114de1": {
+  "id": "d54118ce6b8ec3c2c854c0bf9184fe694e114de1",
+  "source": "adzuna",
+  "external_id": "5903706767",
+  "url": "https://www.adzuna.com/details/5903706767?utm_medium=api&utm_source=53549fa7",
+  "title": "Assistant Vice President, Electrical Engineer - Buildings",
+  "company": "WSP",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 134700,
+  "salary_max": 200100,
+  "posted_at": "2026-09-30T06:19:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T17:59:35.978Z"
+ },
+ "02f2c7751f4134b0887cbd4240c689ff8c216b61": {
+  "id": "02f2c7751f4134b0887cbd4240c689ff8c216b61",
+  "source": "adzuna",
+  "external_id": "5903935602",
+  "url": "https://www.adzuna.com/details/5903935602?utm_medium=api&utm_source=53549fa7",
+  "title": "Infrastructure Engineer",
+  "company": "Sutter Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 131996,
+  "salary_max": 197995,
+  "posted_at": "2026-09-30T10:09:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T17:59:35.978Z"
+ },
+ "ca199dfd7c094fd287207652eda084716f3b065e": {
+  "id": "ca199dfd7c094fd287207652eda084716f3b065e",
+  "source": "adzuna",
+  "external_id": "5903688037",
+  "url": "https://www.adzuna.com/land/ad/5903688037?se=gFaapPi88RGGRMm4C9apug&utm_medium=api&utm_source=53549fa7&v=6201AAB09EC8003D8304049BC9D64368CB4209F7",
+  "title": "Licensed Mental Health Counselor - Remote Opportunity at GoodLife Mental Health Clinic",
+  "company": "GoodLife Mental Health Clinic",
+  "location": "Elk Grove, Sacramento County",
+  "remote": null,
+  "salary_min": 120000,
+  "salary_max": 140000,
+  "posted_at": "2026-09-30T05:44:29.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T17:59:35.978Z"
+ },
+ "53cc340000ba85dd6c13646f4b60458683bfb4fb": {
+  "id": "53cc340000ba85dd6c13646f4b60458683bfb4fb",
+  "source": "adzuna",
+  "external_id": "5903683983",
+  "url": "https://www.adzuna.com/land/ad/5903683983?se=gFaapPi88RGGRMm4C9apug&utm_medium=api&utm_source=53549fa7&v=BE0F0FE6F0D213E54671966B00B2C3B9B683BE35",
+  "title": "Compassionate Licensed Mental Health Counselor (Remote Position)",
+  "company": "Sensational Sunshine Behavioral Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 80000,
+  "salary_max": 100000,
+  "posted_at": "2026-09-30T05:43:09.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T17:59:35.978Z"
+ },
+ "f6ad21226ff90d9b23c63e1a589bb20267119c61": {
+  "id": "f6ad21226ff90d9b23c63e1a589bb20267119c61",
+  "source": "adzuna",
+  "external_id": "5903871014",
+  "url": "https://www.adzuna.com/details/5903871014?utm_medium=api&utm_source=53549fa7",
+  "title": "Associate Consultant, Market Access Strategy Consulting",
+  "company": "IQVIA",
+  "location": "Boston Ravine, Nevada County",
+  "remote": null,
+  "salary_min": 65400,
+  "salary_max": 163600,
+  "posted_at": "2026-09-30T07:42:49.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T17:59:35.978Z"
+ },
+ "b3fdeba5df8a24af64850685efd289827fc6c13b": {
+  "id": "b3fdeba5df8a24af64850685efd289827fc6c13b",
+  "source": "adzuna",
+  "external_id": "5903837290",
+  "url": "https://www.adzuna.com/details/5903837290?utm_medium=api&utm_source=53549fa7",
+  "title": "Commercial HVAC Project Manager",
+  "company": "Gpac",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 75000,
+  "salary_max": 120000,
+  "posted_at": "2026-09-30T07:00:44.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-09-30T17:59:35.978Z"
  }
 }
