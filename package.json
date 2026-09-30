@@ -1,0 +1,17 @@
+{
+  "name": "job-radar",
+  "version": "1.0.0",
+  "description": "Pulls healthcare planning/design job postings, scores them with Claude, stores in Supabase, emails a digest via Zapier",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "run": "node src/index.js",
+    "dry": "DRY_RUN=1 node src/index.js",
+    "test": "node test/run.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0",
+    "@supabase/supabase-js": "^2.49.0"
+  }
+}

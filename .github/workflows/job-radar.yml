@@ -1,0 +1,45 @@
+name: job-radar
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'   # every 6 hours (UTC)
+  workflow_dispatch:         # "Run workflow" button for manual runs
+
+permissions:
+  contents: write            # commit data/jobs.json back (file store mode)
+  issues: write              # open the digest issue
+
+concurrency:
+  group: job-radar
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm run run
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}        # built-in; no setup
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}          # optional
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}          # optional
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          ZAPIER_HOOK_URL: ${{ secrets.ZAPIER_HOOK_URL }}    # optional
+      - name: Commit seen-jobs file
+        run: |
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git config user.name "job-radar[bot]"
+            git config user.email "job-radar@users.noreply.github.com"
+            git add data/
+            git commit -m "chore: update seen jobs [skip ci]"
+            git push
+          fi
