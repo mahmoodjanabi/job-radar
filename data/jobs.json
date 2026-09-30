@@ -1409,5 +1409,131 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-09-30T17:59:35.978Z"
+ },
+ "83a54d2108834e9b7431d7f81dd37cad48e52077": {
+  "id": "83a54d2108834e9b7431d7f81dd37cad48e52077",
+  "source": "adzuna",
+  "external_id": "5904240797",
+  "url": "https://www.adzuna.com/land/ad/5904240797?se=XEu4Dxy98RG5W_OotpWUug&utm_medium=api&utm_source=53549fa7&v=9F38ED21726BEB86CDE7E6C10E4466BCFB2039D7",
+  "title": "Assistant Vice President, Electrical Engineer - Buildings",
+  "company": "WSP",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 145399,
+  "salary_max": 145399,
+  "posted_at": "2026-09-30T16:39:27.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T22:13:10.966Z"
+ },
+ "37767e38cb68ada279a13c8b8f30da91c869ce00": {
+  "id": "37767e38cb68ada279a13c8b8f30da91c869ce00",
+  "source": "adzuna",
+  "external_id": "5904240568",
+  "url": "https://www.adzuna.com/land/ad/5904240568?se=rjcaEBy98RGwgaviw0YlUg&utm_medium=api&utm_source=53549fa7&v=4006F73A5D1A90A23702D05F2A210399C228BF67",
+  "title": "Medical Informatics Analyst, Senior",
+  "company": "Blue Shield of California",
+  "location": "El Dorado Hills, El Dorado County",
+  "remote": null,
+  "salary_min": 93139,
+  "salary_max": 93139,
+  "posted_at": "2026-09-30T16:39:19.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T22:13:10.966Z"
+ },
+ "069dbbde6324b4eac38ee4013eb149f6ed512907": {
+  "id": "069dbbde6324b4eac38ee4013eb149f6ed512907",
+  "source": "adzuna",
+  "external_id": "5904235597",
+  "url": "https://www.adzuna.com/land/ad/5904235597?se=rjcaEBy98RGwgaviw0YlUg&utm_medium=api&utm_source=53549fa7&v=382A75E7241E8F8E6484AA7A7E80B7E732CEFD7B",
+  "title": "Sr. Manager, Program and Project Management - Vendor Management",
+  "company": "Blue Shield of California",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 100521,
+  "salary_max": 100521,
+  "posted_at": "2026-09-30T16:37:08.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T22:13:10.966Z"
+ },
+ "f118d9aa0067f2498781f5c1e766798e84c5f193": {
+  "id": "f118d9aa0067f2498781f5c1e766798e84c5f193",
+  "source": "adzuna",
+  "external_id": "5904204236",
+  "url": "https://www.adzuna.com/land/ad/5904204236?se=rjcaEBy98RGwgaviw0YlUg&utm_medium=api&utm_source=53549fa7&v=754C2600C0AA59D33079B26950067F7A103E2886",
+  "title": "Technical Communicator, Associate",
+  "company": "Blue Shield of California",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 46066,
+  "salary_max": 46066,
+  "posted_at": "2026-09-30T16:02:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T22:13:10.966Z"
+ },
+ "7001e2afd3a8fb9bf626666f6576f25ac9c997b0": {
+  "id": "7001e2afd3a8fb9bf626666f6576f25ac9c997b0",
+  "source": "adzuna",
+  "external_id": "5887175889",
+  "url": "https://www.adzuna.com/land/ad/5887175889?se=Qm9xEBy98RG154oS1PvO9A&utm_medium=api&utm_source=53549fa7&v=5F6E8EFD8EC827011FC18E50FD96D5064BD5385B",
+  "title": "Director, Operations (Government Markets)",
+  "company": "Blue Shield of California",
+  "location": "Lodi, San Joaquin County",
+  "remote": null,
+  "salary_min": 107626,
+  "salary_max": 107626,
+  "posted_at": "2026-09-17T00:53:29.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T22:13:10.966Z"
+ },
+ "ae081b9fc7ab803d9d3f8455cf632099dbd453d6": {
+  "id": "ae081b9fc7ab803d9d3f8455cf632099dbd453d6",
+  "source": "workday:sutterhealth",
+  "external_id": "R-140546",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Unit-Secretary---Nursing-Assistant--Med---Surg_R-140546",
+  "title": "Unit Secretary / Nursing Assistant, Med / Surg",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 64022,
+  "salary_max": 78083,
+  "posted_at": "2026-09-30T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T22:13:10.966Z"
+ },
+ "9e3614c2898c4624c247a195e7f9faf6164b7997": {
+  "id": "9e3614c2898c4624c247a195e7f9faf6164b7997",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141132",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Dermatology_R-141132-1",
+  "title": "Medical Assistant II, Dermatology",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-09-30T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-09-30T22:13:10.966Z"
  }
 }
