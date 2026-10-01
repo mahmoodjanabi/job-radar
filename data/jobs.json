@@ -1535,5 +1535,113 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-09-30T22:13:10.966Z"
+ },
+ "467e613450952bdd110f1abde203a84505b60373": {
+  "id": "467e613450952bdd110f1abde203a84505b60373",
+  "source": "adzuna",
+  "external_id": "5904551232",
+  "url": "https://www.adzuna.com/land/ad/5904551232?se=rEWXjVu98RG5M4XNlVuC5w&utm_medium=api&utm_source=53549fa7&v=0CE35DE687B109587FAF15493FF08BA0F5A62102",
+  "title": "Assistant Vice President, Mechanical Engineer - Buildings",
+  "company": "WSP",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 178494,
+  "salary_max": 178494,
+  "posted_at": "2026-09-30T23:12:18.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T05:47:41.495Z"
+ },
+ "a656cf4b7eb9a739c68a9c91cf4cd08b66236879": {
+  "id": "a656cf4b7eb9a739c68a9c91cf4cd08b66236879",
+  "source": "adzuna",
+  "external_id": "5904606235",
+  "url": "https://www.adzuna.com/land/ad/5904606235?se=-hoUjlu98RGGRMm4C9apug&utm_medium=api&utm_source=53549fa7&v=DD7313EC78A3C6365395D1F8B7549632FD955DE4",
+  "title": "Home Health Physical Therapist / PT ($15K Sign-On!)",
+  "company": "Mission Healthcare",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 121360,
+  "salary_max": 121360,
+  "posted_at": "2026-09-30T23:29:42.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T05:47:41.495Z"
+ },
+ "5bf3693f1c712afd0d5b43db1d2751b78ba931d2": {
+  "id": "5bf3693f1c712afd0d5b43db1d2751b78ba931d2",
+  "source": "adzuna",
+  "external_id": "5904768510",
+  "url": "https://www.adzuna.com/land/ad/5904768510?se=cAN9j1u98RG5M4XNlVuC5w&utm_medium=api&utm_source=53549fa7&v=37BFC98126E885693F4CF99112AAFF384CF57BBF",
+  "title": "Superintendent",
+  "company": "Actalent",
+  "location": "Wilton, Sacramento County",
+  "remote": null,
+  "salary_min": 118267,
+  "salary_max": 118267,
+  "posted_at": "2026-10-01T00:19:36.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T05:47:41.495Z"
+ },
+ "94869e604256ad29c9b33b83235541d0814aa9c7": {
+  "id": "94869e604256ad29c9b33b83235541d0814aa9c7",
+  "source": "adzuna",
+  "external_id": "5903829025",
+  "url": "https://www.adzuna.com/details/5903829025?utm_medium=api&utm_source=53549fa7",
+  "title": "Commercial HVAC Project Manager",
+  "company": "Gpac",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 75000,
+  "salary_max": 120000,
+  "posted_at": "2026-09-30T06:58:07.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-01T05:47:41.495Z"
+ },
+ "16f8488b5b855dac299408983d18354a6fd93469": {
+  "id": "16f8488b5b855dac299408983d18354a6fd93469",
+  "source": "adzuna",
+  "external_id": "5898854406",
+  "url": "https://www.adzuna.com/land/ad/5898854406?se=cAN9j1u98RG5M4XNlVuC5w&utm_medium=api&utm_source=53549fa7&v=E8EED2990B5EDA5A52811C93572B259DF6F1C89A",
+  "title": "System Manager Labor Productivity",
+  "company": "CommonSpirit Health",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 257970,
+  "salary_max": 257970,
+  "posted_at": "2026-09-25T19:48:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T05:47:41.495Z"
+ },
+ "b13823cb37214058ca47e7992efe6325024424aa": {
+  "id": "b13823cb37214058ca47e7992efe6325024424aa",
+  "source": "workday:sutterhealth",
+  "external_id": "R-138431",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Senior-Care-PACE_R-138431",
+  "title": "Medical Assistant II, Senior Care PACE",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 55370,
+  "salary_max": 77501,
+  "posted_at": "2026-09-30T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T05:47:41.495Z"
  }
 }
