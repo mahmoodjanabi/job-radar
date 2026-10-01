@@ -1643,5 +1643,131 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-01T05:47:41.495Z"
+ },
+ "26657ba8b5a2b7abe7b66c875d4e9fc7d8a33556": {
+  "id": "26657ba8b5a2b7abe7b66c875d4e9fc7d8a33556",
+  "source": "adzuna",
+  "external_id": "5905476661",
+  "url": "https://www.adzuna.com/land/ad/5905476661?se=MBTfI5m98RGqBJxRE4eXGQ&utm_medium=api&utm_source=53549fa7&v=218BA152CAEB97AC0B53D918A163F7CBE23752E8",
+  "title": "Infrastructure Engineer",
+  "company": "Sutter Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 126225,
+  "salary_max": 126225,
+  "posted_at": "2026-10-01T07:05:37.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T13:08:31.980Z"
+ },
+ "5909179ff3923d109f97dd6fcb9c1f0d51d57dc0": {
+  "id": "5909179ff3923d109f97dd6fcb9c1f0d51d57dc0",
+  "source": "adzuna",
+  "external_id": "5887284766",
+  "url": "https://www.adzuna.com/land/ad/5887284766?se=MBTfI5m98RGqBJxRE4eXGQ&utm_medium=api&utm_source=53549fa7&v=E983FD1D5767F75A5F1EDD88C3C2394E97640E96",
+  "title": "Home Health Nursing Supervisor (Internal Only)",
+  "company": "Mission Healthcare",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 104098,
+  "salary_max": 104098,
+  "posted_at": "2026-09-17T03:03:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T13:08:31.980Z"
+ },
+ "46a588f7dae3d54057fbfe4770c6e24c985882b7": {
+  "id": "46a588f7dae3d54057fbfe4770c6e24c985882b7",
+  "source": "adzuna",
+  "external_id": "5905055971",
+  "url": "https://www.adzuna.com/land/ad/5905055971?se=4uBQJJm98RGJ7d_qm2f-vg&utm_medium=api&utm_source=53549fa7&v=301CDFF3F3F474569A7ED27D5845679765C0B954",
+  "title": "Director, Operations (Government Markets)",
+  "company": "Blue Shield of California",
+  "location": "Kettleman, San Joaquin County",
+  "remote": null,
+  "salary_min": 139456,
+  "salary_max": 139456,
+  "posted_at": "2026-10-01T02:57:28.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T13:08:31.980Z"
+ },
+ "731e76e8417612cef0f110167f78305538fcdb82": {
+  "id": "731e76e8417612cef0f110167f78305538fcdb82",
+  "source": "adzuna",
+  "external_id": "5905056934",
+  "url": "https://www.adzuna.com/land/ad/5905056934?se=0pieJJm98RG_9bVpH_ypjA&utm_medium=api&utm_source=53549fa7&v=A313E08EE298C7D3B8AE1ABF4BE96CE472193A11",
+  "title": "Full Time Occupational Therapist / OT ($15K Sign-On!)",
+  "company": "Mission Healthcare",
+  "location": "Fairfield, Solano County",
+  "remote": null,
+  "salary_min": 132270,
+  "salary_max": 132270,
+  "posted_at": "2026-10-01T02:57:45.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T13:08:31.980Z"
+ },
+ "2203cc9144b20a817d31359011fe9385ac136015": {
+  "id": "2203cc9144b20a817d31359011fe9385ac136015",
+  "source": "adzuna",
+  "external_id": "5905440241",
+  "url": "https://www.adzuna.com/land/ad/5905440241?se=1F_AJZm98RGEYN09jRfcYA&utm_medium=api&utm_source=53549fa7&v=67B75167EC116138C4CF59405AAF8866BE467F8B",
+  "title": "Pharmacy Analyst - Remote/Hybrid",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 71326,
+  "salary_max": 71326,
+  "posted_at": "2026-10-01T06:59:27.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T13:08:31.980Z"
+ },
+ "17a57ee409853006b52b6b1afbbcf5dd77857385": {
+  "id": "17a57ee409853006b52b6b1afbbcf5dd77857385",
+  "source": "adzuna",
+  "external_id": "5905073959",
+  "url": "https://www.adzuna.com/land/ad/5905073959?se=1F_AJZm98RGEYN09jRfcYA&utm_medium=api&utm_source=53549fa7&v=238D4920B25892DE57CFF77FF4C5F5D240B2CFDA",
+  "title": "Electrical Project Manager",
+  "company": "Actalent",
+  "location": "Newtown, El Dorado County",
+  "remote": null,
+  "salary_min": 116339,
+  "salary_max": 116339,
+  "posted_at": "2026-10-01T03:19:16.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T13:08:31.980Z"
+ },
+ "8b81209a31a710ee9e83f36e4a6e79da8501df3b": {
+  "id": "8b81209a31a710ee9e83f36e4a6e79da8501df3b",
+  "source": "adzuna",
+  "external_id": "5891590629",
+  "url": "https://www.adzuna.com/land/ad/5891590629?se=FkzhJpm98RGN2PAwTSpAyQ&utm_medium=api&utm_source=53549fa7&v=26FD53EBE0AE27A98C96AA28F885C146D408F229",
+  "title": "Clinical Application Specialist - Anesthesia & Respiratory Care",
+  "company": "GE HealthCare",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 100998,
+  "salary_max": 100998,
+  "posted_at": "2026-09-20T06:46:37.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T13:08:31.980Z"
  }
 }
