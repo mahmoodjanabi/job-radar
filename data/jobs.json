@@ -1769,5 +1769,77 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-01T13:08:31.980Z"
+ },
+ "60d915a56a3556bda10ce99f853a73eb9fa46156": {
+  "id": "60d915a56a3556bda10ce99f853a73eb9fa46156",
+  "source": "adzuna",
+  "external_id": "5905773133",
+  "url": "https://www.adzuna.com/land/ad/5905773133?se=mEPF5-i98RGwEo47mqVMVw&utm_medium=api&utm_source=53549fa7&v=424387E688F7006F85EFC1221175D2B3048ED46C",
+  "title": "Travel Nurse RN - Pediatric Intensive Care Unit - $3,763 per week in Roseville, CA",
+  "company": "TravelNurseSource",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 0,
+  "salary_max": 195676,
+  "posted_at": "2026-10-01T10:16:42.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T22:39:28.454Z"
+ },
+ "a8a41cf39dce09f458adaf89a7553b196e13da22": {
+  "id": "a8a41cf39dce09f458adaf89a7553b196e13da22",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141659",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Registered-Neurodiagnostic-Technologist-II_R-141659",
+  "title": "Registered Neurodiagnostic Technologist II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 110781,
+  "salary_max": 155085,
+  "posted_at": "2026-10-01T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T22:39:28.454Z"
+ },
+ "9d6be0f360b667d19ac33e5357073e6a1059804e": {
+  "id": "9d6be0f360b667d19ac33e5357073e6a1059804e",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142378",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Anesthesia-Technician-II_R-142378",
+  "title": "Anesthesia Technician II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 83928,
+  "salary_max": 117478,
+  "posted_at": "2026-10-01T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T22:39:28.454Z"
+ },
+ "12e200a8903cb16a6e6ba893c2de506e3bfea817": {
+  "id": "12e200a8903cb16a6e6ba893c2de506e3bfea817",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141792",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Respiratory-Care-Practitioner-II_R-141792-1",
+  "title": "Respiratory Care Practitioner II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 122096,
+  "salary_max": 170914,
+  "posted_at": "2026-10-01T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-01T22:39:28.454Z"
  }
 }
