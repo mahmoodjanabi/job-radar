@@ -1841,5 +1841,149 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-01T22:39:28.454Z"
+ },
+ "46a89d59f71311fa6b524f40db34a1c8678510f8": {
+  "id": "46a89d59f71311fa6b524f40db34a1c8678510f8",
+  "source": "adzuna",
+  "external_id": "5907281480",
+  "url": "https://www.adzuna.com/land/ad/5907281480?se=PG-knyK-8RGwEo47mqVMVw&utm_medium=api&utm_source=53549fa7&v=D21604FE177D79B2798A4A7626D5E65BE2D2C6EB",
+  "title": "Product Manager, Sr. Principal - Oncology",
+  "company": "Blue Shield of California",
+  "location": "El Dorado Hills, El Dorado County",
+  "remote": null,
+  "salary_min": 217873,
+  "salary_max": 217873,
+  "posted_at": "2026-10-02T00:29:16.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-02T05:32:40.875Z"
+ },
+ "5bca759a6e6e78f5773eb202a835d0423b9fdbb8": {
+  "id": "5bca759a6e6e78f5773eb202a835d0423b9fdbb8",
+  "source": "adzuna",
+  "external_id": "5907273006",
+  "url": "https://www.adzuna.com/land/ad/5907273006?se=PG-knyK-8RGwEo47mqVMVw&utm_medium=api&utm_source=53549fa7&v=C1512308A77390C3E665628535780AC80DE48748",
+  "title": "Home Health Branch Director / Administrator (RN)",
+  "company": "Mission Healthcare",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 72807,
+  "salary_max": 72807,
+  "posted_at": "2026-10-02T00:26:30.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-02T05:32:40.875Z"
+ },
+ "839ba6bf2bc9d712ebbb5bf8939df6a0a9daf068": {
+  "id": "839ba6bf2bc9d712ebbb5bf8939df6a0a9daf068",
+  "source": "adzuna",
+  "external_id": "5907272546",
+  "url": "https://www.adzuna.com/land/ad/5907272546?se=PG-knyK-8RGwEo47mqVMVw&utm_medium=api&utm_source=53549fa7&v=144FCF25D7290864C557A6FC0B27BF88C6DF082E",
+  "title": "Manager, Pharmacist",
+  "company": "Blue Shield of California",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 188781,
+  "salary_max": 188781,
+  "posted_at": "2026-10-02T00:26:22.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-02T05:32:40.875Z"
+ },
+ "c97586e5f7d821f02fac3c2f4393b685f9f07219": {
+  "id": "c97586e5f7d821f02fac3c2f4393b685f9f07219",
+  "source": "adzuna",
+  "external_id": "5907222504",
+  "url": "https://www.adzuna.com/land/ad/5907222504?se=PG-knyK-8RGwEo47mqVMVw&utm_medium=api&utm_source=53549fa7&v=4312F3EEE352A94A413CBE4600201C26EE4FD1D9",
+  "title": "Home Health Branch Director / Administrator (RN)",
+  "company": "Mission Healthcare",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 93258,
+  "salary_max": 93258,
+  "posted_at": "2026-10-02T00:01:42.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-02T05:32:40.875Z"
+ },
+ "b7967487cad87fab9c681c6aced261995a524bd2": {
+  "id": "b7967487cad87fab9c681c6aced261995a524bd2",
+  "source": "adzuna",
+  "external_id": "5906830473",
+  "url": "https://www.adzuna.com/land/ad/5906830473?se=PG-knyK-8RGwEo47mqVMVw&utm_medium=api&utm_source=53549fa7&v=7CA61C9501D6F89B45DE04DE3911E0CCC4B3FC31",
+  "title": "Program Manager, Principal (Behavioral Health)",
+  "company": "Blue Shield of California",
+  "location": "El Dorado Hills, El Dorado County",
+  "remote": null,
+  "salary_min": 140152,
+  "salary_max": 140152,
+  "posted_at": "2026-10-01T22:14:35.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-02T05:32:40.875Z"
+ },
+ "4866c9c427086921f1265666430b6131e2fdc733": {
+  "id": "4866c9c427086921f1265666430b6131e2fdc733",
+  "source": "adzuna",
+  "external_id": "5905156484",
+  "url": "https://www.adzuna.com/land/ad/5905156484?se=PG-knyK-8RGwEo47mqVMVw&utm_medium=api&utm_source=53549fa7&v=176FB8B899A2F273B97D89D541E005A1D326F5F9",
+  "title": "Home Health Physical Therapist / PT ($15K Sign-On!)",
+  "company": "Mission Healthcare",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 155448,
+  "salary_max": 155448,
+  "posted_at": "2026-10-01T03:51:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-02T05:32:40.875Z"
+ },
+ "a7123666de3a123aca7d8eef1bcdce60d7bbf1e9": {
+  "id": "a7123666de3a123aca7d8eef1bcdce60d7bbf1e9",
+  "source": "adzuna",
+  "external_id": "5906463824",
+  "url": "https://www.adzuna.com/land/ad/5906463824?se=jGokoiK-8RGUC9w2hMHiQg&utm_medium=api&utm_source=53549fa7&v=69401093E34DFF0D39463C9446E3E40C53F58623",
+  "title": "Director of Operations",
+  "company": "Adventist Health",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 155000,
+  "salary_max": 205000,
+  "posted_at": "2026-10-01T20:35:47.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-02T05:32:40.875Z"
+ },
+ "c55059fff1cfb0a94a41d71943e91ec8133758ed": {
+  "id": "c55059fff1cfb0a94a41d71943e91ec8133758ed",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142436",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Pediatrics_R-142436",
+  "title": "Medical Assistant II, Pediatrics",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-01T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-02T05:32:40.875Z"
  }
 }
