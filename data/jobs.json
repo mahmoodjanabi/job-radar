@@ -2201,5 +2201,59 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-02T22:11:32.668Z"
+ },
+ "29096bd12859a54d5c33ea6fcedb73f8e75e84f0": {
+  "id": "29096bd12859a54d5c33ea6fcedb73f8e75e84f0",
+  "source": "adzuna",
+  "external_id": "5909213867",
+  "url": "https://www.adzuna.com/land/ad/5909213867?se=enTjRum-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=53549fa7&v=671CB680B0DC151DE24E5FB027AE9F1198E1C969",
+  "title": "Operations Specialist, Associate",
+  "company": "Blue Shield of California",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 59158,
+  "salary_max": 59158,
+  "posted_at": "2026-10-02T21:55:18.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-03T05:14:37.904Z"
+ },
+ "2554e35bd88acc58531f339438810fb61ef2777d": {
+  "id": "2554e35bd88acc58531f339438810fb61ef2777d",
+  "source": "adzuna",
+  "external_id": "5908885112",
+  "url": "https://www.adzuna.com/details/5908885112?utm_medium=api&utm_source=53549fa7",
+  "title": "RN - New Grad",
+  "company": "Maxim Healthcare Services",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 75155,
+  "salary_max": 75155,
+  "posted_at": "2026-10-02T18:46:29.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-03T05:14:37.904Z"
+ },
+ "33801243f877dfbda1522e568d0da6b34cd07521": {
+  "id": "33801243f877dfbda1522e568d0da6b34cd07521",
+  "source": "adzuna",
+  "external_id": "5908968003",
+  "url": "https://www.adzuna.com/land/ad/5908968003?se=qkA8R-m-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=53549fa7&v=FEBF59867973193546C536BE4D556650D9814036",
+  "title": "Business Analyst, Senior",
+  "company": "Blue Shield of California",
+  "location": "Kettleman, San Joaquin County",
+  "remote": null,
+  "salary_min": 96952,
+  "salary_max": 96952,
+  "posted_at": "2026-10-02T19:21:30.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-03T05:14:37.904Z"
  }
 }
