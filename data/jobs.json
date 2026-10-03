@@ -2381,5 +2381,59 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-03T16:15:06.702Z"
+ },
+ "9f7cf5099b367319cdfc7ab7ebcc0be18d2d202e": {
+  "id": "9f7cf5099b367319cdfc7ab7ebcc0be18d2d202e",
+  "source": "adzuna",
+  "external_id": "5898614632",
+  "url": "https://www.adzuna.com/land/ad/5898614632?se=vvYJBm-_8RGdRLcUnFY4TA&utm_medium=api&utm_source=53549fa7&v=E3723D1F8A4BCAB22B3C39360D1132CF12FBCDAE",
+  "title": "Project Architect for Healthcare Market",
+  "company": "Taylor Design",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 82521,
+  "salary_max": 82521,
+  "posted_at": "2026-09-25T13:53:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "salary max 82521 < floor"
+  },
+  "first_seen_at": "2026-10-03T21:12:04.977Z"
+ },
+ "05ebfd4f1921b2158d10624dabffbfe1f55678fb": {
+  "id": "05ebfd4f1921b2158d10624dabffbfe1f55678fb",
+  "source": "adzuna",
+  "external_id": "5910530868",
+  "url": "https://www.adzuna.com/land/ad/5910530868?se=5kiUBm-_8RGbv_KnjhFEDQ&utm_medium=api&utm_source=53549fa7&v=B17502618496988FD83663A535239E79361D19C0",
+  "title": "Senior Licensed Professional Clinical Counselor - Telehealth",
+  "company": "Sunny Skies Wellness & Healing Center",
+  "location": "Placerville, El Dorado County",
+  "remote": null,
+  "salary_min": 138120,
+  "salary_max": 138120,
+  "posted_at": "2026-10-03T14:50:18.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-03T21:12:04.977Z"
+ },
+ "37cdc4d5af17f84c66d2c1ee69705e8d36d83426": {
+  "id": "37cdc4d5af17f84c66d2c1ee69705e8d36d83426",
+  "source": "adzuna",
+  "external_id": "5910462425",
+  "url": "https://www.adzuna.com/land/ad/5910462425?se=5kiUBm-_8RGbv_KnjhFEDQ&utm_medium=api&utm_source=53549fa7&v=AB418954EFDA3F38C1013E45A903A3DE63C8C893",
+  "title": "Remote Licensed Clinical Social Worker for School-Based Services",
+  "company": "Pulse Counseling Solutions Ltd",
+  "location": "Elk Grove, Sacramento County",
+  "remote": null,
+  "salary_min": 82993,
+  "salary_max": 82993,
+  "posted_at": "2026-10-03T14:04:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-03T21:12:04.977Z"
  }
 }
