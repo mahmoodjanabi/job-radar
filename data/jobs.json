@@ -2255,5 +2255,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-03T05:14:37.904Z"
+ },
+ "8f7a5c1d2dc2a85d90fe9554f51bb4e396ede85e": {
+  "id": "8f7a5c1d2dc2a85d90fe9554f51bb4e396ede85e",
+  "source": "adzuna",
+  "external_id": "5909459376",
+  "url": "https://www.adzuna.com/land/ad/5909459376?se=7ox7lx6_8RGm0cOaSAjrhA&utm_medium=api&utm_source=53549fa7&v=F27AE67328735C952AA55E5BD7C01FCCB63093B3",
+  "title": "Provider Relations Representative, Senior",
+  "company": "Blue Shield of California",
+  "location": "El Dorado Hills, El Dorado County",
+  "remote": null,
+  "salary_min": 91485,
+  "salary_max": 91485,
+  "posted_at": "2026-10-03T01:13:22.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-03T11:36:11.967Z"
+ },
+ "de9575857f52c236330b40e722425a13ef2b68e6": {
+  "id": "de9575857f52c236330b40e722425a13ef2b68e6",
+  "source": "adzuna",
+  "external_id": "5909842541",
+  "url": "https://www.adzuna.com/land/ad/5909842541?se=wAEpmR6_8RGN96JAzfykhw&utm_medium=api&utm_source=53549fa7&v=D397A67B73FC7256A727E93D66CC5937F478F0E6",
+  "title": "Project Manager, PDC (Sacramento)",
+  "company": "Insight Global",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 98176,
+  "salary_max": 98176,
+  "posted_at": "2026-10-03T07:01:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-03T11:36:11.967Z"
  }
 }
