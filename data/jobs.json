@@ -2291,5 +2291,95 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-10-03T11:36:11.967Z"
+ },
+ "75a42cf651ebf64b3a3f24739f4c73ec02af5c5c": {
+  "id": "75a42cf651ebf64b3a3f24739f4c73ec02af5c5c",
+  "source": "adzuna",
+  "external_id": "5908131411",
+  "url": "https://www.adzuna.com/land/ad/5908131411?se=bHUVjkW_8RGdRLcUnFY4TA&utm_medium=api&utm_source=53549fa7&v=B9F8DBCC6E8ECAD61A59DAC8C73C09F55BBA0B82",
+  "title": "Travel Nurse RN - Pediatric Intensive Care Unit - $3,763 per week in Roseville, CA",
+  "company": "TravelNurseSource",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 0,
+  "salary_max": 195676,
+  "posted_at": "2026-10-02T09:47:22.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-03T16:15:06.702Z"
+ },
+ "14dd6f4405ae52ca72c1c0d6c2b8decd3d20b55a": {
+  "id": "14dd6f4405ae52ca72c1c0d6c2b8decd3d20b55a",
+  "source": "adzuna",
+  "external_id": "5905819408",
+  "url": "https://www.adzuna.com/details/5905819408?utm_medium=api&utm_source=53549fa7",
+  "title": "Assistant Project Manager (Healthcare)",
+  "company": "Cumming Management Group",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 71900,
+  "salary_max": 95900,
+  "posted_at": "2026-10-01T10:51:32.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-03T16:15:06.702Z"
+ },
+ "592d4ee2779fd01e434dbaeabb7e3f6718aef436": {
+  "id": "592d4ee2779fd01e434dbaeabb7e3f6718aef436",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142043",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Transfer---Referral-Specialist-II_R-142043",
+  "title": "Transfer & Referral Specialist II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": true,
+  "salary_min": 58240,
+  "salary_max": 109325,
+  "posted_at": "2026-10-03T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-03T16:15:06.702Z"
+ },
+ "e948f358b0dd454c61b23b838b0b8af209598181": {
+  "id": "e948f358b0dd454c61b23b838b0b8af209598181",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142044",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Transfer---Referral-Specialist-II_R-142044",
+  "title": "Transfer & Referral Specialist II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": true,
+  "salary_min": 58240,
+  "salary_max": 109325,
+  "posted_at": "2026-10-03T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-03T16:15:06.702Z"
+ },
+ "2789b1095f56d2ff93cfce8ef72470c52c5dc801": {
+  "id": "2789b1095f56d2ff93cfce8ef72470c52c5dc801",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142045",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Transfer---Referral-Specialist-II_R-142045",
+  "title": "Transfer & Referral Specialist II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": true,
+  "salary_min": 58240,
+  "salary_max": 109325,
+  "posted_at": "2026-10-03T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-03T16:15:06.702Z"
  }
 }
