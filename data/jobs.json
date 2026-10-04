@@ -2525,5 +2525,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-04T05:48:13.200Z"
+ },
+ "56f70847fd254d128ea59d53ed14813a629053da": {
+  "id": "56f70847fd254d128ea59d53ed14813a629053da",
+  "source": "adzuna",
+  "external_id": "5911398832",
+  "url": "https://www.adzuna.com/land/ad/5911398832?se=Uv8hlu2_8RGAW9jhI71mFw&utm_medium=api&utm_source=53549fa7&v=06A6B00A3F87F7C44C95BFD7ED3B4FB353D16934",
+  "title": "Senior Data Engineer",
+  "company": "Humana",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 130555,
+  "salary_max": 130555,
+  "posted_at": "2026-10-04T07:03:02.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-04T12:17:56.922Z"
+ },
+ "9525f8393925fcaf088ba01f03938102355a3bdd": {
+  "id": "9525f8393925fcaf088ba01f03938102355a3bdd",
+  "source": "adzuna",
+  "external_id": "5911318270",
+  "url": "https://www.adzuna.com/land/ad/5911318270?se=Uv8hlu2_8RGAW9jhI71mFw&utm_medium=api&utm_source=53549fa7&v=A230BAA9183B22BA2F8B39F53CEB759B628EC4AF",
+  "title": "Full-Time Home Care Physical Therapist in Rancho Cordova, CA",
+  "company": "Maximum Wellness PT",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 40573,
+  "salary_max": 40573,
+  "posted_at": "2026-10-04T05:39:28.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-04T12:17:56.922Z"
  }
 }
