@@ -2561,5 +2561,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-04T12:17:56.922Z"
+ },
+ "b1b6efe3325236f6949310bda68cb75d5b68acfa": {
+  "id": "b1b6efe3325236f6949310bda68cb75d5b68acfa",
+  "source": "adzuna",
+  "external_id": "5911570880",
+  "url": "https://www.adzuna.com/land/ad/5911570880?se=htHdbjnA8RG5lrB6gKZvMg&utm_medium=api&utm_source=53549fa7&v=4B15BBC1B816F2B5D0F5A363F3BCB06FFF4AD343",
+  "title": "Travel Nurse RN - Emergency Room (ER) / Trauma - $2,419 per week in Lodi, CA",
+  "company": "TravelNurseSource",
+  "location": "Woodbridge, San Joaquin County",
+  "remote": null,
+  "salary_min": 0,
+  "salary_max": 125788,
+  "posted_at": "2026-10-04T09:45:08.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-04T21:20:54.665Z"
  }
 }
