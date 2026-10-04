@@ -2435,5 +2435,95 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-03T21:12:04.977Z"
+ },
+ "9291f60a4578ac33d86d13107030205ead74b47c": {
+  "id": "9291f60a4578ac33d86d13107030205ead74b47c",
+  "source": "adzuna",
+  "external_id": "5911114457",
+  "url": "https://www.adzuna.com/details/5911114457?utm_medium=api&utm_source=53549fa7",
+  "title": "Travel Nurse RN - Pediatric Intensive Care Unit - $3,763 per week in Roseville, CA",
+  "company": "TravelNurseSource",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 15052,
+  "salary_max": 15052,
+  "posted_at": "2026-10-04T01:14:50.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-04T05:48:13.200Z"
+ },
+ "089c37cfd57a700d77dfb8294d9bd0469c781b68": {
+  "id": "089c37cfd57a700d77dfb8294d9bd0469c781b68",
+  "source": "adzuna",
+  "external_id": "5911114459",
+  "url": "https://www.adzuna.com/details/5911114459?utm_medium=api&utm_source=53549fa7",
+  "title": "Travel Nurse RN - Neonatal Intensive Care Unit - $3,628 per week in Roseville, CA",
+  "company": "TravelNurseSource",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 14512,
+  "salary_max": 14512,
+  "posted_at": "2026-10-04T01:14:50.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-04T05:48:13.200Z"
+ },
+ "caea85afdb818bc6a1b830846f33a1fd30c6082e": {
+  "id": "caea85afdb818bc6a1b830846f33a1fd30c6082e",
+  "source": "adzuna",
+  "external_id": "5910964962",
+  "url": "https://www.adzuna.com/land/ad/5910964962?se=ZvmTJLe_8RGBIfCsPGYzfQ&utm_medium=api&utm_source=53549fa7&v=EC55E7AAD891CE40F36F62B3B6C8AC63543D3628",
+  "title": "Senior Manager, Group Implementations",
+  "company": "Blue Shield of California",
+  "location": "El Dorado Hills, El Dorado County",
+  "remote": null,
+  "salary_min": 122411,
+  "salary_max": 122411,
+  "posted_at": "2026-10-03T23:02:15.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-04T05:48:13.200Z"
+ },
+ "c0ab6f21d1eaa43a132111af9ead20c70d104987": {
+  "id": "c0ab6f21d1eaa43a132111af9ead20c70d104987",
+  "source": "adzuna",
+  "external_id": "5910840439",
+  "url": "https://www.adzuna.com/land/ad/5910840439?se=ZvmTJLe_8RGBIfCsPGYzfQ&utm_medium=api&utm_source=53549fa7&v=17473153A65049EF10D49B7C1D8BE7FB149E82E9",
+  "title": "Information Security Engineer, Principal",
+  "company": "Blue Shield of California",
+  "location": "El Dorado Hills, El Dorado County",
+  "remote": null,
+  "salary_min": 152863,
+  "salary_max": 152863,
+  "posted_at": "2026-10-03T22:01:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-04T05:48:13.200Z"
+ },
+ "8eb1ef3aaa52b883681aeaa9f2dd60b3cdcdbd6f": {
+  "id": "8eb1ef3aaa52b883681aeaa9f2dd60b3cdcdbd6f",
+  "source": "adzuna",
+  "external_id": "5899542630",
+  "url": "https://www.adzuna.com/land/ad/5899542630?se=sEdFJre_8RGV3bqQK8NPmA&utm_medium=api&utm_source=53549fa7&v=DE937978C10DDD03B9AE5791B6C85C9DBCF50F3B",
+  "title": "System Manager Labor Productivity",
+  "company": "CommonSpirit Health",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 250738,
+  "salary_max": 250738,
+  "posted_at": "2026-09-26T06:46:05.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-04T05:48:13.200Z"
  }
 }
