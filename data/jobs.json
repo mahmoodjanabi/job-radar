@@ -2579,5 +2579,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-04T21:20:54.665Z"
+ },
+ "020f5fa0ae7c68eb39789f147e181f0671f6581c": {
+  "id": "020f5fa0ae7c68eb39789f147e181f0671f6581c",
+  "source": "adzuna",
+  "external_id": "5909416142",
+  "url": "https://www.adzuna.com/land/ad/5909416142?se=2HcVaH7A8RGSJ7pG1rFmvw&utm_medium=api&utm_source=53549fa7&v=6D955A5926D26A395EA437CFFD820201826FCB22",
+  "title": "Electrical Project Manager",
+  "company": "Actalent",
+  "location": "Newtown, El Dorado County",
+  "remote": null,
+  "salary_min": 115723,
+  "salary_max": 115723,
+  "posted_at": "2026-10-03T00:45:05.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-05T05:34:35.723Z"
  }
 }
