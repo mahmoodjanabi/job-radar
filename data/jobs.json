@@ -2597,5 +2597,125 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-05T05:34:35.723Z"
+ },
+ "aaa7d4132335f410f7586857b6c7827fe15b905d": {
+  "id": "aaa7d4132335f410f7586857b6c7827fe15b905d",
+  "source": "adzuna",
+  "external_id": "5912409136",
+  "url": "https://www.adzuna.com/land/ad/5912409136?se=VqSAYcnA8RGG747TTDN8rQ&utm_medium=api&utm_source=53549fa7&v=DF4304E6D5E9E1666F053BBED4BABE392C9C0FED",
+  "title": "Therapy Development Representative",
+  "company": "Medtronic",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 102558,
+  "salary_max": 102558,
+  "posted_at": "2026-10-05T07:09:48.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-05T14:31:28.360Z"
+ },
+ "a464ba3cdb8bece20eb4e81db3be7ddb5b58cd03": {
+  "id": "a464ba3cdb8bece20eb4e81db3be7ddb5b58cd03",
+  "source": "adzuna",
+  "external_id": "5912406408",
+  "url": "https://www.adzuna.com/land/ad/5912406408?se=VqSAYcnA8RGG747TTDN8rQ&utm_medium=api&utm_source=53549fa7&v=38E35D336F46916024725BE7D328052670EC34E9",
+  "title": "RN - New Grad",
+  "company": "Maxim Healthcare",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 74893,
+  "salary_max": 74893,
+  "posted_at": "2026-10-05T07:09:03.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-05T14:31:28.360Z"
+ },
+ "4f43c52336985061e39e69cebaf0ccbc36fadafd": {
+  "id": "4f43c52336985061e39e69cebaf0ccbc36fadafd",
+  "source": "adzuna",
+  "external_id": "5912402394",
+  "url": "https://www.adzuna.com/land/ad/5912402394?se=VqSAYcnA8RGG747TTDN8rQ&utm_medium=api&utm_source=53549fa7&v=D81692B1B3BB1892AF1547EE63C40C1EBE1A2062",
+  "title": "Humana Healthcare Research Fall 2026 Internship",
+  "company": "Humana",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 75085,
+  "salary_max": 75085,
+  "posted_at": "2026-10-05T07:07:46.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-05T14:31:28.360Z"
+ },
+ "3506e10113ad4c283874aa43c998d83dfd235991": {
+  "id": "3506e10113ad4c283874aa43c998d83dfd235991",
+  "source": "adzuna",
+  "external_id": "5912545492",
+  "url": "https://www.adzuna.com/land/ad/5912545492?se=fIDnYcnA8RGG747TTDN8rQ&utm_medium=api&utm_source=53549fa7&v=B3FF660D255588015980919D3EFE2AA04F59AB52",
+  "title": "Travel Nurse RN - Medical-Surgical - $2,311 per week in Lodi, CA",
+  "company": "TravelNurseSource",
+  "location": "Woodbridge, San Joaquin County",
+  "remote": null,
+  "salary_min": 0,
+  "salary_max": 120172,
+  "posted_at": "2026-10-05T09:45:27.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-05T14:31:28.360Z"
+ },
+ "28fc13cd600cd4c671f83f4be40dc4211eeb0177": {
+  "id": "28fc13cd600cd4c671f83f4be40dc4211eeb0177",
+  "source": "adzuna",
+  "external_id": "5912201379",
+  "url": "https://www.adzuna.com/land/ad/5912201379?se=ZkZZY8nA8RGG747TTDN8rQ&utm_medium=api&utm_source=53549fa7&v=446406650956BE2F56F1C1D09A0E719D0F94896B",
+  "title": "HCAI Project Engineer",
+  "company": "RimePro Inc",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 87183,
+  "salary_max": 87183,
+  "posted_at": "2026-10-05T01:31:54.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-05T14:31:28.360Z"
+ },
+ "d95ea2527b13ad0845591d57214810d94500e1bd": {
+  "id": "d95ea2527b13ad0845591d57214810d94500e1bd",
+  "source": "adzuna",
+  "external_id": "5912409124",
+  "url": "https://www.adzuna.com/land/ad/5912409124?se=VqSAYcnA8RGG747TTDN8rQ&utm_medium=api&utm_source=53549fa7&v=3B2FA0D18CFE5D31A2C713FF97CF2296B2ACE1DB",
+  "title": "Vascular Senior Clinical Specialist - Sacramento",
+  "company": "Medtronic",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 121606,
+  "salary_max": 121606,
+  "posted_at": "2026-10-05T07:09:48.000Z",
+  "score": 15,
+  "verdict": {
+   "role_fit": "excluded",
+   "work_mode": "remote",
+   "location_ok": true,
+   "salary_ok": true,
+   "salary_note": "121606 - 121606",
+   "seniority": "senior",
+   "score": 15,
+   "summary": "Vascular clinical specialist role at Medtronic—excluded as a bedside/clinical care role focused on patient treatment rather than healthcare planning or facility design.",
+   "concerns": [
+    "clinical care focus, not planning/design",
+    "bedside/patient-facing role",
+    "vendor sales training likely component"
+   ]
+  },
+  "first_seen_at": "2026-10-05T14:31:28.360Z"
  }
 }
