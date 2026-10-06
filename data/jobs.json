@@ -2789,5 +2789,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-06T00:02:21.477Z"
+ },
+ "01165ba951caa34d96b806e817e6a961bc2bfcee": {
+  "id": "01165ba951caa34d96b806e817e6a961bc2bfcee",
+  "source": "adzuna",
+  "external_id": "5902466012",
+  "url": "https://www.adzuna.com/land/ad/5902466012?se=NDREZU3B8RGpcqAIQXZuOg&utm_medium=api&utm_source=53549fa7&v=D7B12001BD115746D107B331F591CF6EE23EE930",
+  "title": "Physiatrist/Medical Doctor",
+  "company": "Jackson Therapy Partners",
+  "location": "Galt, Sacramento County",
+  "remote": null,
+  "salary_min": 146802,
+  "salary_max": 146802,
+  "posted_at": "2026-09-28T23:36:30.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-06T06:16:18.413Z"
+ },
+ "09bd6b4f8cf808ee526661b7a0826c860d05ddb9": {
+  "id": "09bd6b4f8cf808ee526661b7a0826c860d05ddb9",
+  "source": "adzuna",
+  "external_id": "5912411527",
+  "url": "https://www.adzuna.com/land/ad/5912411527?se=AOOPZ03B8RGfbvcvGdXzeQ&utm_medium=api&utm_source=53549fa7&v=DAE446694D95D34818BA276BF1D998A694BEDA9B",
+  "title": "Oracle Health Consulting Technical Project Manager",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 135237,
+  "salary_max": 135237,
+  "posted_at": "2026-10-05T07:10:27.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-06T06:16:18.413Z"
  }
 }
