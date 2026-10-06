@@ -2843,5 +2843,77 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-06T13:20:43.193Z"
+ },
+ "1ec46e629d6fc321c5d1a9b9d409c6d2d6cca80c": {
+  "id": "1ec46e629d6fc321c5d1a9b9d409c6d2d6cca80c",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142713",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Benefits-Operations-Specialist--Senior-Care-PACE_R-142713",
+  "title": "Benefits Operations Specialist, Senior Care PACE",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 61402,
+  "salary_max": 85966,
+  "posted_at": "2026-10-06T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-06T22:38:41.768Z"
+ },
+ "bf977d9e57ddac5fff4bc1d272149ff539c9fe41": {
+  "id": "bf977d9e57ddac5fff4bc1d272149ff539c9fe41",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142609",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Associate-Chief-Nursing-Executive_R-142609-1",
+  "title": "Associate Chief Nursing Executive",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 266323,
+  "salary_max": 426129,
+  "posted_at": "2026-10-06T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-06T22:38:41.768Z"
+ },
+ "682c852224abe03da2978dd7be31985c05d4ff4c": {
+  "id": "682c852224abe03da2978dd7be31985c05d4ff4c",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142041",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Transfer---Referral-Specialist-II_R-142041",
+  "title": "Transfer & Referral Specialist II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": true,
+  "salary_min": 58240,
+  "salary_max": 109325,
+  "posted_at": "2026-10-06T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-06T22:38:41.768Z"
+ },
+ "646f322af93a7930391d32430ded58ad9be3a0cb": {
+  "id": "646f322af93a7930391d32430ded58ad9be3a0cb",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142042",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Transfer---Referral-Specialist-II_R-142042",
+  "title": "Transfer & Referral Specialist II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": true,
+  "salary_min": 58240,
+  "salary_max": 109325,
+  "posted_at": "2026-10-06T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-06T22:38:41.768Z"
  }
 }
