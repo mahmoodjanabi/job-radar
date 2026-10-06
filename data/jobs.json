@@ -2717,5 +2717,77 @@
    ]
   },
   "first_seen_at": "2026-10-05T14:31:28.360Z"
+ },
+ "98e6c905be3869de6fdf4b76a8512f69918cd77b": {
+  "id": "98e6c905be3869de6fdf4b76a8512f69918cd77b",
+  "source": "adzuna",
+  "external_id": "5912829579",
+  "url": "https://www.adzuna.com/land/ad/5912829579?se=yHqsGhnB8RGpcqAIQXZuOg&utm_medium=api&utm_source=53549fa7&v=0FDEE4F9A201471B96DD422B41856D8AD5E0E869",
+  "title": "Electrical Designer - Healthcare",
+  "company": "Harley Ellis Devereaux",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 120898,
+  "salary_max": 120898,
+  "posted_at": "2026-10-05T13:38:33.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-06T00:02:21.477Z"
+ },
+ "1faeb847551f50474e03e8f66e510f5654b19381": {
+  "id": "1faeb847551f50474e03e8f66e510f5654b19381",
+  "source": "adzuna",
+  "external_id": "5912767528",
+  "url": "https://www.adzuna.com/details/5912767528?utm_medium=api&utm_source=53549fa7",
+  "title": "NP / Cardiology - Interventional / California / Locum tenens / Locums NP-Interventional Cardiology Job in Arkansas Job",
+  "company": "Hayman Daugherty Associates, Inc",
+  "location": "Union Hill, Nevada County",
+  "remote": null,
+  "salary_min": 246436,
+  "salary_max": 246436,
+  "posted_at": "2026-10-05T13:07:42.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-06T00:02:21.477Z"
+ },
+ "18a18405f5726e69cead34684dc63232805e35fd": {
+  "id": "18a18405f5726e69cead34684dc63232805e35fd",
+  "source": "workday:sutterhealth",
+  "external_id": "R-122046",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Nursing-Assistant--Senior-Care--PACE_R-122046-1",
+  "title": "Nursing Assistant, Senior Care, PACE",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 54350,
+  "salary_max": 76086,
+  "posted_at": "2026-10-05T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-06T00:02:21.477Z"
+ },
+ "797333999bea2b3037190f61ac63217ff2bff6ba": {
+  "id": "797333999bea2b3037190f61ac63217ff2bff6ba",
+  "source": "workday:philips",
+  "external_id": "591765",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/San-Bernardino-California-United-States/Biomedical-Equipment-Technician---Loma-Linda--CA_591765",
+  "title": "Biomedical Equipment Technician - Loma Linda, CA",
+  "company": "Philips",
+  "location": "San Bernardino, California, United States",
+  "remote": null,
+  "salary_min": 25000,
+  "salary_max": 39000,
+  "posted_at": "2026-10-05T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-06T00:02:21.477Z"
  }
 }
