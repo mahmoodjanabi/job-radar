@@ -3437,5 +3437,131 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "3aeea2810d27a61dfd69cf578f16262b9011f33e": {
+  "id": "3aeea2810d27a61dfd69cf578f16262b9011f33e",
+  "source": "adzuna",
+  "external_id": "5916864281",
+  "url": "https://www.adzuna.com/land/ad/5916864281?se=6IE8YVHC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=53549fa7&v=82E48525F8488C364C6EB46568A1213781D025BF",
+  "title": "Senior Platform Architect",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 169390,
+  "salary_max": 169390,
+  "posted_at": "2026-10-07T07:06:56.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T13:17:37.863Z"
+ },
+ "c533a6b92fda32e1f4876e90c059afef34d8c38d": {
+  "id": "c533a6b92fda32e1f4876e90c059afef34d8c38d",
+  "source": "adzuna",
+  "external_id": "5916021975",
+  "url": "https://www.adzuna.com/land/ad/5916021975?se=6IE8YVHC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=53549fa7&v=F315FBF26C0B48A2A66B8110F209B8B8ECBD869B",
+  "title": "Project Architect for Healthcare Market",
+  "company": "Taylor Design",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 103134,
+  "salary_max": 103134,
+  "posted_at": "2026-10-07T02:25:43.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Florin, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T13:17:37.863Z"
+ },
+ "5d81ac3a69f576a9ff25da2f9bccf3f885e020e4": {
+  "id": "5d81ac3a69f576a9ff25da2f9bccf3f885e020e4",
+  "source": "adzuna",
+  "external_id": "5917068131",
+  "url": "https://www.adzuna.com/land/ad/5917068131?se=yqiTZVHC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=53549fa7&v=7651ACC451C6BB7B68DC1EBAA2D39D9665A82517",
+  "title": "Electrical Designer - Healthcare",
+  "company": "Harley Ellis Devereaux",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 151098,
+  "salary_max": 151098,
+  "posted_at": "2026-10-07T08:41:02.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Florin, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T13:17:37.863Z"
+ },
+ "fe8642af821b89d21a6772e8b5e1cd6bef04291a": {
+  "id": "fe8642af821b89d21a6772e8b5e1cd6bef04291a",
+  "source": "adzuna",
+  "external_id": "5916841533",
+  "url": "https://www.adzuna.com/land/ad/5916841533?se=yqiTZVHC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=53549fa7&v=96385B4372EC14B8DEB7F3A17E97B6521085023F",
+  "title": "Electrical Designer - Healthcare",
+  "company": "Harley Ellis Devereaux",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 117963,
+  "salary_max": 117963,
+  "posted_at": "2026-10-07T07:03:35.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T13:17:37.863Z"
+ },
+ "1b1a12ef909b7c2e2225483f8a3eccb3eb49c865": {
+  "id": "1b1a12ef909b7c2e2225483f8a3eccb3eb49c865",
+  "source": "adzuna",
+  "external_id": "5916712949",
+  "url": "https://www.adzuna.com/land/ad/5916712949?se=yqiTZVHC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=53549fa7&v=E6183BB176D14CEB8E973061F2656461E0BBB6D8",
+  "title": "Full-Time Licensed Clinical Social Worker (LCSW) – Remote Opportunity with Talkspace Psychotherapy Services",
+  "company": "Talkspace Psychotherapy Services",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 90000,
+  "salary_max": 100000,
+  "posted_at": "2026-10-07T05:44:58.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T13:17:37.863Z"
+ },
+ "5f73519497c6517b6bf68de5f35ecbba4ab34259": {
+  "id": "5f73519497c6517b6bf68de5f35ecbba4ab34259",
+  "source": "adzuna",
+  "external_id": "5916060532",
+  "url": "https://www.adzuna.com/land/ad/5916060532?se=yqiTZVHC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=53549fa7&v=1DD3463FA5825B50B9B356662DFB79256BE93640",
+  "title": "Sr Project Manager - Healthcare Construction",
+  "company": "Turner & Townsend",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 217890,
+  "salary_max": 217890,
+  "posted_at": "2026-10-07T02:30:29.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Florin, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T13:17:37.863Z"
+ },
+ "9555c09c2ca61a81b159fd8be7d26e4d9cec30e5": {
+  "id": "9555c09c2ca61a81b159fd8be7d26e4d9cec30e5",
+  "source": "adzuna",
+  "external_id": "5901497730",
+  "url": "https://www.adzuna.com/land/ad/5901497730?se=_DFLcFHC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=53549fa7&v=DD025825430056867FCF73A59D98F660389D67C8",
+  "title": "Lead Project Manager",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 127128,
+  "salary_max": 127128,
+  "posted_at": "2026-09-28T06:54:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T13:17:37.863Z"
  }
 }
