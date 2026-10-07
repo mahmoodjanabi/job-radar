@@ -3563,5 +3563,185 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-07T13:17:37.863Z"
+ },
+ "dc0feed924c6b2fbbe1ab243412dbe56b8af452d": {
+  "id": "dc0feed924c6b2fbbe1ab243412dbe56b8af452d",
+  "source": "adzuna",
+  "external_id": "5917517505",
+  "url": "https://www.adzuna.com/land/ad/5917517505?se=lklYRqPC8RG_dfJx5Ytquw&utm_medium=api&utm_source=53549fa7&v=EC028029A37882C56B99C74394A9F9EC3ADEFFD8",
+  "title": "Facets Architect _ Healthcare Payer - Sacramento, CA (Hybrid)",
+  "company": "Lorven Technologies, Inc.",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 110106,
+  "salary_max": 110106,
+  "posted_at": "2026-10-07T14:11:50.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Florin, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T23:03:47.734Z"
+ },
+ "f2a3f033715867a50e5d26d59d7e3f9209e1aaf5": {
+  "id": "f2a3f033715867a50e5d26d59d7e3f9209e1aaf5",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142872",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Shared-Staff---Blood---Marrow-Transplant_R-142872-1",
+  "title": "Medical Assistant II, Shared Staff / Blood & Marrow Transplant",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-07T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T23:03:47.734Z"
+ },
+ "ed48d419e7c346400c419caf9f993d39754f2551": {
+  "id": "ed48d419e7c346400c419caf9f993d39754f2551",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143015",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Rheumatology_R-143015",
+  "title": "Medical Assistant II, Rheumatology",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-07T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T23:03:47.734Z"
+ },
+ "8ec4ed908c527bcf7862102e8424bdd770b92668": {
+  "id": "8ec4ed908c527bcf7862102e8424bdd770b92668",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142058",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Anesthesia-Technician_R-142058",
+  "title": "Anesthesia Technician",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 75213,
+  "salary_max": 91728,
+  "posted_at": "2026-10-07T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T23:03:47.734Z"
+ },
+ "3abdb76fdb0d446c4fd3368ee6ade19e5a92726c": {
+  "id": "3abdb76fdb0d446c4fd3368ee6ade19e5a92726c",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142060",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Cardiac-Sonographer-Lead_R-142060",
+  "title": "Cardiac Sonographer Lead",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 153026,
+  "salary_max": 186534,
+  "posted_at": "2026-10-07T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T23:03:47.734Z"
+ },
+ "5bab850cc5b4bf048197bee5e46e22602008b37a": {
+  "id": "5bab850cc5b4bf048197bee5e46e22602008b37a",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142735",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Nursing-Assistant_R-142735-1",
+  "title": "Nursing Assistant",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 54600,
+  "salary_max": 76419,
+  "posted_at": "2026-10-07T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T23:03:47.734Z"
+ },
+ "54ed22af55bcb5c014ce6a609f56afb94f5835e5": {
+  "id": "54ed22af55bcb5c014ce6a609f56afb94f5835e5",
+  "source": "workday:sutterhealth",
+  "external_id": "R-139065",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Assistant-II--Family-Medicine_R-139065",
+  "title": "Medical Assistant II, Family Medicine",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-07T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T23:03:47.734Z"
+ },
+ "9003becf8b217ee3d9d4a1193515de9967650849": {
+  "id": "9003becf8b217ee3d9d4a1193515de9967650849",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142959",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Folsom/Occupational-Therapy-Clinical-Specialist--Certified-Hand-Therapist_R-142959",
+  "title": "Occupational Therapy Clinical Specialist, Certified Hand Therapist",
+  "company": "Sutter Health",
+  "location": "Folsom",
+  "remote": null,
+  "salary_min": 134638,
+  "salary_max": 188489,
+  "posted_at": "2026-10-07T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Folsom\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T23:03:47.734Z"
+ },
+ "9546fc1a48316e6d4033d988ccdd080aa1d6ef5b": {
+  "id": "9546fc1a48316e6d4033d988ccdd080aa1d6ef5b",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142642",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Clinical-Nurse-Specialist--Neonatal-ICU_R-142642",
+  "title": "Clinical Nurse Specialist, Neonatal ICU",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 112020,
+  "salary_max": 156823,
+  "posted_at": "2026-10-07T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T23:03:47.734Z"
+ },
+ "4458f17d903fd3e2b352af485d0abd6cdf057582": {
+  "id": "4458f17d903fd3e2b352af485d0abd6cdf057582",
+  "source": "workday:philips",
+  "external_id": "558279",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/San-Diego-California-United-States/R-D-Fellow--Systems-Engineering--Intravascular-Ultrasound-Products--San-Diego--CA-_558279",
+  "title": "Director / Technical Program Leader - Intravascular Ultrasound (IVUS) Systems (San Diego, CA)",
+  "company": "Philips",
+  "location": "San Diego, California, United States",
+  "remote": null,
+  "salary_min": 178000,
+  "salary_max": 285000,
+  "posted_at": "2026-10-07T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T23:03:47.734Z"
  }
 }
