@@ -2915,5 +2915,527 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-06T22:38:41.768Z"
+ },
+ "52401ca09771af0e44f46cd77e6ea686e6f22d97": {
+  "id": "52401ca09771af0e44f46cd77e6ea686e6f22d97",
+  "source": "adzuna",
+  "external_id": "5915454780",
+  "url": "https://www.adzuna.com/land/ad/5915454780?se=pLiCiRPC8RGnkIgTGo-APw&utm_medium=api&utm_source=53549fa7&v=C7B8D9D5AF04000936FCBB3F1939435FA36D62B7",
+  "title": "Buyer/Material Planner",
+  "company": "Jobscast",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 46883,
+  "salary_max": 46883,
+  "posted_at": "2026-10-07T00:41:24.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "salary max 46883 < floor"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "e4677a42c0e057f81f4b79deef0e00cbd8fe8957": {
+  "id": "e4677a42c0e057f81f4b79deef0e00cbd8fe8957",
+  "source": "adzuna",
+  "external_id": "5915616298",
+  "url": "https://www.adzuna.com/land/ad/5915616298?se=tlitiRPC8RGnkIgTGo-APw&utm_medium=api&utm_source=53549fa7&v=CEB2EB94D4F1A51D1400FD7AAA7C9A4A1BA8FA8E",
+  "title": "Senior Architect",
+  "company": "Department of Health Care Access and Information",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 102609,
+  "salary_max": 102609,
+  "posted_at": "2026-10-07T01:31:31.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "09ca5ce3b852a6b07ea5fdef480f7beeea2040db": {
+  "id": "09ca5ce3b852a6b07ea5fdef480f7beeea2040db",
+  "source": "adzuna",
+  "external_id": "5915377880",
+  "url": "https://www.adzuna.com/land/ad/5915377880?se=tlitiRPC8RGnkIgTGo-APw&utm_medium=api&utm_source=53549fa7&v=34133928C29C231B2F7A7259A83DEBFC07355208",
+  "title": "Senior Architect (Field)",
+  "company": "Department of Health Care Access and Information",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 137186,
+  "salary_max": 137186,
+  "posted_at": "2026-10-07T00:14:26.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Florin, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "7b6d3aea9fd74dedbfbfcda8b6d24481f43c3ebd": {
+  "id": "7b6d3aea9fd74dedbfbfcda8b6d24481f43c3ebd",
+  "source": "adzuna",
+  "external_id": "5915294285",
+  "url": "https://www.adzuna.com/land/ad/5915294285?se=tlitiRPC8RGnkIgTGo-APw&utm_medium=api&utm_source=53549fa7&v=EF0DF38955B3FADF0A0CE17BB1C5A2E6EB69B9AA",
+  "title": "Senior Architect",
+  "company": "Department of Health Care Access and Information",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 131431,
+  "salary_max": 131431,
+  "posted_at": "2026-10-06T23:40:04.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Florin, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "ef9b425d3f4c888c7361ecb039e827a167daa354": {
+  "id": "ef9b425d3f4c888c7361ecb039e827a167daa354",
+  "source": "adzuna",
+  "external_id": "5915012018",
+  "url": "https://www.adzuna.com/land/ad/5915012018?se=tlitiRPC8RGnkIgTGo-APw&utm_medium=api&utm_source=53549fa7&v=CA8EC69E87C36FF1AEDBD8100E99B82BD27188FC",
+  "title": "Senior Architect (Field)",
+  "company": "Department of Health Care Access and Information",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 107103,
+  "salary_max": 107103,
+  "posted_at": "2026-10-06T22:21:22.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "031ad0ba807bfe1e0d7261f608efb0a514613bd6": {
+  "id": "031ad0ba807bfe1e0d7261f608efb0a514613bd6",
+  "source": "adzuna",
+  "external_id": "5914683807",
+  "url": "https://www.adzuna.com/land/ad/5914683807?se=tlitiRPC8RGnkIgTGo-APw&utm_medium=api&utm_source=53549fa7&v=5F2DC18B4F5ECBA271D9838DB975975184806619",
+  "title": "Project Architect for Healthcare Market",
+  "company": "Taylor Design",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 80518,
+  "salary_max": 80518,
+  "posted_at": "2026-10-06T21:09:39.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "salary max 80518 < floor"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "27533864dcef3ce86dbfe77b09809c9a81a56b5d": {
+  "id": "27533864dcef3ce86dbfe77b09809c9a81a56b5d",
+  "source": "adzuna",
+  "external_id": "5914516887",
+  "url": "https://www.adzuna.com/land/ad/5914516887?se=tlitiRPC8RGnkIgTGo-APw&utm_medium=api&utm_source=53549fa7&v=889C5CAE90FCC3C714E6C6F44B0FEE28DAE285FD",
+  "title": "Architect (All Levels)",
+  "company": "Lionakis",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 94285,
+  "salary_max": 94285,
+  "posted_at": "2026-10-06T20:32:57.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "f08a2bbbd196d315db06c31d34e12db079e33015": {
+  "id": "f08a2bbbd196d315db06c31d34e12db079e33015",
+  "source": "adzuna",
+  "external_id": "5914368120",
+  "url": "https://www.adzuna.com/land/ad/5914368120?se=tlitiRPC8RGnkIgTGo-APw&utm_medium=api&utm_source=53549fa7&v=4DEEBA0E6A99B65A885D2EE1100EC8A8A9B5716F",
+  "title": "Project Architect with Healthcare",
+  "company": "Bancroft Staffing Partners",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 81874,
+  "salary_max": 81874,
+  "posted_at": "2026-10-06T19:20:33.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "salary max 81874 < floor"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "29c11898642753828c10497b723be18d41460cfa": {
+  "id": "29c11898642753828c10497b723be18d41460cfa",
+  "source": "adzuna",
+  "external_id": "5914368007",
+  "url": "https://www.adzuna.com/land/ad/5914368007?se=tlitiRPC8RGnkIgTGo-APw&utm_medium=api&utm_source=53549fa7&v=E8ECBAA8C979773463EBDA3E995D5FAE39606D6F",
+  "title": "Project Architect - Healthcare (HCAi / OSHPD)",
+  "company": "Bancroft Staffing Partners",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 81121,
+  "salary_max": 81121,
+  "posted_at": "2026-10-06T19:20:32.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "salary max 81121 < floor"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "a780e999631d5d4c28a866e563e0b32a493fc2ab": {
+  "id": "a780e999631d5d4c28a866e563e0b32a493fc2ab",
+  "source": "adzuna",
+  "external_id": "5915450746",
+  "url": "https://www.adzuna.com/land/ad/5915450746?se=xjW1ihPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=748DFBF5518D7F7B8E18E91C7FAD103FD0503C46",
+  "title": "Assistant Health Services Administrator - ((RN License Required))",
+  "company": "CHP Health",
+  "location": "Auburn, Placer County",
+  "remote": null,
+  "salary_min": 60300,
+  "salary_max": 60300,
+  "posted_at": "2026-10-07T00:40:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "9786e6617737f4a611f3039b5d6368faa5240017": {
+  "id": "9786e6617737f4a611f3039b5d6368faa5240017",
+  "source": "adzuna",
+  "external_id": "5915450372",
+  "url": "https://www.adzuna.com/land/ad/5915450372?se=xjW1ihPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=E6686ED90994956E3116656CEEC99D39ADAFD902",
+  "title": "Sr Project Manager - Healthcare Construction",
+  "company": "Turner & Townsend",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 170109,
+  "salary_max": 170109,
+  "posted_at": "2026-10-07T00:40:38.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "e1004ccf77ceaa27f72741fd8859408201b91d15": {
+  "id": "e1004ccf77ceaa27f72741fd8859408201b91d15",
+  "source": "adzuna",
+  "external_id": "5915393191",
+  "url": "https://www.adzuna.com/land/ad/5915393191?se=xjW1ihPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=D1AD6A3A174C84EC21EACA0CED211C34CD5601CF",
+  "title": "HVAC Engineer (midlevel)",
+  "company": "GrowthWise Search Partners",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 90459,
+  "salary_max": 90459,
+  "posted_at": "2026-10-07T00:16:32.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "c6e77dc45a6fc3f0ff8d5563550e171aeb174e2a": {
+  "id": "c6e77dc45a6fc3f0ff8d5563550e171aeb174e2a",
+  "source": "adzuna",
+  "external_id": "5914500911",
+  "url": "https://www.adzuna.com/land/ad/5914500911?se=xjW1ihPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=060DAE1089460317CF5706DD7DA6F5C0B10B093D",
+  "title": "Mechanical Engineer HVAC Plumbing",
+  "company": "GrowthWise Search Partners",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 96351,
+  "salary_max": 96351,
+  "posted_at": "2026-10-06T20:29:34.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "6bfe666db0164af316e10fa25bb68ad004b8794b": {
+  "id": "6bfe666db0164af316e10fa25bb68ad004b8794b",
+  "source": "adzuna",
+  "external_id": "5898588351",
+  "url": "https://www.adzuna.com/details/5898588351?utm_medium=api&utm_source=53549fa7",
+  "title": "Physical Therapist - Outpatient",
+  "company": "CommonSpirit Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 103438,
+  "salary_max": 103438,
+  "posted_at": "2026-09-25T13:00:07.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "b9f2aa6539b5d72044121c57c2fcc6b75f6c4f0a": {
+  "id": "b9f2aa6539b5d72044121c57c2fcc6b75f6c4f0a",
+  "source": "adzuna",
+  "external_id": "5915447661",
+  "url": "https://www.adzuna.com/land/ad/5915447661?se=gixBjRPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=4D5CA17B5D1580A537365B5B1268C13DE3DCC92E",
+  "title": "Cost Estimator",
+  "company": "Essel",
+  "location": "Folsom, Sacramento County",
+  "remote": null,
+  "salary_min": 120692,
+  "salary_max": 120692,
+  "posted_at": "2026-10-07T00:40:06.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "9b1d0ab5bdae77ec9fcfd6600b6ef477f0acfb6c": {
+  "id": "9b1d0ab5bdae77ec9fcfd6600b6ef477f0acfb6c",
+  "source": "adzuna",
+  "external_id": "5915209854",
+  "url": "https://www.adzuna.com/land/ad/5915209854?se=gixBjRPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=CF72DE7806115F7D1F4521C69469794733648A9A",
+  "title": "Commercial Construction Project Manager - Healthcare",
+  "company": "D'Ville Construction Inc.",
+  "location": "Nevada City, Nevada County",
+  "remote": null,
+  "salary_min": 151612,
+  "salary_max": 151612,
+  "posted_at": "2026-10-06T23:08:09.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Nevada City, Nevada County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "a63be27e36e4496aebb385a76164d37ebf4fc4ff": {
+  "id": "a63be27e36e4496aebb385a76164d37ebf4fc4ff",
+  "source": "adzuna",
+  "external_id": "5915188834",
+  "url": "https://www.adzuna.com/land/ad/5915188834?se=gixBjRPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=4B214A5B1CF27A39C4426556ACBC735526C84DE9",
+  "title": "Healthcare Project Engineer",
+  "company": "Essel",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 92898,
+  "salary_max": 92898,
+  "posted_at": "2026-10-06T23:05:03.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "886ed87225e385866f4c81c25f14425055ba1c2b": {
+  "id": "886ed87225e385866f4c81c25f14425055ba1c2b",
+  "source": "adzuna",
+  "external_id": "5915168215",
+  "url": "https://www.adzuna.com/land/ad/5915168215?se=gixBjRPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=F2A03E983B5EA54D844FE5422E13AE1F98BB876F",
+  "title": "Project Coordinator",
+  "company": "SitelogIQ",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 63335,
+  "salary_max": 63335,
+  "posted_at": "2026-10-06T23:02:49.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "697e1f45592a40cb485f819a23f07f85d25c5812": {
+  "id": "697e1f45592a40cb485f819a23f07f85d25c5812",
+  "source": "adzuna",
+  "external_id": "5915126473",
+  "url": "https://www.adzuna.com/land/ad/5915126473?se=gixBjRPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=4DD8A45EA35A6960BC8023A733469691E140902B",
+  "title": "Healthcare Project Engineer",
+  "company": "Essel",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 118992,
+  "salary_max": 118992,
+  "posted_at": "2026-10-06T22:53:09.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "eedc226e08294a560a0f4e3060ad39771f4a5ac6": {
+  "id": "eedc226e08294a560a0f4e3060ad39771f4a5ac6",
+  "source": "adzuna",
+  "external_id": "5914982969",
+  "url": "https://www.adzuna.com/land/ad/5914982969?se=gixBjRPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=BCC0B40507772A0301BD0A61CED10DE29836AE9C",
+  "title": "Construction Project Manager (Healthcare / Medical)",
+  "company": "Essel",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 182413,
+  "salary_max": 182413,
+  "posted_at": "2026-10-06T22:08:15.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Florin, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "d3dcbfaff0f5d612f6670c5f87aef713a98372fe": {
+  "id": "d3dcbfaff0f5d612f6670c5f87aef713a98372fe",
+  "source": "adzuna",
+  "external_id": "5914951669",
+  "url": "https://www.adzuna.com/land/ad/5914951669?se=gixBjRPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=AE1BA1CA94510D943BEDFA53BFE694F443A0CD94",
+  "title": "Project engineering contractor",
+  "company": "RimePro Inc",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 67785,
+  "salary_max": 67785,
+  "posted_at": "2026-10-06T22:04:25.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "257e7217324e7c59b2982f26e34ed0ba73b915d3": {
+  "id": "257e7217324e7c59b2982f26e34ed0ba73b915d3",
+  "source": "adzuna",
+  "external_id": "5914925999",
+  "url": "https://www.adzuna.com/land/ad/5914925999?se=gixBjRPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=DED7068FEB69795EE31CD7A4944541C1A490E25D",
+  "title": "Senior Project Manager â Healthcare Construction",
+  "company": "MalaceHR",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 132720,
+  "salary_max": 132720,
+  "posted_at": "2026-10-06T22:00:54.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "ee84902ffdb40c74ac15990fdcdd7f805c0b5892": {
+  "id": "ee84902ffdb40c74ac15990fdcdd7f805c0b5892",
+  "source": "adzuna",
+  "external_id": "5914739283",
+  "url": "https://www.adzuna.com/land/ad/5914739283?se=gixBjRPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=BB96F891CE7C03BF19C38EAEC2F7A0E1734CB4DE",
+  "title": "Project Coordinator",
+  "company": "SitelogIQ",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 81125,
+  "salary_max": 81125,
+  "posted_at": "2026-10-06T21:18:54.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "5f6b9edeeb0ec63435d07eae7e58e722617b24f8": {
+  "id": "5f6b9edeeb0ec63435d07eae7e58e722617b24f8",
+  "source": "adzuna",
+  "external_id": "5914436735",
+  "url": "https://www.adzuna.com/land/ad/5914436735?se=gixBjRPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=3A832ADD0E2A7619198A0AA34E37B8717DF4BA60",
+  "title": "Construction Project Manager (Healthcare / Medical)",
+  "company": "Essel",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 142412,
+  "salary_max": 142412,
+  "posted_at": "2026-10-06T20:08:53.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "e28eb59c8d8dccf062f81d53ee1299827a608f19": {
+  "id": "e28eb59c8d8dccf062f81d53ee1299827a608f19",
+  "source": "adzuna",
+  "external_id": "5914411325",
+  "url": "https://www.adzuna.com/land/ad/5914411325?se=gixBjRPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=8BD4B5B8A2F54FA7F36935D9B8045245A25A8644",
+  "title": "Senior Project Manager â Healthcare Construction",
+  "company": "MalaceHR",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 169999,
+  "salary_max": 169999,
+  "posted_at": "2026-10-06T20:01:08.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Florin, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "21b44d090658f57e31c498236197369fff1f7033": {
+  "id": "21b44d090658f57e31c498236197369fff1f7033",
+  "source": "adzuna",
+  "external_id": "5914384712",
+  "url": "https://www.adzuna.com/land/ad/5914384712?se=gixBjRPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=4122A8A6000E9CCB341EEE796A41ADFB9A69E566",
+  "title": "Project - engineering and construction",
+  "company": "RimePro Inc",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 66526,
+  "salary_max": 66526,
+  "posted_at": "2026-10-06T19:23:09.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "7ab9f2bbe387c4d7aa189d5bc9049d2166b9bbc5": {
+  "id": "7ab9f2bbe387c4d7aa189d5bc9049d2166b9bbc5",
+  "source": "adzuna",
+  "external_id": "5914355855",
+  "url": "https://www.adzuna.com/land/ad/5914355855?se=gixBjRPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=3ED0997DA7686A9BC9A6B8FBC23BEDE713C98CD5",
+  "title": "HCAI Project Engineer",
+  "company": "RimePro Inc",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 72907,
+  "salary_max": 72907,
+  "posted_at": "2026-10-06T19:18:49.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "116acf717ed99b40016fcc8442aadb547666be8c": {
+  "id": "116acf717ed99b40016fcc8442aadb547666be8c",
+  "source": "adzuna",
+  "external_id": "5914024526",
+  "url": "https://www.adzuna.com/land/ad/5914024526?se=gixBjRPC8RGhT5mFRwfD3Q&utm_medium=api&utm_source=53549fa7&v=3264EFEF32E5341AAB7F94A6072B63E44C8230B5",
+  "title": "Electrical Project Manager",
+  "company": "Rex Moore Electrical & Systems Contractors & Engineers",
+  "location": "Sacramento County, California",
+  "remote": null,
+  "salary_min": 100884,
+  "salary_max": 100884,
+  "posted_at": "2026-10-06T12:25:16.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
+ },
+ "f41eafc4bd98abf2c3ce6ef6e1cf597400127f12": {
+  "id": "f41eafc4bd98abf2c3ce6ef6e1cf597400127f12",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141778",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Laboratory-Technician--MLT-_R-141778",
+  "title": "Medical Laboratory Technician (MLT)",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 99902,
+  "salary_max": 139838,
+  "posted_at": "2026-10-06T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-07T05:54:41.839Z"
  }
 }
