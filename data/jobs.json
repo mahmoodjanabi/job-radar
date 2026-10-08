@@ -3815,5 +3815,59 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-08T05:58:37.252Z"
+ },
+ "de86605a252d574a6dc1148c7e5c3bf1d298c2b3": {
+  "id": "de86605a252d574a6dc1148c7e5c3bf1d298c2b3",
+  "source": "adzuna",
+  "external_id": "5918561001",
+  "url": "https://www.adzuna.com/details/5918561001?utm_medium=api&utm_source=53549fa7",
+  "title": "Memory Care Director",
+  "company": "Ivy Living",
+  "location": "Fairfield, Solano County",
+  "remote": null,
+  "salary_min": 47969,
+  "salary_max": 47969,
+  "posted_at": "2026-10-08T02:24:33.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T13:24:28.615Z"
+ },
+ "5b019dbfa09a48452e879e0c9b42112bf2915bf6": {
+  "id": "5b019dbfa09a48452e879e0c9b42112bf2915bf6",
+  "source": "adzuna",
+  "external_id": "5918740831",
+  "url": "https://www.adzuna.com/land/ad/5918740831?se=tgsxhhvD8RGSdsiqONmNKg&utm_medium=api&utm_source=53549fa7&v=1253120923EF4523FCF72854FA9B37100CFC754B",
+  "title": "Remote Licensed Clinical Social Worker for School-Based Rehabilitation",
+  "company": "Catalina Behavioral Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 75000,
+  "salary_max": 100000,
+  "posted_at": "2026-10-08T05:57:28.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T13:24:28.615Z"
+ },
+ "2415124064933f02552ab9ed4ca45ad5d1786505": {
+  "id": "2415124064933f02552ab9ed4ca45ad5d1786505",
+  "source": "adzuna",
+  "external_id": "5918788031",
+  "url": "https://www.adzuna.com/land/ad/5918788031?se=utRDiBvD8RGmDNvs5IYFsw&utm_medium=api&utm_source=53549fa7&v=33FD76AF3C43FD11A5F25873D5562BE815910779",
+  "title": "Support Services Project Liasion",
+  "company": "Insight Global",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 70258,
+  "salary_max": 70258,
+  "posted_at": "2026-10-08T06:59:32.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T13:24:28.615Z"
  }
 }
