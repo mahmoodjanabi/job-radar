@@ -3743,5 +3743,77 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-07T23:03:47.734Z"
+ },
+ "2904be3f73727e84c851ce23be4f0e0c2f6da130": {
+  "id": "2904be3f73727e84c851ce23be4f0e0c2f6da130",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143096",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Family-Medicine-Residency_R-143096-1",
+  "title": "Medical Assistant II, Family Medicine Residency",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-07T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T05:58:37.252Z"
+ },
+ "d569018fc4a67126f91de479a2e4f8249c70a914": {
+  "id": "d569018fc4a67126f91de479a2e4f8249c70a914",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143093",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Family-Medicine-Residency-Program_R-143093",
+  "title": "Medical Assistant II, Family Medicine Residency Program",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-07T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T05:58:37.252Z"
+ },
+ "d449bd4ad275bc42347737ae7d92c5596f6bef1f": {
+  "id": "d449bd4ad275bc42347737ae7d92c5596f6bef1f",
+  "source": "workday:sutterhealth",
+  "external_id": "R-139305",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/CT-Technologist_R-139305",
+  "title": "CT Technologist",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 126360,
+  "salary_max": 176904,
+  "posted_at": "2026-10-07T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T05:58:37.252Z"
+ },
+ "62b614ee14cbfb321065c48cbd03e848c1766cc7": {
+  "id": "62b614ee14cbfb321065c48cbd03e848c1766cc7",
+  "source": "workday:sutterhealth",
+  "external_id": "R-139306",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/CT-Technologist_R-139306",
+  "title": "CT Technologist",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 126360,
+  "salary_max": 176904,
+  "posted_at": "2026-10-07T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T05:58:37.252Z"
  }
 }
