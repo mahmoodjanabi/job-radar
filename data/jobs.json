@@ -3869,5 +3869,149 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-08T13:24:28.615Z"
+ },
+ "81fa26e9466727b7240b50fa3ca39fb083f2a2da": {
+  "id": "81fa26e9466727b7240b50fa3ca39fb083f2a2da",
+  "source": "adzuna",
+  "external_id": "5919524218",
+  "url": "https://www.adzuna.com/land/ad/5919524218?se=PPUWl27D8RGGCupL8IXbBw&utm_medium=api&utm_source=53549fa7&v=A2E7FDB4F6D5676CDE356DE3C6BBD98E13E6FDEF",
+  "title": "NP / Cardiology - Interventional / California / Locum tenens / Locums NP-Interventional Cardiology Job in Arkansas Job",
+  "company": "Hayman Daugherty Associates, Inc",
+  "location": "Union Hill, Nevada County",
+  "remote": null,
+  "salary_min": 243475,
+  "salary_max": 243475,
+  "posted_at": "2026-10-08T14:14:48.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T23:19:03.771Z"
+ },
+ "2f1dab1c417506199359dbb4a25368278082ef7b": {
+  "id": "2f1dab1c417506199359dbb4a25368278082ef7b",
+  "source": "adzuna",
+  "external_id": "5919028398",
+  "url": "https://www.adzuna.com/land/ad/5919028398?se=Lg7tl27D8RGgroPTTI6Nzw&utm_medium=api&utm_source=53549fa7&v=7F9BC1E13DDE8B0D5957793822CB3AF52BC6DFDD",
+  "title": "Travel Nurse RN - Intensive Care Unit (ICU) / Critical Care - $2,553 per week in Fairfield, CA",
+  "company": "TravelNurseSource",
+  "location": "Fairfield, Solano County",
+  "remote": null,
+  "salary_min": 0,
+  "salary_max": 132756,
+  "posted_at": "2026-10-08T09:50:28.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T23:19:03.771Z"
+ },
+ "21ae0c4e35806b3f42d35c367900496bfc9e85f8": {
+  "id": "21ae0c4e35806b3f42d35c367900496bfc9e85f8",
+  "source": "workday:sutterhealth",
+  "external_id": "R-130667",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Anesthesia-Technician_R-130667-1",
+  "title": "Anesthesia Technician",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 75213,
+  "salary_max": 91728,
+  "posted_at": "2026-10-08T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T23:19:03.771Z"
+ },
+ "d0cd9794616862e889e789c061d0b4de0b43062f": {
+  "id": "d0cd9794616862e889e789c061d0b4de0b43062f",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142719",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Clinical-Nurse-Educator-III--Neonatal-ICU_R-142719",
+  "title": "Clinical Nurse Educator III, Neonatal ICU",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 108076,
+  "salary_max": 151295,
+  "posted_at": "2026-10-08T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T23:19:03.771Z"
+ },
+ "7b0bcfe20884ca56a49b74b7450c0f6fe8ceee48": {
+  "id": "7b0bcfe20884ca56a49b74b7450c0f6fe8ceee48",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141934",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Nursing-Assistant---Unit-Secretary--Cardiac-Care-Unit_R-141934",
+  "title": "Nursing Assistant / Unit Secretary, Cardiac Care Unit",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 62462,
+  "salary_max": 87443,
+  "posted_at": "2026-10-08T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T23:19:03.772Z"
+ },
+ "0ab486262d9b179c0dd4d8ff218c82d56461ca6e": {
+  "id": "0ab486262d9b179c0dd4d8ff218c82d56461ca6e",
+  "source": "workday:sutterhealth",
+  "external_id": "R-139304",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/CT-Technologist_R-139304",
+  "title": "CT Technologist",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 126360,
+  "salary_max": 176904,
+  "posted_at": "2026-10-08T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T23:19:03.772Z"
+ },
+ "fb0eee6725bd42f0ed2cfc29c29cd20372a29cf4": {
+  "id": "fb0eee6725bd42f0ed2cfc29c29cd20372a29cf4",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143153",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Interventional-Radiology-Technologist_R-143153",
+  "title": "Interventional Radiology Technologist",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 141232,
+  "salary_max": 197725,
+  "posted_at": "2026-10-08T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T23:19:03.772Z"
+ },
+ "35443c475d1296c03604d9082ebb45a3e9c7920d": {
+  "id": "35443c475d1296c03604d9082ebb45a3e9c7920d",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143156",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Interventional-Radiology-Technologist_R-143156",
+  "title": "Interventional Radiology Technologist",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 141232,
+  "salary_max": 197725,
+  "posted_at": "2026-10-08T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-08T23:19:03.772Z"
  }
 }
