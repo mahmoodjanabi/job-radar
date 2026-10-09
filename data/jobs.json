@@ -4139,5 +4139,113 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-09T13:12:25.840Z"
+ },
+ "1438c3a01e506dc5e91b48634a9bb6cdaf7e88c5": {
+  "id": "1438c3a01e506dc5e91b48634a9bb6cdaf7e88c5",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143278",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Unit-Secretary-Nursing-Assistant--Med-Surg-Telemetry_R-143278",
+  "title": "Unit Secretary/Nursing Assistant, Med/Surg Telemetry",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 64022,
+  "salary_max": 78083,
+  "posted_at": "2026-10-09T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-09T22:36:09.514Z"
+ },
+ "d34a87a440e82058578d96ba4293e9ed841b3db1": {
+  "id": "d34a87a440e82058578d96ba4293e9ed841b3db1",
+  "source": "workday:sutterhealth",
+  "external_id": "R-139319",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/CVOR-Surgical-Technician--Inpatient-Operating-Room_R-139319",
+  "title": "CVOR Surgical Technician, Inpatient Operating Room",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 88213,
+  "salary_max": 107578,
+  "posted_at": "2026-10-09T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-09T22:36:09.514Z"
+ },
+ "962724164f6d0a492e2b2b22e8d08ac3754381be": {
+  "id": "962724164f6d0a492e2b2b22e8d08ac3754381be",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143175",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Customer-Service-Agent-II--Work-From-Home_R-143175",
+  "title": "Customer Service Agent II, Work From Home",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": true,
+  "salary_min": 54122,
+  "salary_max": 75774,
+  "posted_at": "2026-10-09T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-09T22:36:09.514Z"
+ },
+ "06dd9a69c09cd7c1f0262baa48f2b889acdda8eb": {
+  "id": "06dd9a69c09cd7c1f0262baa48f2b889acdda8eb",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143273",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Licensed-Vocational-Nurse-II--Dermatology---MOHs_R-143273",
+  "title": "Licensed Vocational Nurse II, Dermatology & MOHs",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 77584,
+  "salary_max": 108597,
+  "posted_at": "2026-10-09T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-09T22:36:09.514Z"
+ },
+ "17932083a8f79f5bfa62ae4b103a7f5506b091cd": {
+  "id": "17932083a8f79f5bfa62ae4b103a7f5506b091cd",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142242",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Nursing-Assistant---Unit-Secretary--Medical-Surgical---Telemetry_R-142242",
+  "title": "Nursing Assistant / Unit Secretary, Medical Surgical / Telemetry",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 64022,
+  "salary_max": 78083,
+  "posted_at": "2026-10-09T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-09T22:36:09.514Z"
+ },
+ "4908a297bac8b2f363fc16266b9660d566ebecb8": {
+  "id": "4908a297bac8b2f363fc16266b9660d566ebecb8",
+  "source": "workday:sutterhealth",
+  "external_id": "R-140027",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Transfer---Referral-Specialist-II_R-140027-1",
+  "title": "Transfer & Referral Specialist II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 58240,
+  "salary_max": 109325,
+  "posted_at": "2026-10-09T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-09T22:36:09.514Z"
  }
 }
