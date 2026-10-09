@@ -4049,5 +4049,95 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-09T06:04:41.836Z"
+ },
+ "a4281f62fc0ee5f30c79b4024927998068eede5c": {
+  "id": "a4281f62fc0ee5f30c79b4024927998068eede5c",
+  "source": "adzuna",
+  "external_id": "5920366344",
+  "url": "https://www.adzuna.com/details/5920366344?utm_medium=api&utm_source=53549fa7",
+  "title": "Resident Care Coordinator",
+  "company": "Ivy Living",
+  "location": "Fairfield, Solano County",
+  "remote": null,
+  "salary_min": 47840,
+  "salary_max": 52000,
+  "posted_at": "2026-10-09T05:27:03.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-09T13:12:25.840Z"
+ },
+ "afff7d5880aa3e18a1f9a87e41b37904f2fcf5b2": {
+  "id": "afff7d5880aa3e18a1f9a87e41b37904f2fcf5b2",
+  "source": "adzuna",
+  "external_id": "5920455359",
+  "url": "https://www.adzuna.com/land/ad/5920455359?se=8v0M_-LD8RGXBogg9AzgKw&utm_medium=api&utm_source=53549fa7&v=CFCE9AA964979CE66D1C71C063FC16C89E68E012",
+  "title": "Staff AI Engineer",
+  "company": "Cardinal Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 105833,
+  "salary_max": 105833,
+  "posted_at": "2026-10-09T07:05:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-09T13:12:25.840Z"
+ },
+ "793140c9e0202e23302635018f3d3635ff50c241": {
+  "id": "793140c9e0202e23302635018f3d3635ff50c241",
+  "source": "adzuna",
+  "external_id": "5920448928",
+  "url": "https://www.adzuna.com/land/ad/5920448928?se=8v0M_-LD8RGXBogg9AzgKw&utm_medium=api&utm_source=53549fa7&v=9C03756A6FA8D6151C7B06F6E08CF132252D89CF",
+  "title": "Oracle Health Federal Testing Integration Architect",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 132415,
+  "salary_max": 132415,
+  "posted_at": "2026-10-09T07:02:58.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-09T13:12:25.840Z"
+ },
+ "ef3c80c443cef0be027ff44ba29adba8b8b7036b": {
+  "id": "ef3c80c443cef0be027ff44ba29adba8b8b7036b",
+  "source": "adzuna",
+  "external_id": "5920485886",
+  "url": "https://www.adzuna.com/details/5920485886?utm_medium=api&utm_source=53549fa7",
+  "title": "Commercial HVAC Project Manager",
+  "company": "Gpac",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 75000,
+  "salary_max": 120000,
+  "posted_at": "2026-10-09T07:09:46.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-09T13:12:25.840Z"
+ },
+ "c7f47ccd511b1901de82fa0bf8a6b99143163858": {
+  "id": "c7f47ccd511b1901de82fa0bf8a6b99143163858",
+  "source": "adzuna",
+  "external_id": "5920449424",
+  "url": "https://www.adzuna.com/land/ad/5920449424?se=Hu-2AOPD8RGWusa_RZEb5A&utm_medium=api&utm_source=53549fa7&v=E0EF96C4DF9F19E7A0FBE103B38F0495A851C129",
+  "title": "Consulting Project Principal Consultant",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 110024,
+  "salary_max": 110024,
+  "posted_at": "2026-10-09T07:03:11.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-09T13:12:25.840Z"
  }
 }
