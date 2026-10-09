@@ -4013,5 +4013,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-08T23:19:03.772Z"
+ },
+ "d9db418563e45f317c077a714f5684a98d5f1b37": {
+  "id": "d9db418563e45f317c077a714f5684a98d5f1b37",
+  "source": "adzuna",
+  "external_id": "5919513567",
+  "url": "https://www.adzuna.com/details/5919513567?utm_medium=api&utm_source=53549fa7",
+  "title": "Facets QA Test Lead",
+  "company": "Sonsoft",
+  "location": "El Dorado Hills, El Dorado County",
+  "remote": null,
+  "salary_min": 102385,
+  "salary_max": 102385,
+  "posted_at": "2026-10-08T14:00:53.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-09T06:04:41.836Z"
+ },
+ "cd286cc359ac740dbd71f0dec1686fe993c4c066": {
+  "id": "cd286cc359ac740dbd71f0dec1686fe993c4c066",
+  "source": "adzuna",
+  "external_id": "5918782775",
+  "url": "https://www.adzuna.com/land/ad/5918782775?se=7JtYQ6fD8RG0YM8c8DzqMQ&utm_medium=api&utm_source=53549fa7&v=95FEB6D3E48B0A16C6F60EB2D6ACEB73C89ECD85",
+  "title": "Associate Software Engineer",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 102692,
+  "salary_max": 102692,
+  "posted_at": "2026-10-08T06:58:20.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-09T06:04:41.836Z"
  }
 }
