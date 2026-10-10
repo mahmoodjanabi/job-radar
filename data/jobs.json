@@ -4247,5 +4247,59 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-09T22:36:09.514Z"
+ },
+ "98c6d2add9f808200eea41ef57f2770f3c18aa69": {
+  "id": "98c6d2add9f808200eea41ef57f2770f3c18aa69",
+  "source": "adzuna",
+  "external_id": "5921439326",
+  "url": "https://www.adzuna.com/details/5921439326?utm_medium=api&utm_source=53549fa7",
+  "title": "QA HealthCare (Facet) Test Lead",
+  "company": "Sonsoft",
+  "location": "El Dorado Hills, El Dorado County",
+  "remote": null,
+  "salary_min": 113966,
+  "salary_max": 113966,
+  "posted_at": "2026-10-09T21:47:18.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-10T05:48:01.968Z"
+ },
+ "f452e81dd770e2bfa282b8812ba8122fd003b346": {
+  "id": "f452e81dd770e2bfa282b8812ba8122fd003b346",
+  "source": "adzuna",
+  "external_id": "5920434944",
+  "url": "https://www.adzuna.com/land/ad/5920434944?se=sn-8HW7E8RGRs48L_-pA7w&utm_medium=api&utm_source=53549fa7&v=A18658952EAE85019D0E4DD9C934DAE824BD7111",
+  "title": "Senior Program Delivery Professional, Stars Enterprise Activation",
+  "company": "Humana",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 143843,
+  "salary_max": 143843,
+  "posted_at": "2026-10-09T06:59:27.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-10T05:48:01.968Z"
+ },
+ "94bc82384bcfbfe0a3ce94d7defadbcff70b4c9d": {
+  "id": "94bc82384bcfbfe0a3ce94d7defadbcff70b4c9d",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143305",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Specialty-Shared-Staff_R-143305-1",
+  "title": "Medical Assistant II, Specialty Shared Staff",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-09T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-10T05:48:01.968Z"
  }
 }
