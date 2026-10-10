@@ -4301,5 +4301,77 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-10T05:48:01.968Z"
+ },
+ "4bd3095744dade2709d205a5de906e1625cd6199": {
+  "id": "4bd3095744dade2709d205a5de906e1625cd6199",
+  "source": "adzuna",
+  "external_id": "5922006949",
+  "url": "https://www.adzuna.com/land/ad/5922006949?se=fg4O1aXE8RGaEP8TsE0cSA&utm_medium=api&utm_source=53549fa7&v=8F1ADBCEAC4D42F5F60A9665B919919633A35E50",
+  "title": "Consulting Project Principal Consultant",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 110245,
+  "salary_max": 110245,
+  "posted_at": "2026-10-10T07:02:55.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-10T12:26:58.782Z"
+ },
+ "b24a0137cf5bb79f307a3e21cf0195d2c64ca77c": {
+  "id": "b24a0137cf5bb79f307a3e21cf0195d2c64ca77c",
+  "source": "adzuna",
+  "external_id": "5922006956",
+  "url": "https://www.adzuna.com/land/ad/5922006956?se=fg4O1aXE8RGaEP8TsE0cSA&utm_medium=api&utm_source=53549fa7&v=86AC37B766F4A2A48C9B48AA30E689A6977E2E0A",
+  "title": "Consulting Project Managing Principal",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 155452,
+  "salary_max": 155452,
+  "posted_at": "2026-10-10T07:02:55.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-10T12:26:58.782Z"
+ },
+ "d8c5c909afb2dd7341ab7c6bf9ccf2784ac1e7b1": {
+  "id": "d8c5c909afb2dd7341ab7c6bf9ccf2784ac1e7b1",
+  "source": "adzuna",
+  "external_id": "5921996850",
+  "url": "https://www.adzuna.com/land/ad/5921996850?se=fg4O1aXE8RGaEP8TsE0cSA&utm_medium=api&utm_source=53549fa7&v=4A8A9FCDAF81CA912D46F2894B71840BD7952EC0",
+  "title": "Network/Systems Architect (Remote)",
+  "company": "GovCIO",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 175682,
+  "salary_max": 175682,
+  "posted_at": "2026-10-10T06:59:39.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-10T12:26:58.782Z"
+ },
+ "f4e0d4d04383b40628ba1573008be861fd53eb3b": {
+  "id": "f4e0d4d04383b40628ba1573008be861fd53eb3b",
+  "source": "adzuna",
+  "external_id": "5921941239",
+  "url": "https://www.adzuna.com/details/5921941239?utm_medium=api&utm_source=53549fa7",
+  "title": "Project Manager (Healthcare)",
+  "company": "Cumming Management Group",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 120200,
+  "salary_max": 160267,
+  "posted_at": "2026-10-10T05:53:13.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-10T12:26:58.782Z"
  }
 }
