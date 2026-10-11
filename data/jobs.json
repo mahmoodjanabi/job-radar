@@ -4373,5 +4373,77 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-10-10T12:26:58.782Z"
+ },
+ "efdbaf2eac76bdeb0a46c99b7c0beaa4961af310": {
+  "id": "efdbaf2eac76bdeb0a46c99b7c0beaa4961af310",
+  "source": "adzuna",
+  "external_id": "5923038030",
+  "url": "https://www.adzuna.com/details/5923038030?utm_medium=api&utm_source=53549fa7",
+  "title": "Memory Care Director",
+  "company": "Oakmont Management",
+  "location": "Lodi, San Joaquin County",
+  "remote": null,
+  "salary_min": 74000,
+  "salary_max": 75000,
+  "posted_at": "2026-10-11T04:37:26.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-11T12:45:03.518Z"
+ },
+ "5f784cbc76503470e0b79810317c5a5134b04e69": {
+  "id": "5f784cbc76503470e0b79810317c5a5134b04e69",
+  "source": "adzuna",
+  "external_id": "5923152039",
+  "url": "https://www.adzuna.com/land/ad/5923152039?se=NM9_enHF8RGjSfrCsBO0RQ&utm_medium=api&utm_source=53549fa7&v=7A2B56948F662B5ABE6E17C58271DB6A5B5BA7CC",
+  "title": "Senior Project Manager - Healthcare",
+  "company": "Stantec",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 167725,
+  "salary_max": 167725,
+  "posted_at": "2026-10-11T07:07:10.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-11T12:45:03.518Z"
+ },
+ "6482019b7a282ccb64e3f76a15252a9548d6e6f8": {
+  "id": "6482019b7a282ccb64e3f76a15252a9548d6e6f8",
+  "source": "adzuna",
+  "external_id": "5923122452",
+  "url": "https://www.adzuna.com/land/ad/5923122452?se=Gqg8fHHF8RGoCJx_6kguYg&utm_medium=api&utm_source=53549fa7&v=18746D12DDF0D51F4A1E941F1501731DEDCBCA4A",
+  "title": "Senior Principal Interoperability Project Manager",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 180409,
+  "salary_max": 180409,
+  "posted_at": "2026-10-11T07:03:07.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-11T12:45:03.518Z"
+ },
+ "093e168c69a408987fb050722020346e7df3df78": {
+  "id": "093e168c69a408987fb050722020346e7df3df78",
+  "source": "adzuna",
+  "external_id": "5923108926",
+  "url": "https://www.adzuna.com/land/ad/5923108926?se=Gqg8fHHF8RGoCJx_6kguYg&utm_medium=api&utm_source=53549fa7&v=C404C3EA0378C47B25C63CBA26A6818C3CD159DE",
+  "title": "Senior Project Manager, Implementation",
+  "company": "Datavant",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 143449,
+  "salary_max": 143449,
+  "posted_at": "2026-10-11T06:58:23.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-11T12:45:03.518Z"
  }
 }
