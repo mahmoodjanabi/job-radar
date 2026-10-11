@@ -4445,5 +4445,23 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-10-11T12:45:03.518Z"
+ },
+ "3b94b1986541966c7a69f23316a2e17d7ca9ea13": {
+  "id": "3b94b1986541966c7a69f23316a2e17d7ca9ea13",
+  "source": "adzuna",
+  "external_id": "5923332174",
+  "url": "https://www.adzuna.com/details/5923332174?utm_medium=api&utm_source=53549fa7",
+  "title": "Project Manager III - 26-95",
+  "company": "PriMed Management Consulting",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 110000,
+  "salary_max": 144000,
+  "posted_at": "2026-10-11T08:48:16.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-11T21:55:23.920Z"
  }
 }
