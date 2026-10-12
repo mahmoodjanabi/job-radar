@@ -4463,5 +4463,59 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-10-11T21:55:23.920Z"
+ },
+ "759833338af28a2f31211a10b33ade37532598cf": {
+  "id": "759833338af28a2f31211a10b33ade37532598cf",
+  "source": "adzuna",
+  "external_id": "5924107141",
+  "url": "https://www.adzuna.com/land/ad/5924107141?se=KJJ-6k_G8RGnd9fxutKEAA&utm_medium=api&utm_source=53549fa7&v=6955F70595E059B244C6C6946FA4CA4CAA2B992D",
+  "title": "Surgical Onsite Specialist - (Sacramento)",
+  "company": "Medtronic",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 90522,
+  "salary_max": 90522,
+  "posted_at": "2026-10-12T07:05:17.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-12T15:17:42.785Z"
+ },
+ "62ebca0388c516d7d89920c0aa1e7c3bcf23270e": {
+  "id": "62ebca0388c516d7d89920c0aa1e7c3bcf23270e",
+  "source": "adzuna",
+  "external_id": "5924109181",
+  "url": "https://www.adzuna.com/land/ad/5924109181?se=9tuv7E_G8RGnd9fxutKEAA&utm_medium=api&utm_source=53549fa7&v=3F694222D4604E7379636706F1BF51B9E179CD97",
+  "title": "Senior Engagement Owner-Commercial Consulting",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 140090,
+  "salary_max": 140090,
+  "posted_at": "2026-10-12T07:05:52.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-12T15:17:42.785Z"
+ },
+ "5416c044d17ded84c9e93fe69bf7df01a7f4f157": {
+  "id": "5416c044d17ded84c9e93fe69bf7df01a7f4f157",
+  "source": "adzuna",
+  "external_id": "5924109143",
+  "url": "https://www.adzuna.com/land/ad/5924109143?se=9tuv7E_G8RGnd9fxutKEAA&utm_medium=api&utm_source=53549fa7&v=553035A96663D279A0E73FFE99647FB07B4FAB7F",
+  "title": "Consulting Project Principal Consultant",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 122493,
+  "salary_max": 122493,
+  "posted_at": "2026-10-12T07:05:52.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-12T15:17:42.785Z"
  }
 }
