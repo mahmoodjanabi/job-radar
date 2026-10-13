@@ -4517,5 +4517,203 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-12T15:17:42.785Z"
+ },
+ "845287fa0378378193f6a726b07181414113e142": {
+  "id": "845287fa0378378193f6a726b07181414113e142",
+  "source": "adzuna",
+  "external_id": "5924800901",
+  "url": "https://www.adzuna.com/land/ad/5924800901?se=NE43G57G8RGgWZIobyzROg&utm_medium=api&utm_source=53549fa7&v=BE4590EAB2F4F3766D3032944F22C9A91DC138FC",
+  "title": "Facets Architect _ Healthcare Payer - Sacramento, CA (Hybrid)",
+  "company": "Lorven technologies",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 85488,
+  "salary_max": 85488,
+  "posted_at": "2026-10-12T17:02:50.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "salary max 85488 < floor"
+  },
+  "first_seen_at": "2026-10-13T00:36:52.084Z"
+ },
+ "0567cb42494178e7c20aba57248ed5b11df5540e": {
+  "id": "0567cb42494178e7c20aba57248ed5b11df5540e",
+  "source": "adzuna",
+  "external_id": "5924770170",
+  "url": "https://www.adzuna.com/land/ad/5924770170?se=NE43G57G8RGgWZIobyzROg&utm_medium=api&utm_source=53549fa7&v=440FA4282EEE9E4980A07C013A23F5C068FA1DCD",
+  "title": "Facets Architect _ Healthcare Payer - Sacramento, CA (Hybrid)",
+  "company": "Lorven technologies",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 109501,
+  "salary_max": 109501,
+  "posted_at": "2026-10-12T16:49:42.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Florin, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-13T00:36:52.084Z"
+ },
+ "baa58df0c2d09dd85ace8f4abe7b6aa2bd19fe79": {
+  "id": "baa58df0c2d09dd85ace8f4abe7b6aa2bd19fe79",
+  "source": "adzuna",
+  "external_id": "5924766570",
+  "url": "https://www.adzuna.com/land/ad/5924766570?se=NE43G57G8RGgWZIobyzROg&utm_medium=api&utm_source=53549fa7&v=7373BD0134F44EC6429A558FF1AB81CB4F39173F",
+  "title": "Project Architect - Healthcare (HCAi / OSHPD)",
+  "company": "Bancroft Staffing Partners",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 103906,
+  "salary_max": 103906,
+  "posted_at": "2026-10-12T16:48:48.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Florin, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-13T00:36:52.084Z"
+ },
+ "0e6c988edf22a8dfff60638b629ba7cb4efd63ba": {
+  "id": "0e6c988edf22a8dfff60638b629ba7cb4efd63ba",
+  "source": "adzuna",
+  "external_id": "5924904472",
+  "url": "https://www.adzuna.com/land/ad/5924904472?se=vorjG57G8RG-NZlVew_qCA&utm_medium=api&utm_source=53549fa7&v=D6E8473D7E553FCB14E4B621AB73907790A421EE",
+  "title": "HVAC Engineer (midlevel)",
+  "company": "GrowthWise Search Partners",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 115867,
+  "salary_max": 115867,
+  "posted_at": "2026-10-12T18:24:45.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-13T00:36:52.084Z"
+ },
+ "27588052e0baca2407df35cb203f49bffa1e35d1": {
+  "id": "27588052e0baca2407df35cb203f49bffa1e35d1",
+  "source": "adzuna",
+  "external_id": "5924711818",
+  "url": "https://www.adzuna.com/land/ad/5924711818?se=vorjG57G8RG-NZlVew_qCA&utm_medium=api&utm_source=53549fa7&v=391A986C8B64693F7A73C9E648A2774609D5912F",
+  "title": "Assistant Health Services Administrator - ((RN License Required))",
+  "company": "CHP Health",
+  "location": "Auburn, Placer County",
+  "remote": null,
+  "salary_min": 60116,
+  "salary_max": 60116,
+  "posted_at": "2026-10-12T16:16:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-13T00:36:52.084Z"
+ },
+ "78008b8e29abf6416d4081af3c9cd8ca5b81560a": {
+  "id": "78008b8e29abf6416d4081af3c9cd8ca5b81560a",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143171",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Assistant-II--Neurosurgery_R-143171",
+  "title": "Medical Assistant II, Neurosurgery",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-12T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-13T00:36:52.084Z"
+ },
+ "15e8db2c809781691a2cd850d00ccd884535527d": {
+  "id": "15e8db2c809781691a2cd850d00ccd884535527d",
+  "source": "workday:sutterhealth",
+  "external_id": "R-138360",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Medical-Assistant-II--Family-Medicine_R-138360",
+  "title": "Medical Assistant II, Family Medicine",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-12T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-13T00:36:52.084Z"
+ },
+ "25fa3fe03cd8ee2836a32140832473323b6a3abd": {
+  "id": "25fa3fe03cd8ee2836a32140832473323b6a3abd",
+  "source": "workday:sutterhealth",
+  "external_id": "R-138279",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Medical-Assistant-II--Family-Medicine_R-138279",
+  "title": "Medical Assistant II, Family Medicine",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-12T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-13T00:36:52.084Z"
+ },
+ "2db51907dbc95cd4f85e56a76d18144cb3b6f234": {
+  "id": "2db51907dbc95cd4f85e56a76d18144cb3b6f234",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143031",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/CT-Technologist_R-143031",
+  "title": "CT Technologist",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 126360,
+  "salary_max": 176904,
+  "posted_at": "2026-10-12T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-13T00:36:52.084Z"
+ },
+ "4712e3098823586f659e21eb1d1427a5b319a14c": {
+  "id": "4712e3098823586f659e21eb1d1427a5b319a14c",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141950",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Transfer---Referral-Specialist---2_R-141950-1",
+  "title": "Transfer & Referral Specialist - 2",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 58240,
+  "salary_max": 109325,
+  "posted_at": "2026-10-12T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-13T00:36:52.084Z"
+ },
+ "4040f670ae2a6e2dfa36674a39a347ca75659cbf": {
+  "id": "4040f670ae2a6e2dfa36674a39a347ca75659cbf",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141948",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Transfer---Referral-Specialist---2_R-141948-1",
+  "title": "Transfer & Referral Specialist - 2",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 58240,
+  "salary_max": 109325,
+  "posted_at": "2026-10-12T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-13T00:36:52.084Z"
  }
 }
