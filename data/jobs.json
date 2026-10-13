@@ -4733,5 +4733,185 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-10-13T14:07:20.297Z"
+ },
+ "6badcb5f98c86f96b85dc36d30b8d3a8d56e21b9": {
+  "id": "6badcb5f98c86f96b85dc36d30b8d3a8d56e21b9",
+  "source": "adzuna",
+  "external_id": "5926091896",
+  "url": "https://www.adzuna.com/land/ad/5926091896?se=3katNFfH8RGghcfl051iWw&utm_medium=api&utm_source=53549fa7&v=E767A286E3ACE4E297B92DDF48E6196DE63AA12E",
+  "title": "Systems Analysis, Consultant",
+  "company": "Blue Shield of California",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 95194,
+  "salary_max": 95194,
+  "posted_at": "2026-10-13T13:49:53.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-13T22:41:46.861Z"
+ },
+ "26f905f7051d61ebb60b83789d64449000d161cc": {
+  "id": "26f905f7051d61ebb60b83789d64449000d161cc",
+  "source": "adzuna",
+  "external_id": "5926160081",
+  "url": "https://www.adzuna.com/details/5926160081?utm_medium=api&utm_source=53549fa7",
+  "title": "Construction Project Manager",
+  "company": "JONES AND LAMBERTI BUILDERS INC",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 80000,
+  "salary_max": 120000,
+  "posted_at": "2026-10-13T14:49:43.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-13T22:41:46.861Z"
+ },
+ "b20233ed6e834933401ddd4cc9617442ea654ed8": {
+  "id": "b20233ed6e834933401ddd4cc9617442ea654ed8",
+  "source": "adzuna",
+  "external_id": "5926095981",
+  "url": "https://www.adzuna.com/details/5926095981?utm_medium=api&utm_source=53549fa7",
+  "title": "Architecture Project Manager: Healthcare",
+  "company": "LPA design studios",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 146618,
+  "salary_max": 146618,
+  "posted_at": "2026-10-13T13:51:02.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-13T22:41:46.861Z"
+ },
+ "af2187411bb1f18cbee5d3d3dcdfd6e3caa6eb0a": {
+  "id": "af2187411bb1f18cbee5d3d3dcdfd6e3caa6eb0a",
+  "source": "adzuna",
+  "external_id": "5925893541",
+  "url": "https://www.adzuna.com/land/ad/5925893541?se=JjVhNlfH8RGgLOK4tK8EzQ&utm_medium=api&utm_source=53549fa7&v=31377175CE5D2CED42C2232B5D81AA9860594F7C",
+  "title": "Commercial Construction Project Manager - Healthcare",
+  "company": "D'Ville Construction Inc.",
+  "location": "Nevada City, Nevada County",
+  "remote": null,
+  "salary_min": 143519,
+  "salary_max": 143519,
+  "posted_at": "2026-10-13T10:59:05.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Nevada City, Nevada County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-13T22:41:46.861Z"
+ },
+ "8908301ac092d12f27e3ff2f3e876d2e0c758f5a": {
+  "id": "8908301ac092d12f27e3ff2f3e876d2e0c758f5a",
+  "source": "adzuna",
+  "external_id": "5925464524",
+  "url": "https://www.adzuna.com/land/ad/5925464524?se=JjVhNlfH8RGgLOK4tK8EzQ&utm_medium=api&utm_source=53549fa7&v=B7A5DF374F551E53BA0B0BA1325973CDC7AC8FD5",
+  "title": "Construction Project Manager",
+  "company": "JONES AND LAMBERTI BUILDERS INC",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 85919,
+  "salary_max": 85919,
+  "posted_at": "2026-10-13T02:09:55.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "salary max 85919 < floor"
+  },
+  "first_seen_at": "2026-10-13T22:41:46.861Z"
+ },
+ "ae2205d8b8d945ac3f8fbadf98fce5b17679c7c7": {
+  "id": "ae2205d8b8d945ac3f8fbadf98fce5b17679c7c7",
+  "source": "workday:sutterhealth",
+  "external_id": "R-140720",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Unit-Secretary-Nursing-Assistant_R-140720",
+  "title": "Unit Secretary/Nursing Assistant",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 62462,
+  "salary_max": 87443,
+  "posted_at": "2026-10-13T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-13T22:41:46.861Z"
+ },
+ "026d3bb755ac90347204f747ee90075b7c3ead85": {
+  "id": "026d3bb755ac90347204f747ee90075b7c3ead85",
+  "source": "workday:sutterhealth",
+  "external_id": "R-140716",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Unit-Secretary-Nursing-Assistant_R-140716",
+  "title": "Unit Secretary/Nursing Assistant",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 62462,
+  "salary_max": 87443,
+  "posted_at": "2026-10-13T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-13T22:41:46.861Z"
+ },
+ "6df05aef169c013c9004152ba4bc92085d997784": {
+  "id": "6df05aef169c013c9004152ba4bc92085d997784",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142724",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Monitor-Technician-I--Centralized-Monitoring_R-142724-1",
+  "title": "Monitor Technician I, Centralized Monitoring",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60382,
+  "salary_max": 84510,
+  "posted_at": "2026-10-13T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-13T22:41:46.861Z"
+ },
+ "ebe3f6cfe1524180e37576f29a396ff1d7ab8596": {
+  "id": "ebe3f6cfe1524180e37576f29a396ff1d7ab8596",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141763",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Licensed-Vocational-Nurse-II--Senior-Care--PACE_R-141763",
+  "title": "Licensed Vocational Nurse II, Senior Care, PACE",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 74048,
+  "salary_max": 103667,
+  "posted_at": "2026-10-13T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-13T22:41:46.861Z"
+ },
+ "b137c24fb80280d52e427d37dbc92ddde14a5b3b": {
+  "id": "b137c24fb80280d52e427d37dbc92ddde14a5b3b",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143234",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Interventional-Specialist-Technologist---Cath-Lab_R-143234",
+  "title": "Interventional Specialist Technologist - Cath Lab",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 148325,
+  "salary_max": 207646,
+  "posted_at": "2026-10-13T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-13T22:41:46.861Z"
  }
 }
