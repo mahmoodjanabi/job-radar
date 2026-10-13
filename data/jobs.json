@@ -4715,5 +4715,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-13T00:36:52.084Z"
+ },
+ "7d33e9bc2f1536a33cabb4bf5a2315bb2012f3d3": {
+  "id": "7d33e9bc2f1536a33cabb4bf5a2315bb2012f3d3",
+  "source": "adzuna",
+  "external_id": "5924128796",
+  "url": "https://www.adzuna.com/details/5924128796?utm_medium=api&utm_source=53549fa7",
+  "title": "Commercial HVAC Project Manager",
+  "company": "Gpac",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 75000,
+  "salary_max": 120000,
+  "posted_at": "2026-10-12T07:11:44.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-13T14:07:20.297Z"
  }
 }
