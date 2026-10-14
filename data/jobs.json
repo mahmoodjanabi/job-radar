@@ -5219,5 +5219,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-14T17:07:41.624Z"
+ },
+ "135887c54fade4fdd12033f360eb597a6403adde": {
+  "id": "135887c54fade4fdd12033f360eb597a6403adde",
+  "source": "adzuna",
+  "external_id": "5927903358",
+  "url": "https://www.adzuna.com/land/ad/5927903358?se=9IJTlBfI8RGtFaNj_SJgNw&utm_medium=api&utm_source=53549fa7&v=3CC909244A419B983F22CE4A69BB7BC8B78E440A",
+  "title": "Electrical Project Manager (Sacramento County)",
+  "company": "Rex Moore Electrical & Systems Contractors & Engineers",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 77974,
+  "salary_max": 77974,
+  "posted_at": "2026-10-14T13:51:46.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T21:38:41.505Z"
+ },
+ "67ba29276612b4479f106721f54504d4e94d07bc": {
+  "id": "67ba29276612b4479f106721f54504d4e94d07bc",
+  "source": "workday:sutterhealth",
+  "external_id": "R-138596",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Surgical-Technician-II_R-138596",
+  "title": "Surgical Technician II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 89336,
+  "salary_max": 125050,
+  "posted_at": "2026-10-14T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T21:38:41.505Z"
  }
 }
