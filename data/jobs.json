@@ -5039,5 +5039,131 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-14T04:49:20.761Z"
+ },
+ "221972274e042081f2de7628964ecf96e4b06577": {
+  "id": "221972274e042081f2de7628964ecf96e4b06577",
+  "source": "adzuna",
+  "external_id": "5927324183",
+  "url": "https://www.adzuna.com/land/ad/5927324183?se=ykC2_8TH8RGP4Mo_18jPiA&utm_medium=api&utm_source=53549fa7&v=0C310EAE5D621FE88AD9DB53CE0CAC40F62A8AF3",
+  "title": "Design Coordinator - Healthcare",
+  "company": "Stantec",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 88287,
+  "salary_max": 88287,
+  "posted_at": "2026-10-14T07:06:54.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T11:47:41.105Z"
+ },
+ "c53b460048b906a682314ee57daa1d80f1921a0c": {
+  "id": "c53b460048b906a682314ee57daa1d80f1921a0c",
+  "source": "adzuna",
+  "external_id": "5927307889",
+  "url": "https://www.adzuna.com/land/ad/5927307889?se=ykC2_8TH8RGP4Mo_18jPiA&utm_medium=api&utm_source=53549fa7&v=72E4C2DA00E484BB710370E626487DEAC50257A5",
+  "title": "Summer 2027 Sales Support Undergraduate Intern",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 38578,
+  "salary_max": 38578,
+  "posted_at": "2026-10-14T06:59:36.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T11:47:41.105Z"
+ },
+ "97d36b658ff1b27f0ee8e575439dfef953400330": {
+  "id": "97d36b658ff1b27f0ee8e575439dfef953400330",
+  "source": "adzuna",
+  "external_id": "5927307893",
+  "url": "https://www.adzuna.com/land/ad/5927307893?se=ykC2_8TH8RGP4Mo_18jPiA&utm_medium=api&utm_source=53549fa7&v=0544A0A411AD8AA88E73BE66910E77B7D3C029BE",
+  "title": "Associate Software Engineer",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 103960,
+  "salary_max": 103960,
+  "posted_at": "2026-10-14T06:59:36.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T11:47:41.105Z"
+ },
+ "84ec49fd64936dc5e6edda61d406804cd0c63ee9": {
+  "id": "84ec49fd64936dc5e6edda61d406804cd0c63ee9",
+  "source": "adzuna",
+  "external_id": "5927247416",
+  "url": "https://www.adzuna.com/land/ad/5927247416?se=ykC2_8TH8RGP4Mo_18jPiA&utm_medium=api&utm_source=53549fa7&v=162BC148A5F7383CCDD53BCD4F42BFB43220102A",
+  "title": "Full-Time Licensed Mental Health Therapist - Remote",
+  "company": "Clarity Wellness Center",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 120000,
+  "salary_max": 130000,
+  "posted_at": "2026-10-14T06:07:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T11:47:41.105Z"
+ },
+ "91972ca54f7292886cb00b7143feac26c972f85f": {
+  "id": "91972ca54f7292886cb00b7143feac26c972f85f",
+  "source": "adzuna",
+  "external_id": "5927232134",
+  "url": "https://www.adzuna.com/details/5927232134?utm_medium=api&utm_source=53549fa7",
+  "title": "Senior Design Engineer",
+  "company": "Southland Industries",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 139306,
+  "salary_max": 139306,
+  "posted_at": "2026-10-14T05:51:06.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T11:47:41.105Z"
+ },
+ "e1c5595151e40d6f04909ed27fbcc3c559ef0892": {
+  "id": "e1c5595151e40d6f04909ed27fbcc3c559ef0892",
+  "source": "adzuna",
+  "external_id": "5927311220",
+  "url": "https://www.adzuna.com/land/ad/5927311220?se=xAxcAsXH8RGghcfl051iWw&utm_medium=api&utm_source=53549fa7&v=FADFA98EF6F8134777922E2BB01828305E965091",
+  "title": "Senior Project Manager- Life Sciences Research Services",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 161421,
+  "salary_max": 161421,
+  "posted_at": "2026-10-14T07:03:10.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-14T11:47:41.105Z"
+ },
+ "3e7c897d14d7e5b6b44a2db9191182c564e9a651": {
+  "id": "3e7c897d14d7e5b6b44a2db9191182c564e9a651",
+  "source": "adzuna",
+  "external_id": "5926989936",
+  "url": "https://www.adzuna.com/details/5926989936?utm_medium=api&utm_source=53549fa7",
+  "title": "Senior Project Manager",
+  "company": "Build Your Future with The Boldt Company",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 153000,
+  "salary_max": 206000,
+  "posted_at": "2026-10-14T02:38:34.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-14T11:47:41.105Z"
  }
 }
