@@ -5165,5 +5165,59 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-10-14T11:47:41.105Z"
+ },
+ "293374e5c09c7a9582c843ca4d63dfa260835118": {
+  "id": "293374e5c09c7a9582c843ca4d63dfa260835118",
+  "source": "adzuna",
+  "external_id": "5927433973",
+  "url": "https://www.adzuna.com/details/5927433973?utm_medium=api&utm_source=53549fa7",
+  "title": "Travel Nurse RN - Emergency Room (ER) / Trauma - $2,553 per week in Lodi, CA",
+  "company": "Medical Solutions",
+  "location": "Lodi, San Joaquin County",
+  "remote": null,
+  "salary_min": 10212,
+  "salary_max": 10212,
+  "posted_at": "2026-10-14T07:37:51.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T17:07:41.624Z"
+ },
+ "e0c1a981b02d4e4d80650ac76fef971f75f2c0a1": {
+  "id": "e0c1a981b02d4e4d80650ac76fef971f75f2c0a1",
+  "source": "workday:sutterhealth",
+  "external_id": "R-137576",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Emergency-Room-Technician_R-137576",
+  "title": "Emergency Room Technician",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 68640,
+  "salary_max": 96096,
+  "posted_at": "2026-10-14T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T17:07:41.624Z"
+ },
+ "20639e2b4f476e9644f5c434a16da0f2f3b2cc76": {
+  "id": "20639e2b4f476e9644f5c434a16da0f2f3b2cc76",
+  "source": "workday:philips",
+  "external_id": "593036",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Ontario-California-United-States/Design-Transfer-Engineer_593036-1",
+  "title": "Design Transfer Engineer",
+  "company": "Philips",
+  "location": "Ontario, California, United States",
+  "remote": null,
+  "salary_min": 105000,
+  "salary_max": 168000,
+  "posted_at": "2026-10-14T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T17:07:41.624Z"
  }
 }
