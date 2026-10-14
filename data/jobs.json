@@ -4913,5 +4913,131 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-13T22:41:46.861Z"
+ },
+ "fe4ab74dda767c885655265a7e175732df82b649": {
+  "id": "fe4ab74dda767c885655265a7e175732df82b649",
+  "source": "adzuna",
+  "external_id": "5926431275",
+  "url": "https://www.adzuna.com/details/5926431275?utm_medium=api&utm_source=53549fa7",
+  "title": "Regional Director of Sales – Sacramento Hotel Portfolio - Sacramento Region, CA",
+  "company": "WS Management",
+  "location": "Rosemont, Sacramento County",
+  "remote": null,
+  "salary_min": 80000,
+  "salary_max": 100000,
+  "posted_at": "2026-10-13T20:55:51.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T04:49:20.761Z"
+ },
+ "1443cf7a117422ff52a256210698861471c46ef7": {
+  "id": "1443cf7a117422ff52a256210698861471c46ef7",
+  "source": "adzuna",
+  "external_id": "5926798190",
+  "url": "https://www.adzuna.com/land/ad/5926798190?se=rorbjIrH8RGHbafllriu5Q&utm_medium=api&utm_source=53549fa7&v=7248DB7385CA8D21610D7790EFA5FDD454389464",
+  "title": "Technical Communicator, Senior",
+  "company": "Blue Shield of California",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 69246,
+  "salary_max": 69246,
+  "posted_at": "2026-10-13T23:15:10.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T04:49:20.761Z"
+ },
+ "3f65ad5ecbc505135886bc688fbee7391e34beb8": {
+  "id": "3f65ad5ecbc505135886bc688fbee7391e34beb8",
+  "source": "adzuna",
+  "external_id": "5926514292",
+  "url": "https://www.adzuna.com/details/5926514292?utm_medium=api&utm_source=53549fa7",
+  "title": "Nurse Director, Hospital - Maternal Child Health",
+  "company": "VSV WINS INC",
+  "location": "Long Island, Sacramento County",
+  "remote": null,
+  "salary_min": 249000,
+  "salary_max": 289000,
+  "posted_at": "2026-10-13T21:29:39.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T04:49:20.761Z"
+ },
+ "db1aeedbb309b72c12774724eda4d7d3e32b9f6a": {
+  "id": "db1aeedbb309b72c12774724eda4d7d3e32b9f6a",
+  "source": "adzuna",
+  "external_id": "5926392591",
+  "url": "https://www.adzuna.com/land/ad/5926392591?se=rorbjIrH8RGHbafllriu5Q&utm_medium=api&utm_source=53549fa7&v=002EBC8CDE1B22E2ADBA8BAC6B89986D7E3B6C53",
+  "title": "Design Coordinator - Healthcare",
+  "company": "Stantec",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 80522,
+  "salary_max": 80522,
+  "posted_at": "2026-10-13T20:37:16.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T04:49:20.761Z"
+ },
+ "a359e02455faf90f914f472c6f4dcc39fc73fb03": {
+  "id": "a359e02455faf90f914f472c6f4dcc39fc73fb03",
+  "source": "adzuna",
+  "external_id": "5926798833",
+  "url": "https://www.adzuna.com/details/5926798833?utm_medium=api&utm_source=53549fa7",
+  "title": "Commercial Construction Project Manager - Healthcare",
+  "company": "D'Ville Construction Inc.",
+  "location": "Nevada City, Nevada County",
+  "remote": null,
+  "salary_min": 148191,
+  "salary_max": 148191,
+  "posted_at": "2026-10-13T23:15:19.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Nevada City, Nevada County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-14T04:49:20.761Z"
+ },
+ "51641356791aec6d57e326c759872b3b9e011aa6": {
+  "id": "51641356791aec6d57e326c759872b3b9e011aa6",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143516",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Assistant-II--Neuroscience_R-143516-1",
+  "title": "Medical Assistant II, Neuroscience",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-13T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T04:49:20.761Z"
+ },
+ "16b8b144d3d86f474a4bf3aa48d80cd4cdda95cb": {
+  "id": "16b8b144d3d86f474a4bf3aa48d80cd4cdda95cb",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143591",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Radiologic-Technologist--Open-_R-143591",
+  "title": "Radiologic Technologist (Open)",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 123926,
+  "salary_max": 173472,
+  "posted_at": "2026-10-13T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-14T04:49:20.761Z"
  }
 }
