@@ -5417,5 +5417,59 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-15T11:24:49.185Z"
+ },
+ "c8e173bef74a440535c469dbe5d40a77817ae76c": {
+  "id": "c8e173bef74a440535c469dbe5d40a77817ae76c",
+  "source": "adzuna",
+  "external_id": "5929158340",
+  "url": "https://www.adzuna.com/details/5929158340?utm_medium=api&utm_source=53549fa7",
+  "title": "Design Coordinator - Healthcare",
+  "company": "Stantec",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 94890,
+  "salary_max": 94890,
+  "posted_at": "2026-10-15T11:40:59.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T16:57:18.721Z"
+ },
+ "f741d6e17cf62f8a75a1dadf7ccd0670a001e788": {
+  "id": "f741d6e17cf62f8a75a1dadf7ccd0670a001e788",
+  "source": "adzuna",
+  "external_id": "5928991357",
+  "url": "https://www.adzuna.com/details/5928991357?utm_medium=api&utm_source=53549fa7",
+  "title": "Nurse Director – Maternal Child Health",
+  "company": "Fox Point Recruitment LLC",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 173833,
+  "salary_max": 173833,
+  "posted_at": "2026-10-15T08:00:39.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T16:57:18.721Z"
+ },
+ "657c9482e356816ad7e9690aff32e8f5a40526af": {
+  "id": "657c9482e356816ad7e9690aff32e8f5a40526af",
+  "source": "adzuna",
+  "external_id": "5928973069",
+  "url": "https://www.adzuna.com/details/5928973069?utm_medium=api&utm_source=53549fa7",
+  "title": "Architecture Project Manager: Healthcare",
+  "company": "LPA",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 100000,
+  "salary_max": 160000,
+  "posted_at": "2026-10-15T07:33:19.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-15T16:57:18.721Z"
  }
 }
