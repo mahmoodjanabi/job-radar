@@ -5291,5 +5291,131 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-15T04:33:49.649Z"
+ },
+ "ac34b4e43b42b7c26999acc4ea8f1e3166cbaeb5": {
+  "id": "ac34b4e43b42b7c26999acc4ea8f1e3166cbaeb5",
+  "source": "adzuna",
+  "external_id": "5928835449",
+  "url": "https://www.adzuna.com/land/ad/5928835449?se=9DqP-orI8RG7M7F4dtppAg&utm_medium=api&utm_source=53549fa7&v=D78CCC79848DF3AF0C5233994461FAA69E7A9BA9",
+  "title": "Senior US Marketing Manager, Incontinence",
+  "company": "Cardinal Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 165097,
+  "salary_max": 165097,
+  "posted_at": "2026-10-15T07:06:10.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T11:24:49.185Z"
+ },
+ "6e5d345b849d8afb455220415c4290d3697c4d0b": {
+  "id": "6e5d345b849d8afb455220415c4290d3697c4d0b",
+  "source": "adzuna",
+  "external_id": "5928817738",
+  "url": "https://www.adzuna.com/land/ad/5928817738?se=9DqP-orI8RG7M7F4dtppAg&utm_medium=api&utm_source=53549fa7&v=B729AE7540E7AF1921AA6F081828A55DE4EDAC7D",
+  "title": "Structural Design Technician",
+  "company": "Jacobs",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 77904,
+  "salary_max": 77904,
+  "posted_at": "2026-10-15T07:01:28.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T11:24:49.185Z"
+ },
+ "b650f5f8b5c671a29d08b3fa05edb4a1cf514b79": {
+  "id": "b650f5f8b5c671a29d08b3fa05edb4a1cf514b79",
+  "source": "adzuna",
+  "external_id": "5928775239",
+  "url": "https://www.adzuna.com/land/ad/5928775239?se=9DqP-orI8RG7M7F4dtppAg&utm_medium=api&utm_source=53549fa7&v=9523B0208C634227D8CFD923BDB77E2CEC3526EA",
+  "title": "Orthopedic Physical Therapy Assistant - Full-Time Opportunity in Rocklin, CA",
+  "company": "Reinforce Physical Therapy",
+  "location": "Rocklin, Placer County",
+  "remote": null,
+  "salary_min": 50000,
+  "salary_max": 70000,
+  "posted_at": "2026-10-15T06:09:18.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T11:24:49.185Z"
+ },
+ "f7b84735d678341bc807e8d742331ac2be64576f": {
+  "id": "f7b84735d678341bc807e8d742331ac2be64576f",
+  "source": "adzuna",
+  "external_id": "5927307890",
+  "url": "https://www.adzuna.com/land/ad/5927307890?se=9DqP-orI8RG7M7F4dtppAg&utm_medium=api&utm_source=53549fa7&v=981FE63C9F80FE366E2ED9868C0A1C7273057D69",
+  "title": "Summer 2027 Underwriting Undergraduate Intern",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 61862,
+  "salary_max": 61862,
+  "posted_at": "2026-10-14T06:59:36.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T11:24:49.185Z"
+ },
+ "6cd339c6e5a615e48a083d3e5c67a9031a29aeea": {
+  "id": "6cd339c6e5a615e48a083d3e5c67a9031a29aeea",
+  "source": "adzuna",
+  "external_id": "5927245570",
+  "url": "https://www.adzuna.com/land/ad/5927245570?se=9DqP-orI8RG7M7F4dtppAg&utm_medium=api&utm_source=53549fa7&v=D9DEDE4EAC8929F4EF83D9021D1C8A7EF84A3A59",
+  "title": "Remote Licensed Clinical Social Worker (LCSW) - Full-Time Position",
+  "company": "Family and Couples Counseling and Well-being Center",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 120000,
+  "salary_max": 140000,
+  "posted_at": "2026-10-14T06:07:13.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T11:24:49.185Z"
+ },
+ "9ac516ac28748f9a25464432bb5b28b8e868b9a2": {
+  "id": "9ac516ac28748f9a25464432bb5b28b8e868b9a2",
+  "source": "adzuna",
+  "external_id": "5928555588",
+  "url": "https://www.adzuna.com/land/ad/5928555588?se=UC4h-4rI8RG7ctO7icvY9Q&utm_medium=api&utm_source=53549fa7&v=35A53E91431AF6A2272BFF65F831175FB7E09D40",
+  "title": "Full Time Occupational Therapist / OT ($15K Sign-On!)",
+  "company": "Mission Healthcare",
+  "location": "Fairfield, Solano County",
+  "remote": null,
+  "salary_min": 156000,
+  "salary_max": 187200,
+  "posted_at": "2026-10-15T01:39:19.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T11:24:49.185Z"
+ },
+ "3985010480cd051372ebafd5d6ff47b68b3b6767": {
+  "id": "3985010480cd051372ebafd5d6ff47b68b3b6767",
+  "source": "adzuna",
+  "external_id": "5928825752",
+  "url": "https://www.adzuna.com/land/ad/5928825752?se=HmDp-4rI8RGPnasyv6g_Fw&utm_medium=api&utm_source=53549fa7&v=913B37D5C797CE97AF3415A807992D68B073DA3A",
+  "title": "Manager, Medical Affairs Congress Planning and Execution (CNS)",
+  "company": "Otsuka America Pharmaceutical Inc.",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 157890,
+  "salary_max": 157890,
+  "posted_at": "2026-10-15T07:04:56.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T11:24:49.185Z"
  }
 }
