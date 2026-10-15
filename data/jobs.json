@@ -5255,5 +5255,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-14T21:38:41.505Z"
+ },
+ "cd71cadbfc855c3b8a9aff823dc886ba853a57c8": {
+  "id": "cd71cadbfc855c3b8a9aff823dc886ba853a57c8",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143004",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Medical-Assistant-II----Patient-Service-Representative--Urology_R-143004-1",
+  "title": "Medical Assistant II, & Patient Service Representative, Urology",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-14T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T04:33:49.649Z"
+ },
+ "d9731f7e6205af42cf2583c8d84afeffe15bc464": {
+  "id": "d9731f7e6205af42cf2583c8d84afeffe15bc464",
+  "source": "workday:sutterhealth",
+  "external_id": "R-136799",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Behavioral-Health-Technician_R-136799-1",
+  "title": "Behavioral Health Technician",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 59800,
+  "salary_max": 83699,
+  "posted_at": "2026-10-14T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T04:33:49.649Z"
  }
 }
