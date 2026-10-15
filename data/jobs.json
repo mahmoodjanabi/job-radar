@@ -5471,5 +5471,95 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-10-15T16:57:18.721Z"
+ },
+ "d585085dc3b0449b1dc51a7af54062863210a274": {
+  "id": "d585085dc3b0449b1dc51a7af54062863210a274",
+  "source": "adzuna",
+  "external_id": "5929337572",
+  "url": "https://www.adzuna.com/land/ad/5929337572?se=vPmjM97I8RGINu7MzrNU1Q&utm_medium=api&utm_source=53549fa7&v=F0E20BE75F246B47568B7C8DC9D1A6CA2C8E28D1",
+  "title": "Project Architect - Healthcare (HCAi / OSHPD)",
+  "company": "Bancroft Staffing Partners",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 83139,
+  "salary_max": 83139,
+  "posted_at": "2026-10-15T14:24:01.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "salary max 83139 < floor"
+  },
+  "first_seen_at": "2026-10-15T21:20:34.428Z"
+ },
+ "023ebb4982fb711f84c43bf1075f8763762671e1": {
+  "id": "023ebb4982fb711f84c43bf1075f8763762671e1",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143402",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Virtual-Patient-Safety-Attendant_R-143402",
+  "title": "Virtual Patient Safety Attendant",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": null,
+  "salary_max": null,
+  "posted_at": "2026-10-15T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T21:20:34.428Z"
+ },
+ "b9a333b71586501d26e9ae1ed595d4ec836a9ccb": {
+  "id": "b9a333b71586501d26e9ae1ed595d4ec836a9ccb",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143661",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Monitor-Technician-I--Centralized-Monitoring_R-143661",
+  "title": "Monitor Technician I, Centralized Monitoring",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60382,
+  "salary_max": 84510,
+  "posted_at": "2026-10-15T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T21:20:34.428Z"
+ },
+ "88a424d918d88f49e3eee1d386747aea5549c54c": {
+  "id": "88a424d918d88f49e3eee1d386747aea5549c54c",
+  "source": "workday:philips",
+  "external_id": "583528",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Brazil---Remote-Based/Medical-Devices-Maintenance-Specialist-III_583528",
+  "title": "Medical Devices Maintenance Specialist III",
+  "company": "Philips",
+  "location": "Brazil - Remote Based",
+  "remote": null,
+  "salary_min": null,
+  "salary_max": null,
+  "posted_at": "2026-10-15T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T21:20:34.428Z"
+ },
+ "8393a1fbc1d8dc33f7897ad3f960631f3214a40a": {
+  "id": "8393a1fbc1d8dc33f7897ad3f960631f3214a40a",
+  "source": "workday:philips",
+  "external_id": "591905",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Zone-Installation-Specialist---Medical-Imaging--Travel--Midwest-Zone-_591905",
+  "title": "Zone Installation Specialist - Medical Imaging (Travel: Midwest Zone)",
+  "company": "Philips",
+  "location": "United States of America - Remote Based, United States",
+  "remote": null,
+  "salary_min": 26000,
+  "salary_max": 41000,
+  "posted_at": "2026-10-15T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-15T21:20:34.428Z"
  }
 }
