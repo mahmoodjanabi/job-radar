@@ -5777,5 +5777,59 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-16T11:18:24.621Z"
+ },
+ "b3614309749cb20daa1fd98eeb52b28afbc27d1f": {
+  "id": "b3614309749cb20daa1fd98eeb52b28afbc27d1f",
+  "source": "adzuna",
+  "external_id": "5930751547",
+  "url": "https://www.adzuna.com/land/ad/5930751547?se=CpT_k3_J8RGq65mh8wCbFA&utm_medium=api&utm_source=53549fa7&v=7DE77EF1056DB06A9EAD8F35D214379287231880",
+  "title": "Home Health Branch Director / Administrator (RN)",
+  "company": "Mission Healthcare",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 74619,
+  "salary_max": 74619,
+  "posted_at": "2026-10-16T10:56:05.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T16:35:50.072Z"
+ },
+ "990f123bd309ba30c64f85bdd9a06c1bcce04a7f": {
+  "id": "990f123bd309ba30c64f85bdd9a06c1bcce04a7f",
+  "source": "adzuna",
+  "external_id": "5930748265",
+  "url": "https://www.adzuna.com/details/5930748265?utm_medium=api&utm_source=53549fa7",
+  "title": "Exercise Physiologist II",
+  "company": "Sutter Health",
+  "location": "Davis, Yolo County",
+  "remote": null,
+  "salary_min": 89752,
+  "salary_max": 125632,
+  "posted_at": "2026-10-16T10:51:23.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T16:35:50.072Z"
+ },
+ "30e500cf2e39d28167b04a112b443abb18a6bf02": {
+  "id": "30e500cf2e39d28167b04a112b443abb18a6bf02",
+  "source": "adzuna",
+  "external_id": "5930454669",
+  "url": "https://www.adzuna.com/details/5930454669?utm_medium=api&utm_source=53549fa7",
+  "title": "Commercial HVAC Project Manager",
+  "company": "Gpac",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 75000,
+  "salary_max": 120000,
+  "posted_at": "2026-10-16T07:12:12.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-16T16:35:50.072Z"
  }
 }
