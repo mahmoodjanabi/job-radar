@@ -5561,5 +5561,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-15T21:20:34.428Z"
+ },
+ "ea14e4e2cf460ba6e60258044261783d2f925b2c": {
+  "id": "ea14e4e2cf460ba6e60258044261783d2f925b2c",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143491",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Nursing-Assistant--Surgical-Acute_R-143491-1",
+  "title": "Nursing Assistant, Surgical Acute",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 55286,
+  "salary_max": 67392,
+  "posted_at": "2026-10-15T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T04:27:05.248Z"
+ },
+ "2ee02a13b4fb461746b5ce3c1a24ed0b7e5901ad": {
+  "id": "2ee02a13b4fb461746b5ce3c1a24ed0b7e5901ad",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143725",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Licensed-Vocational-Nurse--IV-Certified---Urgent-Care_R-143725",
+  "title": "Licensed Vocational Nurse (IV Certified), Urgent Care",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 81474,
+  "salary_max": 114046,
+  "posted_at": "2026-10-15T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T04:27:05.248Z"
  }
 }
