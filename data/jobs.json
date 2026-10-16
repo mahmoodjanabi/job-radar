@@ -5597,5 +5597,185 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-16T04:27:05.248Z"
+ },
+ "74bef9734a986d6ea6112eea9e0e8dca5a398534": {
+  "id": "74bef9734a986d6ea6112eea9e0e8dca5a398534",
+  "source": "adzuna",
+  "external_id": "5930391749",
+  "url": "https://www.adzuna.com/land/ad/5930391749?se=dNnLNVPJ8RGBMbk-mPfQEA&utm_medium=api&utm_source=53549fa7&v=14F8928F9D3C7B277C32BA4B4430A2381CFE8503",
+  "title": "Senior Product Designer",
+  "company": "Datavant",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 149366,
+  "salary_max": 149366,
+  "posted_at": "2026-10-16T06:59:21.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-16T11:18:24.621Z"
+ },
+ "a0d74fc4abffd0c6a4544404b680fe7a7f3ef59b": {
+  "id": "a0d74fc4abffd0c6a4544404b680fe7a7f3ef59b",
+  "source": "adzuna",
+  "external_id": "5930389371",
+  "url": "https://www.adzuna.com/land/ad/5930389371?se=dNnLNVPJ8RGBMbk-mPfQEA&utm_medium=api&utm_source=53549fa7&v=8E89CAAEEF2612F32AB225062D5A1F68E0EB90CC",
+  "title": "Facets Product & Benefits Senior Analyst (Remote - US)",
+  "company": "Cognizant",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 82092,
+  "salary_max": 82092,
+  "posted_at": "2026-10-16T06:58:27.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T11:18:24.621Z"
+ },
+ "fa9ff53283f00785f79973229bbcef90c1c89861": {
+  "id": "fa9ff53283f00785f79973229bbcef90c1c89861",
+  "source": "adzuna",
+  "external_id": "5930389289",
+  "url": "https://www.adzuna.com/land/ad/5930389289?se=dNnLNVPJ8RGBMbk-mPfQEA&utm_medium=api&utm_source=53549fa7&v=761EC552C2459FC12C5E33D760F30138621E6616",
+  "title": "Facets Product and Benefits Consultant (Remote - US)",
+  "company": "Cognizant",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 67856,
+  "salary_max": 67856,
+  "posted_at": "2026-10-16T06:58:26.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T11:18:24.621Z"
+ },
+ "dbcf09e46f54e19a4d6020e77206aba3cdee92bd": {
+  "id": "dbcf09e46f54e19a4d6020e77206aba3cdee92bd",
+  "source": "adzuna",
+  "external_id": "5930384175",
+  "url": "https://www.adzuna.com/land/ad/5930384175?se=dNnLNVPJ8RGBMbk-mPfQEA&utm_medium=api&utm_source=53549fa7&v=A07B870E9381A4C295CEF1F5167E17037AC81F1F",
+  "title": "Pharmacy Hub Business Process Professional",
+  "company": "CenterWell",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 103798,
+  "salary_max": 103798,
+  "posted_at": "2026-10-16T06:57:53.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T11:18:24.621Z"
+ },
+ "e47b6d02b47edd3361d97d53d42a045e6f1bae37": {
+  "id": "e47b6d02b47edd3361d97d53d42a045e6f1bae37",
+  "source": "adzuna",
+  "external_id": "5928818247",
+  "url": "https://www.adzuna.com/details/5928818247?utm_medium=api&utm_source=53549fa7",
+  "title": "Nurse Director, Hospital - Maternal Child Health",
+  "company": "I8IS INC.",
+  "location": "Long Island, Sacramento County",
+  "remote": null,
+  "salary_min": 102439,
+  "salary_max": 102439,
+  "posted_at": "2026-10-15T07:01:40.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T11:18:24.621Z"
+ },
+ "7e608ed2c6c124c1c706cdbf4cf45bc8c302738c": {
+  "id": "7e608ed2c6c124c1c706cdbf4cf45bc8c302738c",
+  "source": "adzuna",
+  "external_id": "5925474602",
+  "url": "https://www.adzuna.com/land/ad/5925474602?se=dNnLNVPJ8RGBMbk-mPfQEA&utm_medium=api&utm_source=53549fa7&v=0962B97CD2BE8270B85825B523B1048B916EA353",
+  "title": "Assistant Health Services Administrator - ((RN License Required))",
+  "company": "CHP Health",
+  "location": "Auburn, Placer County",
+  "remote": null,
+  "salary_min": 72558,
+  "salary_max": 72558,
+  "posted_at": "2026-10-13T02:18:20.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T11:18:24.621Z"
+ },
+ "bdea6f76149ef0accf4a0b2d10f88b7f3a19275a": {
+  "id": "bdea6f76149ef0accf4a0b2d10f88b7f3a19275a",
+  "source": "adzuna",
+  "external_id": "5930392315",
+  "url": "https://www.adzuna.com/land/ad/5930392315?se=yDOUN1PJ8RGwmIoU_rTW0w&utm_medium=api&utm_source=53549fa7&v=42CC67E8F4424A5920688492B54A169C3DDE95B8",
+  "title": "RCM Senior Delivery Lead",
+  "company": "Deloitte",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 140207,
+  "salary_max": 140207,
+  "posted_at": "2026-10-16T06:59:37.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T11:18:24.621Z"
+ },
+ "1fae409602fdf164d7fd5602bb30e0b12c8fcd04": {
+  "id": "1fae409602fdf164d7fd5602bb30e0b12c8fcd04",
+  "source": "adzuna",
+  "external_id": "5930389292",
+  "url": "https://www.adzuna.com/land/ad/5930389292?se=yDOUN1PJ8RGwmIoU_rTW0w&utm_medium=api&utm_source=53549fa7&v=389A8D08C0B63576AEE3549ED96544D40C911E45",
+  "title": "Facets Configuration Manager (Remote - US)",
+  "company": "Cognizant",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 125348,
+  "salary_max": 125348,
+  "posted_at": "2026-10-16T06:58:26.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T11:18:24.621Z"
+ },
+ "eee3949b86c9a2800839e8e6041c15d78ca722c2": {
+  "id": "eee3949b86c9a2800839e8e6041c15d78ca722c2",
+  "source": "adzuna",
+  "external_id": "5930378113",
+  "url": "https://www.adzuna.com/land/ad/5930378113?se=KqaWOFPJ8RGwmIoU_rTW0w&utm_medium=api&utm_source=53549fa7&v=E9C21A33F99FBC7E985BB68523C86C6449602EF8",
+  "title": "Clin Apps Spec - CT",
+  "company": "Canon USA & Affiliates",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 127133,
+  "salary_max": 127133,
+  "posted_at": "2026-10-16T06:57:15.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T11:18:24.621Z"
+ },
+ "5cf9eb42917cc2fa13da6783c5e6124f7fe37c4b": {
+  "id": "5cf9eb42917cc2fa13da6783c5e6124f7fe37c4b",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143320",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Nursing-Assistant---Unit-Secretary--High-Risk-Maternity_R-143320",
+  "title": "Nursing Assistant / Unit Secretary, High Risk Maternity",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 62462,
+  "salary_max": 87443,
+  "posted_at": "2026-10-15T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T11:18:24.621Z"
  }
 }
