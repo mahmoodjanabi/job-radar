@@ -5831,5 +5831,59 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-10-16T16:35:50.072Z"
+ },
+ "1fb3442d5705f24edcc83f56c74f64dcf510401c": {
+  "id": "1fb3442d5705f24edcc83f56c74f64dcf510401c",
+  "source": "adzuna",
+  "external_id": "5931053548",
+  "url": "https://www.adzuna.com/land/ad/5931053548?se=Ou_TIqXJ8RGq65mh8wCbFA&utm_medium=api&utm_source=53549fa7&v=472C8FEC02699518A4286AA0122CCAC371943B44",
+  "title": "Sr Project Manager - Healthcare Construction",
+  "company": "Turner & Townsend",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 174063,
+  "salary_max": 174063,
+  "posted_at": "2026-10-16T14:12:34.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-16T21:04:33.599Z"
+ },
+ "ed2cfd35b6104aa6724233183f9ed0b3a0f657a3": {
+  "id": "ed2cfd35b6104aa6724233183f9ed0b3a0f657a3",
+  "source": "adzuna",
+  "external_id": "5930944380",
+  "url": "https://www.adzuna.com/details/5930944380?utm_medium=api&utm_source=53549fa7",
+  "title": "Senior Population Health Management Analyst",
+  "company": "Gainwell Technologies LLC",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 93657,
+  "salary_max": 93657,
+  "posted_at": "2026-10-16T12:43:30.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T21:04:33.599Z"
+ },
+ "2927263dd9263cf708bc4d48a5d265d9195ebd48": {
+  "id": "2927263dd9263cf708bc4d48a5d265d9195ebd48",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143027",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Clinical-Laboratory-Scientist---Technical-Specialist_R-143027",
+  "title": "Clinical Laboratory Scientist - Technical Specialist",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 144477,
+  "salary_max": 202259,
+  "posted_at": "2026-10-16T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-16T21:04:33.599Z"
  }
 }
