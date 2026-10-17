@@ -6047,5 +6047,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-17T10:38:43.507Z"
+ },
+ "a6e05477f10a5cffb095e59a188519e4d508af39": {
+  "id": "a6e05477f10a5cffb095e59a188519e4d508af39",
+  "source": "adzuna",
+  "external_id": "5930393790",
+  "url": "https://www.adzuna.com/land/ad/5930393790?se=boFolj_K8RGShelPZmo4zw&utm_medium=api&utm_source=53549fa7&v=CA3CD21B68D054115F08AFF179B6F7D66D8503E5",
+  "title": "Clinical Applications Specialist, Contrast Media Delivery Solutions",
+  "company": "GE HealthCare",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 138813,
+  "salary_max": 138813,
+  "posted_at": "2026-10-16T07:01:08.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-17T15:30:09.637Z"
  }
 }
