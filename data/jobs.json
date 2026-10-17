@@ -5885,5 +5885,77 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-16T21:04:33.599Z"
+ },
+ "88376cbff07c8929f14b72d3dfabf664c178519e": {
+  "id": "88376cbff07c8929f14b72d3dfabf664c178519e",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143621",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/West-Sacramento/Radiation-eQuip-Physicist-III_R-143621",
+  "title": "Radiation eQuip Physicist III",
+  "company": "Sutter Health",
+  "location": "West Sacramento",
+  "remote": null,
+  "salary_min": 200054,
+  "salary_max": 320091,
+  "posted_at": "2026-10-16T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-17T04:21:19.686Z"
+ },
+ "40045b1642916be0c32029ece1ac7fc770186c61": {
+  "id": "40045b1642916be0c32029ece1ac7fc770186c61",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143388",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/West-Sacramento/Department-Coordinator--Clinical-Engineering_R-143388",
+  "title": "Department Coordinator, Clinical Engineering",
+  "company": "Sutter Health",
+  "location": "West Sacramento",
+  "remote": null,
+  "salary_min": 60008,
+  "salary_max": 84011,
+  "posted_at": "2026-10-16T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-17T04:21:19.686Z"
+ },
+ "d543aa9e6d4d908cea356ca76b8edea6abb507f5": {
+  "id": "d543aa9e6d4d908cea356ca76b8edea6abb507f5",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143756",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Assistant-II--Vascular-Surgery_R-143756",
+  "title": "Medical Assistant II, Vascular Surgery",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-16T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-17T04:21:19.686Z"
+ },
+ "b09d24250229f4cf663a25ea0a99fa72461cac82": {
+  "id": "b09d24250229f4cf663a25ea0a99fa72461cac82",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143295",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Infection-Preventionist--Acute--RN-_R-143295",
+  "title": "Infection Preventionist, Acute (RN)",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 163758,
+  "salary_max": 229257,
+  "posted_at": "2026-10-16T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-17T04:21:19.686Z"
  }
 }
