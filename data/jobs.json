@@ -5957,5 +5957,95 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-17T04:21:19.686Z"
+ },
+ "de923f99200e1d04dc5f1e4b0cd85dd2fef72688": {
+  "id": "de923f99200e1d04dc5f1e4b0cd85dd2fef72688",
+  "source": "adzuna",
+  "external_id": "5931290887",
+  "url": "https://www.adzuna.com/details/5931290887?utm_medium=api&utm_source=53549fa7",
+  "title": "Clinical Resources Nurse",
+  "company": "Western Health Advantage",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 51252,
+  "salary_max": 51252,
+  "posted_at": "2026-10-16T20:36:16.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-17T10:38:43.507Z"
+ },
+ "6783dbccc444dc8b5d75c65184ae51069cf48433": {
+  "id": "6783dbccc444dc8b5d75c65184ae51069cf48433",
+  "source": "adzuna",
+  "external_id": "5931914130",
+  "url": "https://www.adzuna.com/details/5931914130?utm_medium=api&utm_source=53549fa7",
+  "title": "Architect (All Levels)",
+  "company": "Lionakis",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 102062,
+  "salary_max": 102062,
+  "posted_at": "2026-10-17T05:05:25.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-17T10:38:43.507Z"
+ },
+ "686a3106c6cf5dc88ee3bbf53757c320f1f7efe2": {
+  "id": "686a3106c6cf5dc88ee3bbf53757c320f1f7efe2",
+  "source": "adzuna",
+  "external_id": "5931951215",
+  "url": "https://www.adzuna.com/land/ad/5931951215?se=GPxz2hbK8RGjutuTSb6jOA&utm_medium=api&utm_source=53549fa7&v=F64FC8C3CDCA111C4732E1631D2C1B411CD23796",
+  "title": "Licensed Clinical Social Worker (LCSW) – Remote Opportunity at San Ysidro Wellness Center",
+  "company": "San Ysidro Wellness Center",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 70000,
+  "salary_max": 85000,
+  "posted_at": "2026-10-17T06:14:46.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-17T10:38:43.507Z"
+ },
+ "b4bf2ce273795af8acc5d882e97cd24495439296": {
+  "id": "b4bf2ce273795af8acc5d882e97cd24495439296",
+  "source": "adzuna",
+  "external_id": "5931704239",
+  "url": "https://www.adzuna.com/land/ad/5931704239?se=GPxz2hbK8RGjutuTSb6jOA&utm_medium=api&utm_source=53549fa7&v=8BA4E896E7CB7A09C7CD96C88537B92FB4C3731A",
+  "title": "Travel Nurse RN - Med Surg - $2,290 per week",
+  "company": "Slate Healthcare",
+  "location": "Linda, Yuba County",
+  "remote": null,
+  "salary_min": 0,
+  "salary_max": 119080,
+  "posted_at": "2026-10-17T00:47:06.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-17T10:38:43.507Z"
+ },
+ "557b0940cdfb69091a4ca9b949a1efc2ffa19620": {
+  "id": "557b0940cdfb69091a4ca9b949a1efc2ffa19620",
+  "source": "adzuna",
+  "external_id": "5931772309",
+  "url": "https://www.adzuna.com/details/5931772309?utm_medium=api&utm_source=53549fa7",
+  "title": "Officer, Ethics & Compliance, Revenue Cycle",
+  "company": "Sutter Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 148824,
+  "salary_max": 238118,
+  "posted_at": "2026-10-17T01:59:50.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-17T10:38:43.507Z"
  }
 }
