@@ -6101,5 +6101,77 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-18T11:00:06.598Z"
+ },
+ "45c9fdd91efe3cfdf841fa79474ebee917389aa4": {
+  "id": "45c9fdd91efe3cfdf841fa79474ebee917389aa4",
+  "source": "adzuna",
+  "external_id": "5933205995",
+  "url": "https://www.adzuna.com/land/ad/5933205995?se=fJH-eQvL8RGjutuTSb6jOA&utm_medium=api&utm_source=53549fa7&v=B20F65A3A811E37F57E68F5DFC87623126563E4A",
+  "title": "Field Service Engineer III - Cranial and Spinal Technologies (Sacramento, CA)",
+  "company": "Medtronic",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 105806,
+  "salary_max": 105806,
+  "posted_at": "2026-10-18T07:04:50.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-18T15:49:41.117Z"
+ },
+ "79e895581c98b5281c2be5d4af9b0635aabef114": {
+  "id": "79e895581c98b5281c2be5d4af9b0635aabef114",
+  "source": "adzuna",
+  "external_id": "5933195774",
+  "url": "https://www.adzuna.com/land/ad/5933195774?se=fJH-eQvL8RGjutuTSb6jOA&utm_medium=api&utm_source=53549fa7&v=01E4D0ACFEF35F3F90FB84CAD0A2C26A17BE2805",
+  "title": "Director, Product Science",
+  "company": "Datavant",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 128518,
+  "salary_max": 128518,
+  "posted_at": "2026-10-18T06:58:20.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-18T15:49:41.117Z"
+ },
+ "ff6c0e0e47ae82e3ffc7505203380731804e17b2": {
+  "id": "ff6c0e0e47ae82e3ffc7505203380731804e17b2",
+  "source": "adzuna",
+  "external_id": "5933200171",
+  "url": "https://www.adzuna.com/land/ad/5933200171?se=OiDYewvL8RGq65mh8wCbFA&utm_medium=api&utm_source=53549fa7&v=34BFA08868B46D19A8641620792230B1B1E9591D",
+  "title": "Project Manager - United Concordia Dental",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 103946,
+  "salary_max": 103946,
+  "posted_at": "2026-10-18T07:01:39.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-18T15:49:41.117Z"
+ },
+ "13f5cdf4dd210192f7bc63cc006128fac2d21b4c": {
+  "id": "13f5cdf4dd210192f7bc63cc006128fac2d21b4c",
+  "source": "adzuna",
+  "external_id": "5933200170",
+  "url": "https://www.adzuna.com/land/ad/5933200170?se=OiDYewvL8RGq65mh8wCbFA&utm_medium=api&utm_source=53549fa7&v=3FEC7D424C5D6CD64D065B1182FD7B65F1004FE1",
+  "title": "Program Manager - United Concordia Dental",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 133997,
+  "salary_max": 133997,
+  "posted_at": "2026-10-18T07:01:39.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-18T15:49:41.117Z"
  }
 }
