@@ -6065,5 +6065,41 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-10-17T15:30:09.637Z"
+ },
+ "1542e45b7f5ccf40781fe912c569e1159e5f80a8": {
+  "id": "1542e45b7f5ccf40781fe912c569e1159e5f80a8",
+  "source": "adzuna",
+  "external_id": "5932258449",
+  "url": "https://www.adzuna.com/details/5932258449?utm_medium=api&utm_source=53549fa7",
+  "title": "Director, Project Management, Valley",
+  "company": "Sutter Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 200096,
+  "salary_max": 320154,
+  "posted_at": "2026-10-17T10:19:03.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-18T11:00:06.598Z"
+ },
+ "04a90639d5121189af0b89f2f1266316673acfa1": {
+  "id": "04a90639d5121189af0b89f2f1266316673acfa1",
+  "source": "adzuna",
+  "external_id": "5932006933",
+  "url": "https://www.adzuna.com/land/ad/5932006933?se=IqktBuPK8RGD3NuKZ_epjg&utm_medium=api&utm_source=53549fa7&v=F966C5B731BA6CFCEA7B38F600EF251B70B5DC52",
+  "title": "Senior Medical Stop Loss Underwriter",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 64650,
+  "salary_max": 64650,
+  "posted_at": "2026-10-17T07:00:59.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-18T11:00:06.598Z"
  }
 }
