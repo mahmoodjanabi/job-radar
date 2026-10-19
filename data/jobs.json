@@ -6173,5 +6173,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-18T15:49:41.117Z"
+ },
+ "98bfe8b41594ad4c337a18f0c4846b644f6f7ad0": {
+  "id": "98bfe8b41594ad4c337a18f0c4846b644f6f7ad0",
+  "source": "adzuna",
+  "external_id": "5933202324",
+  "url": "https://www.adzuna.com/land/ad/5933202324?se=hn54f3bL8RGq65mh8wCbFA&utm_medium=api&utm_source=53549fa7&v=AD6357EC8F5A259FD9A15C4D9CE9F488C3676A8A",
+  "title": "Operational Readiness Clinical Project Manager",
+  "company": "Insight Global",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 108155,
+  "salary_max": 108155,
+  "posted_at": "2026-10-18T07:02:38.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-19T04:35:43.004Z"
  }
 }
