@@ -6209,5 +6209,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-19T13:06:34.053Z"
+ },
+ "a376204b48fb0da97c268df92589eaefb7cc4f67": {
+  "id": "a376204b48fb0da97c268df92589eaefb7cc4f67",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144085",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Ophthalmic-Assistant-II--Pediatric-Ophthalmology_R-144085",
+  "title": "Ophthalmic Assistant II, Pediatric Ophthalmology",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 71656,
+  "salary_max": 100318,
+  "posted_at": "2026-10-19T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-19T22:19:27.041Z"
  }
 }
