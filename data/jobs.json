@@ -6191,5 +6191,23 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-10-19T04:35:43.004Z"
+ },
+ "d5481da7e7f50de8228042b6637d55e044bd6edc": {
+  "id": "d5481da7e7f50de8228042b6637d55e044bd6edc",
+  "source": "adzuna",
+  "external_id": "5934096688",
+  "url": "https://www.adzuna.com/land/ad/5934096688?se=FkLyzr3L8RGDdvJW8eCByg&utm_medium=api&utm_source=53549fa7&v=6DFBD1A532ACF84D2B0316284BD087C5E7E84441",
+  "title": "Full-Time Pediatric Physical Therapist Assistant - Hospital Setting",
+  "company": "Fortis Motion LLC",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 42380,
+  "salary_max": 42380,
+  "posted_at": "2026-10-19T06:17:36.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-19T13:06:34.053Z"
  }
 }
