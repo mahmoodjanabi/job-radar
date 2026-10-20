@@ -6371,5 +6371,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-20T04:44:55.314Z"
+ },
+ "b3a14ce77ad10eda96f92d38e4b8eeffd70d70a6": {
+  "id": "b3a14ce77ad10eda96f92d38e4b8eeffd70d70a6",
+  "source": "adzuna",
+  "external_id": "5935362281",
+  "url": "https://www.adzuna.com/land/ad/5935362281?se=EgPQuHnM8RGSvYUmXtLuxQ&utm_medium=api&utm_source=53549fa7&v=28CB977AA8A691CB5F01D191439F3FA2A26EEA56",
+  "title": "Exercise Physiologist II",
+  "company": "Sutter Health",
+  "location": "El Macero, Yolo County",
+  "remote": null,
+  "salary_min": 85774,
+  "salary_max": 85774,
+  "posted_at": "2026-10-20T07:18:49.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-20T11:31:28.528Z"
  }
 }
