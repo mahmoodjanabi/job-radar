@@ -6425,5 +6425,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-20T16:59:46.946Z"
+ },
+ "50a6a6c96f7f2a49430111ec93f161a8571c3c65": {
+  "id": "50a6a6c96f7f2a49430111ec93f161a8571c3c65",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141987",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Unit-Secretary---Nursing-Assistant--Telemetry_R-141987",
+  "title": "Unit Secretary / Nursing Assistant, Telemetry",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 64022,
+  "salary_max": 78083,
+  "posted_at": "2026-10-20T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-20T21:35:06.443Z"
+ },
+ "ed653cf89638941d22892bf6f9fa983663f36966": {
+  "id": "ed653cf89638941d22892bf6f9fa983663f36966",
+  "source": "workday:sutterhealth",
+  "external_id": "R-135787",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Unit-Secretary---Nursing-Assistant--Clinical-Support-Staff_R-135787-1",
+  "title": "Unit Secretary / Nursing Assistant, Clinical Support Staff",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 62462,
+  "salary_max": 87443,
+  "posted_at": "2026-10-20T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-20T21:35:06.443Z"
  }
 }
