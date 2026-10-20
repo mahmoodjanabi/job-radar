@@ -6389,5 +6389,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-20T11:31:28.528Z"
+ },
+ "044bdf45d886426f94b07cefe054d15c2f6604ff": {
+  "id": "044bdf45d886426f94b07cefe054d15c2f6604ff",
+  "source": "adzuna",
+  "external_id": "5935507805",
+  "url": "https://www.adzuna.com/details/5935507805?utm_medium=api&utm_source=53549fa7",
+  "title": "Project Manager",
+  "company": "HGA",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 127666,
+  "salary_max": 127666,
+  "posted_at": "2026-10-20T10:55:02.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-20T16:59:46.946Z"
+ },
+ "9cc27e2a8be061cfc542557fefeaab1aad3c01bf": {
+  "id": "9cc27e2a8be061cfc542557fefeaab1aad3c01bf",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144170",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Mental-Health-Worker-I--Patient-Support_R-144170",
+  "title": "Mental Health Worker I, Patient Support",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 56326,
+  "salary_max": 78832,
+  "posted_at": "2026-10-20T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-20T16:59:46.946Z"
  }
 }
