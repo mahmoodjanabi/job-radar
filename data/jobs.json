@@ -6461,5 +6461,131 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-20T21:35:06.443Z"
+ },
+ "b15a4d18c053ce2122f1280b90bef5fdbeb02a33": {
+  "id": "b15a4d18c053ce2122f1280b90bef5fdbeb02a33",
+  "source": "adzuna",
+  "external_id": "5936599923",
+  "url": "https://www.adzuna.com/land/ad/5936599923?se=iPP1nETN8RGtroHTvgkFuw&utm_medium=api&utm_source=53549fa7&v=1016E3E7986C8B0198DAA568F5C799386EE36B2D",
+  "title": "Principal, Healthcare Mechanical Engineering",
+  "company": "Stantec",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 155102,
+  "salary_max": 155102,
+  "posted_at": "2026-10-21T07:22:49.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-21T11:43:43.751Z"
+ },
+ "615bce53965c96580f661acea258217551f444b7": {
+  "id": "615bce53965c96580f661acea258217551f444b7",
+  "source": "adzuna",
+  "external_id": "5936585938",
+  "url": "https://www.adzuna.com/land/ad/5936585938?se=iPP1nETN8RGtroHTvgkFuw&utm_medium=api&utm_source=53549fa7&v=92B8E069C750EBF3613F9BF1F5C8104482674B6F",
+  "title": "Summer 2027 Data Science R&D Graduate Intern",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 68739,
+  "salary_max": 68739,
+  "posted_at": "2026-10-21T07:15:50.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-21T11:43:43.751Z"
+ },
+ "5e9db49ffe2739bca6e225a55c0d57c83b1185ea": {
+  "id": "5e9db49ffe2739bca6e225a55c0d57c83b1185ea",
+  "source": "adzuna",
+  "external_id": "5936585927",
+  "url": "https://www.adzuna.com/land/ad/5936585927?se=iPP1nETN8RGtroHTvgkFuw&utm_medium=api&utm_source=53549fa7&v=A39B411FEFE2142B8CD5669B15B579CD8D70F6AD",
+  "title": "Software Engineer",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 151606,
+  "salary_max": 151606,
+  "posted_at": "2026-10-21T07:15:49.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-21T11:43:43.751Z"
+ },
+ "7dd460db28e2bac5a2afecf38cd7fea637a19cb1": {
+  "id": "7dd460db28e2bac5a2afecf38cd7fea637a19cb1",
+  "source": "adzuna",
+  "external_id": "5936543724",
+  "url": "https://www.adzuna.com/details/5936543724?utm_medium=api&utm_source=53549fa7",
+  "title": "Water & Wastewater Engineering Intern - Summer 2027",
+  "company": "Salas O'Brien",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 51423,
+  "salary_max": 51423,
+  "posted_at": "2026-10-21T06:23:42.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-21T11:43:43.751Z"
+ },
+ "c4c827c23abdecb63998ba8576f16109533baff2": {
+  "id": "c4c827c23abdecb63998ba8576f16109533baff2",
+  "source": "adzuna",
+  "external_id": "5936585933",
+  "url": "https://www.adzuna.com/land/ad/5936585933?se=9OsRn0TN8RGPC9RVczJhRA&utm_medium=api&utm_source=53549fa7&v=61A955260B16C7AA2EE4AD83B1FD4FBE3BF18E25",
+  "title": "Summer 2027 Reimbursement Analyst Undergraduate Intern",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 42231,
+  "salary_max": 42231,
+  "posted_at": "2026-10-21T07:15:50.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-21T11:43:43.751Z"
+ },
+ "620c0342dc4dc894e2e99852cc761ddcd36fc0ed": {
+  "id": "620c0342dc4dc894e2e99852cc761ddcd36fc0ed",
+  "source": "adzuna",
+  "external_id": "5936585943",
+  "url": "https://www.adzuna.com/land/ad/5936585943?se=9OsRn0TN8RGPC9RVczJhRA&utm_medium=api&utm_source=53549fa7&v=FDEC630EA17FE726DFC06E9377A0311F18CFEDE5",
+  "title": "Summer 2027 Delivery Management Undergraduate Intern",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 49780,
+  "salary_max": 49780,
+  "posted_at": "2026-10-21T07:15:50.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-21T11:43:43.751Z"
+ },
+ "3c02961be90ca2fe5c106cb8f20b422a33f00ad9": {
+  "id": "3c02961be90ca2fe5c106cb8f20b422a33f00ad9",
+  "source": "adzuna",
+  "external_id": "5936244731",
+  "url": "https://www.adzuna.com/details/5936244731?utm_medium=api&utm_source=53549fa7",
+  "title": "Senior Electrical Project Manager",
+  "company": "Innovation Consulting",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 160000,
+  "salary_max": 190000,
+  "posted_at": "2026-10-21T00:50:31.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-21T11:43:43.751Z"
  }
 }
