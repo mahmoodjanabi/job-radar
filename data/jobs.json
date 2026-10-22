@@ -6659,5 +6659,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-22T11:46:52.022Z"
+ },
+ "2aee24c8438e095c91376b2753c7a34a3a0fcbc9": {
+  "id": "2aee24c8438e095c91376b2753c7a34a3a0fcbc9",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143766",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Assistant-II--Patient-Service-Representative--Internal-Medicine_R-143766",
+  "title": "Medical Assistant II, Patient Service Representative, Internal Medicine",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-22T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-22T21:32:48.648Z"
+ },
+ "0adeefca84209fe00f6991c6f20fb01eecb6073f": {
+  "id": "0adeefca84209fe00f6991c6f20fb01eecb6073f",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141752",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Sterile-Processing-Technician-Lead_R-141752",
+  "title": "Sterile Processing Technician Lead",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 69202,
+  "salary_max": 84240,
+  "posted_at": "2026-10-22T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-22T21:32:48.648Z"
  }
 }
