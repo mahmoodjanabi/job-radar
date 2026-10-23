@@ -6983,5 +6983,59 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-23T11:33:53.392Z"
+ },
+ "68fb814482bf07b7af86cec55828aaf833de255e": {
+  "id": "68fb814482bf07b7af86cec55828aaf833de255e",
+  "source": "adzuna",
+  "external_id": "5939364097",
+  "url": "https://www.adzuna.com/details/5939364097?utm_medium=api&utm_source=53549fa7",
+  "title": "Project Architect",
+  "company": "HGA",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 129957,
+  "salary_max": 129957,
+  "posted_at": "2026-10-23T10:56:12.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-23T17:03:40.622Z"
+ },
+ "42fc78b6b68dc424d5f8c20848cf3e9ffc1c0939": {
+  "id": "42fc78b6b68dc424d5f8c20848cf3e9ffc1c0939",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144255",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Manager--Outpatient-Operating-Room-Services_R-144255",
+  "title": "Manager, Outpatient Operating Room Services",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 200096,
+  "salary_max": 320153,
+  "posted_at": "2026-10-23T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T17:03:40.622Z"
+ },
+ "ac05c180b222982a07a0f27b5f2a60c0ec3a064d": {
+  "id": "ac05c180b222982a07a0f27b5f2a60c0ec3a064d",
+  "source": "workday:sutterhealth",
+  "external_id": "R-135618",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Assistant-II--Ear--Nose-and-Throat_R-135618",
+  "title": "Medical Assistant II, Ear, Nose and Throat",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-23T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T17:03:40.622Z"
  }
 }
