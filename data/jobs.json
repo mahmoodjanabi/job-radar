@@ -6893,5 +6893,95 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-23T04:44:42.491Z"
+ },
+ "d22e22e4f21fdd8e8b8aceb29afde5df8d3b5b13": {
+  "id": "d22e22e4f21fdd8e8b8aceb29afde5df8d3b5b13",
+  "source": "adzuna",
+  "external_id": "5938976939",
+  "url": "https://www.adzuna.com/land/ad/5938976939?se=uPJykNXO8RGt34k75JmVyA&utm_medium=api&utm_source=53549fa7&v=FDA97A7CA9BF736AD2BCCE4ABCD0ACE0E497DE9F",
+  "title": "Senior Business Analyst (Public-sector healthcare / MITA)",
+  "company": "Jobot",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 104000,
+  "salary_max": 145600,
+  "posted_at": "2026-10-23T03:40:35.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T11:33:53.392Z"
+ },
+ "bdb38a989ebc08ffd0525a8738c57651e6dab7ea": {
+  "id": "bdb38a989ebc08ffd0525a8738c57651e6dab7ea",
+  "source": "adzuna",
+  "external_id": "5939138683",
+  "url": "https://www.adzuna.com/land/ad/5939138683?se=luvXkNXO8RGt34k75JmVyA&utm_medium=api&utm_source=53549fa7&v=209FF428C260D5840ACDE562C71F02834594BCB7",
+  "title": "Senior Data Engineer",
+  "company": "Humana",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 130555,
+  "salary_max": 130555,
+  "posted_at": "2026-10-23T07:15:34.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T11:33:53.392Z"
+ },
+ "1eb1c1f7b4d6c83561d822c3a13dd84df4a6b220": {
+  "id": "1eb1c1f7b4d6c83561d822c3a13dd84df4a6b220",
+  "source": "adzuna",
+  "external_id": "5939148077",
+  "url": "https://www.adzuna.com/land/ad/5939148077?se=OlVuktXO8RGNuJxOWfTSKw&utm_medium=api&utm_source=53549fa7&v=D51AFF9A1D3EAED3F6AF2F1A7E14C1FFE9F903C0",
+  "title": "Senior Oracle Health Principal Data Migration Architect",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 152723,
+  "salary_max": 152723,
+  "posted_at": "2026-10-23T07:17:55.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-23T11:33:53.392Z"
+ },
+ "b15243a0ee22cc307d55169e81f629fe458a3aed": {
+  "id": "b15243a0ee22cc307d55169e81f629fe458a3aed",
+  "source": "adzuna",
+  "external_id": "5939126378",
+  "url": "https://www.adzuna.com/land/ad/5939126378?se=OlVuktXO8RGNuJxOWfTSKw&utm_medium=api&utm_source=53549fa7&v=BCE2789392FDDAE877BCC48ABDC201A725E7B3CA",
+  "title": "RCM Training and Quality Analyst",
+  "company": "Deloitte",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 84678,
+  "salary_max": 84678,
+  "posted_at": "2026-10-23T07:11:29.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T11:33:53.392Z"
+ },
+ "b5db22a424d1159e5843c57a59d52145f9003130": {
+  "id": "b5db22a424d1159e5843c57a59d52145f9003130",
+  "source": "workday:philips",
+  "external_id": "590801",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/New-Zealand---Remote-Based/Field-Service-Engineer-Medical-Imaging---Wellington_590801",
+  "title": "Field Service Engineer Medical Imaging - Wellington",
+  "company": "Philips",
+  "location": "New Zealand - Remote Based",
+  "remote": null,
+  "salary_min": null,
+  "salary_max": null,
+  "posted_at": "2026-10-23T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T11:33:53.392Z"
  }
 }
