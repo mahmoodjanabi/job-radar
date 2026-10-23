@@ -6695,5 +6695,203 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-22T21:32:48.648Z"
+ },
+ "f9dfcdbc3d615c11e64a3b4198b3ea081a8b6415": {
+  "id": "f9dfcdbc3d615c11e64a3b4198b3ea081a8b6415",
+  "source": "adzuna",
+  "external_id": "5938775896",
+  "url": "https://www.adzuna.com/land/ad/5938775896?se=uLwUaJzO8RGBmZXVTlFBRg&utm_medium=api&utm_source=53549fa7&v=DEEC0CA029C57FFD824ADB5CD86266D1692C99EA",
+  "title": "Director of Business Development",
+  "company": "Western Slope Health Center in",
+  "location": "Cedar Ravine, El Dorado County",
+  "remote": null,
+  "salary_min": 95798,
+  "salary_max": 95798,
+  "posted_at": "2026-10-22T23:40:53.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T04:44:42.491Z"
+ },
+ "cee9046ab255edab58f4665bb90f34d712188436": {
+  "id": "cee9046ab255edab58f4665bb90f34d712188436",
+  "source": "adzuna",
+  "external_id": "5938780204",
+  "url": "https://www.adzuna.com/land/ad/5938780204?se=FNLoaJzO8RGQA63uqL-aSQ&utm_medium=api&utm_source=53549fa7&v=E838BD4B8FE3D5E38EB1DF0EA137EBF3A564EF5D",
+  "title": "Strategic Diagnostic Lab Account Executive",
+  "company": "Job Juncture",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 122819,
+  "salary_max": 122819,
+  "posted_at": "2026-10-22T23:41:30.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T04:44:42.491Z"
+ },
+ "2ecc171e3143d1c63261f034654ad623daebd28a": {
+  "id": "2ecc171e3143d1c63261f034654ad623daebd28a",
+  "source": "adzuna",
+  "external_id": "5938765267",
+  "url": "https://www.adzuna.com/land/ad/5938765267?se=FNLoaJzO8RGQA63uqL-aSQ&utm_medium=api&utm_source=53549fa7&v=0F41EFCAC4ED0E90D93B9004895ED4263343F407",
+  "title": "Department Chair, Health Science Programs",
+  "company": "Calbright College",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 173940,
+  "salary_max": 173940,
+  "posted_at": "2026-10-22T23:39:13.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T04:44:42.491Z"
+ },
+ "a564ab31d2f00f8a356f537da86fb9717efa2bd3": {
+  "id": "a564ab31d2f00f8a356f537da86fb9717efa2bd3",
+  "source": "adzuna",
+  "external_id": "5938545988",
+  "url": "https://www.adzuna.com/details/5938545988?utm_medium=api&utm_source=53549fa7",
+  "title": "Boiler Plant Operator - Mather, CA and French Camp, CA",
+  "company": "Prime Physicians",
+  "location": "Mather, Sacramento County",
+  "remote": null,
+  "salary_min": 60067,
+  "salary_max": 60067,
+  "posted_at": "2026-10-22T21:35:19.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T04:44:42.491Z"
+ },
+ "2590c978c0efea7d642887cded8e29c01ce02684": {
+  "id": "2590c978c0efea7d642887cded8e29c01ce02684",
+  "source": "adzuna",
+  "external_id": "5938749581",
+  "url": "https://www.adzuna.com/land/ad/5938749581?se=LF_EapzO8RGBmZXVTlFBRg&utm_medium=api&utm_source=53549fa7&v=54B9CEDA2F661D589C50D99AEAAF0105BD18BC3C",
+  "title": "Healthcare Project Engineer",
+  "company": "Essel",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 95209,
+  "salary_max": 95209,
+  "posted_at": "2026-10-22T23:32:24.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T04:44:42.491Z"
+ },
+ "05417a07d638774520fb3d1791ba0e64c83f6621": {
+  "id": "05417a07d638774520fb3d1791ba0e64c83f6621",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143521",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Diabetes-Women-s-Outpatient-Services_R-143521",
+  "title": "Medical Assistant II, Diabetes Women's Outpatient Services",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-22T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T04:44:42.491Z"
+ },
+ "e3ee32c21561ae83a5ebf261f98d4fa3064f9dd9": {
+  "id": "e3ee32c21561ae83a5ebf261f98d4fa3064f9dd9",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144473",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Assistant-II--OB-GYN_R-144473-1",
+  "title": "Medical Assistant II, OB/GYN",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-22T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T04:44:42.491Z"
+ },
+ "3a3e6e0aa0db751e4ac8392b8019db484507a426": {
+  "id": "3a3e6e0aa0db751e4ac8392b8019db484507a426",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144456",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Assistant-II--Pain-Management_R-144456",
+  "title": "Medical Assistant II, Pain Management",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-22T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T04:44:42.491Z"
+ },
+ "ef852bf8e58da5f863b43171dc22a1432da4b3e1": {
+  "id": "ef852bf8e58da5f863b43171dc22a1432da4b3e1",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143932",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Clinical-Nurse-Manager--SPA-PACU_R-143932",
+  "title": "Clinical Nurse Manager, SPA/PACU",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 200096,
+  "salary_max": 320153,
+  "posted_at": "2026-10-22T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T04:44:42.491Z"
+ },
+ "5a4da3a06b53a417f2bd5578d18070bbdc020b68": {
+  "id": "5a4da3a06b53a417f2bd5578d18070bbdc020b68",
+  "source": "workday:sutterhealth",
+  "external_id": "R-137813",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Unit-Secretary_R-137813-1",
+  "title": "Unit Secretary",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 62462,
+  "salary_max": 87443,
+  "posted_at": "2026-10-22T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T04:44:42.491Z"
+ },
+ "bee70205e5542e5a3c57ec442d3d8714a8c81ab7": {
+  "id": "bee70205e5542e5a3c57ec442d3d8714a8c81ab7",
+  "source": "workday:sutterhealth",
+  "external_id": "R-135640",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Transfer---Referral-Specialist-II_R-135640",
+  "title": "Transfer & Referral Specialist II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 58240,
+  "salary_max": 109325,
+  "posted_at": "2026-10-22T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-23T04:44:42.491Z"
  }
 }
