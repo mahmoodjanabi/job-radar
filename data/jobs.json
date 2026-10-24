@@ -7037,5 +7037,59 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-23T17:03:40.622Z"
+ },
+ "1ac79d31e92cd927d1c3a256a9e0759de00e3d6c": {
+  "id": "1ac79d31e92cd927d1c3a256a9e0759de00e3d6c",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144529",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Family-Medicine_R-144529",
+  "title": "Medical Assistant II, Family Medicine",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-23T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-24T04:31:58.292Z"
+ },
+ "e88e0191c8a0e3222d9a6f4a6bf7acbc55a24820": {
+  "id": "e88e0191c8a0e3222d9a6f4a6bf7acbc55a24820",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144522",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Family-Medicine_R-144522",
+  "title": "Medical Assistant II, Family Medicine",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-23T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-24T04:31:58.292Z"
+ },
+ "30323017389c803332d4dcd57163795c7714905d": {
+  "id": "30323017389c803332d4dcd57163795c7714905d",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144091",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Technical-Specialist---Clinical-Laboratory-Scientist_R-144091",
+  "title": "Technical Specialist - Clinical Laboratory Scientist",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 144477,
+  "salary_max": 202259,
+  "posted_at": "2026-10-23T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-24T04:31:58.292Z"
  }
 }
