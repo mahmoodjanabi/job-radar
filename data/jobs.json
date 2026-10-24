@@ -7127,5 +7127,59 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-10-24T10:54:18.173Z"
+ },
+ "e66c3c836f5bfd4ac8028d51e4f31d9e067fd3d3": {
+  "id": "e66c3c836f5bfd4ac8028d51e4f31d9e067fd3d3",
+  "source": "adzuna",
+  "external_id": "5940529736",
+  "url": "https://www.adzuna.com/details/5940529736?utm_medium=api&utm_source=53549fa7",
+  "title": "Memory Care Director",
+  "company": "Oakmont Senior Living",
+  "location": "Kettleman, San Joaquin County",
+  "remote": null,
+  "salary_min": 74000,
+  "salary_max": 75000,
+  "posted_at": "2026-10-24T09:20:01.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-24T15:53:48.090Z"
+ },
+ "cbad7e50074e5bc8c0c780ff2ec2d77506315a13": {
+  "id": "cbad7e50074e5bc8c0c780ff2ec2d77506315a13",
+  "source": "adzuna",
+  "external_id": "5940522557",
+  "url": "https://www.adzuna.com/details/5940522557?utm_medium=api&utm_source=53549fa7",
+  "title": "Project Manager",
+  "company": "HMC Architects",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 85065,
+  "salary_max": 127281,
+  "posted_at": "2026-10-24T09:07:36.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-24T15:53:48.090Z"
+ },
+ "11cae6686054a3fad7391428a5da0899691f0e1c": {
+  "id": "11cae6686054a3fad7391428a5da0899691f0e1c",
+  "source": "adzuna",
+  "external_id": "5940381978",
+  "url": "https://www.adzuna.com/details/5940381978?utm_medium=api&utm_source=53549fa7",
+  "title": "Commercial HVAC Project Manager",
+  "company": "Gpac",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 75000,
+  "salary_max": 120000,
+  "posted_at": "2026-10-24T07:26:42.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-24T15:53:48.090Z"
  }
 }
