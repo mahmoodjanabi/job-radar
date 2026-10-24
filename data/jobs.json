@@ -7091,5 +7091,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-24T04:31:58.292Z"
+ },
+ "0c0c87834d332b680d8f091ec608c932884f659b": {
+  "id": "0c0c87834d332b680d8f091ec608c932884f659b",
+  "source": "adzuna",
+  "external_id": "5940083398",
+  "url": "https://www.adzuna.com/details/5940083398?utm_medium=api&utm_source=53549fa7",
+  "title": "Resident Care Coordinator",
+  "company": "Oakmont Senior Living",
+  "location": "Kettleman, San Joaquin County",
+  "remote": null,
+  "salary_min": 45760,
+  "salary_max": 49920,
+  "posted_at": "2026-10-24T01:24:46.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-24T10:54:18.173Z"
+ },
+ "c96476834f22fe50a34c5c8ee6d2d378e9a92c49": {
+  "id": "c96476834f22fe50a34c5c8ee6d2d378e9a92c49",
+  "source": "adzuna",
+  "external_id": "5936349836",
+  "url": "https://www.adzuna.com/details/5936349836?utm_medium=api&utm_source=53549fa7",
+  "title": "Architect (All Levels)",
+  "company": "Lionakis",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 83600,
+  "salary_max": 154000,
+  "posted_at": "2026-10-21T02:42:40.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-24T10:54:18.173Z"
  }
 }
