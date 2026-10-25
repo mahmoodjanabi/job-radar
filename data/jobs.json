@@ -7199,5 +7199,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-25T04:36:33.391Z"
+ },
+ "438a396d03e403a25ae72ad7d7f8491746a16454": {
+  "id": "438a396d03e403a25ae72ad7d7f8491746a16454",
+  "source": "adzuna",
+  "external_id": "5941330317",
+  "url": "https://www.adzuna.com/land/ad/5941330317?se=JNm-CmbQ8RGoCKNhQJNyfw&utm_medium=api&utm_source=53549fa7&v=69A3058D5A365DC70FF8D74377A06D6B554A2827",
+  "title": "Director, Biostatistics FSP",
+  "company": "Cytel",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 154900,
+  "salary_max": 154900,
+  "posted_at": "2026-10-25T07:06:54.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-25T11:20:37.017Z"
+ },
+ "7eb80587e219ab11098ecbc8b4398f0c1c787a5c": {
+  "id": "7eb80587e219ab11098ecbc8b4398f0c1c787a5c",
+  "source": "adzuna",
+  "external_id": "5941330123",
+  "url": "https://www.adzuna.com/land/ad/5941330123?se=JNm-CmbQ8RGoCKNhQJNyfw&utm_medium=api&utm_source=53549fa7&v=FD7C6C91DDF6A2F1EFEB2907D2ED14540A640D64",
+  "title": "Mainframe Developer - CA-MMIS",
+  "company": "CTG",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 111011,
+  "salary_max": 111011,
+  "posted_at": "2026-10-25T07:06:25.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-25T11:20:37.017Z"
  }
 }
