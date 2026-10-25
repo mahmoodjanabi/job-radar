@@ -7235,5 +7235,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-25T11:20:37.017Z"
+ },
+ "cd8782b6e0dedd81210957acc9d35bd701516d81": {
+  "id": "cd8782b6e0dedd81210957acc9d35bd701516d81",
+  "source": "adzuna",
+  "external_id": "5941353719",
+  "url": "https://www.adzuna.com/land/ad/5941353719?se=eBOttY7Q8RGfv-HmgW53CA&utm_medium=api&utm_source=53549fa7&v=996451D9D326B1FBD043E3F03A658ABBA8BA69A2",
+  "title": "Oracle Health Federal Testing Senior Integration Architect",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 137979,
+  "salary_max": 137979,
+  "posted_at": "2026-10-25T07:16:19.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-25T16:11:39.922Z"
  }
 }
