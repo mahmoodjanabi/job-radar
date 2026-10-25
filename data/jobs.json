@@ -7181,5 +7181,23 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-10-24T15:53:48.090Z"
+ },
+ "8a19e88b71f3c1d2141decf836a6d58a41f814cb": {
+  "id": "8a19e88b71f3c1d2141decf836a6d58a41f814cb",
+  "source": "adzuna",
+  "external_id": "5940071407",
+  "url": "https://www.adzuna.com/details/5940071407?utm_medium=api&utm_source=53549fa7",
+  "title": "Health Service Director- LVN",
+  "company": "Oakmont Senior Living",
+  "location": "Folsom, Sacramento County",
+  "remote": null,
+  "salary_min": 105000,
+  "salary_max": 109000,
+  "posted_at": "2026-10-24T01:06:09.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-25T04:36:33.391Z"
  }
 }
