@@ -7361,5 +7361,59 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-26T12:54:57.202Z"
+ },
+ "06913ee65c747c80abebc54a706bd2d7f18b93f8": {
+  "id": "06913ee65c747c80abebc54a706bd2d7f18b93f8",
+  "source": "adzuna",
+  "external_id": "5942285058",
+  "url": "https://www.adzuna.com/details/5942285058?utm_medium=api&utm_source=53549fa7",
+  "title": "Manager, Advisory Services",
+  "company": "IQVIA",
+  "location": "Boston Ravine, Nevada County",
+  "remote": null,
+  "salary_min": 109500,
+  "salary_max": 273800,
+  "posted_at": "2026-10-26T11:04:05.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-26T22:37:53.390Z"
+ },
+ "0a0cdb823da63da6fa083073d79cac4d79871fe4": {
+  "id": "0a0cdb823da63da6fa083073d79cac4d79871fe4",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144502",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/LVN-II--Home-Health_R-144502",
+  "title": "LVN II, Home Health",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 75171,
+  "salary_max": 105248,
+  "posted_at": "2026-10-26T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-26T22:37:53.390Z"
+ },
+ "9635154d06a69b3e6ad0e21f49091c99c7903c07": {
+  "id": "9635154d06a69b3e6ad0e21f49091c99c7903c07",
+  "source": "workday:sutterhealth",
+  "external_id": "R-137607",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Respiratory-Care-Practitioner-II_R-137607",
+  "title": "Respiratory Care Practitioner II",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 121930,
+  "salary_max": 148678,
+  "posted_at": "2026-10-26T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-26T22:37:53.390Z"
  }
 }
