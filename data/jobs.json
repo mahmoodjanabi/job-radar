@@ -7325,5 +7325,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-26T04:41:38.466Z"
+ },
+ "467af3f8d6bdfb4424bed2d4cdd855fa6e70205d": {
+  "id": "467af3f8d6bdfb4424bed2d4cdd855fa6e70205d",
+  "source": "adzuna",
+  "external_id": "5942148333",
+  "url": "https://www.adzuna.com/land/ad/5942148333?se=ClkEYDzR8RGEVsIPQ6tjKA&utm_medium=api&utm_source=53549fa7&v=248B29B75FA902C0FBCD0F43113A8D389F3485F3",
+  "title": "Sr Advisory Solution Architect - Government Healthcare and Education (Armis/Veza)",
+  "company": "ServiceNow, Inc.",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 206945,
+  "salary_max": 206945,
+  "posted_at": "2026-10-26T07:25:32.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-26T12:54:57.202Z"
+ },
+ "f1c2f152bc5f6c306f07a6fc01838caf75c44b23": {
+  "id": "f1c2f152bc5f6c306f07a6fc01838caf75c44b23",
+  "source": "adzuna",
+  "external_id": "5942144627",
+  "url": "https://www.adzuna.com/land/ad/5942144627?se=HDHrYTzR8RGEVsIPQ6tjKA&utm_medium=api&utm_source=53549fa7&v=CCA974CAD22A94C823A073EBFF16462E213CCA4A",
+  "title": "Lead Project Manager",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 127128,
+  "salary_max": 127128,
+  "posted_at": "2026-10-26T07:19:37.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-26T12:54:57.202Z"
  }
 }
