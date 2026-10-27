@@ -7469,5 +7469,107 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-10-27T12:06:04.489Z"
+ },
+ "3fc079b092c7c373fff9845c4ee074d4dd556596": {
+  "id": "3fc079b092c7c373fff9845c4ee074d4dd556596",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144907",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Assistant-II--Cardio-Invasive_R-144907",
+  "title": "Medical Assistant II, Cardio Invasive",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-27T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-27T22:10:06.242Z"
+ },
+ "1a1e5fff59b96d84b00693c8c2bcd3a5aa28ddcb": {
+  "id": "1a1e5fff59b96d84b00693c8c2bcd3a5aa28ddcb",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142870",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Dermatology_R-142870",
+  "title": "Medical Assistant II, Dermatology",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-27T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-27T22:10:06.242Z"
+ },
+ "f9dd06f43ada2a204c0cb3c47198b2610a12712e": {
+  "id": "f9dd06f43ada2a204c0cb3c47198b2610a12712e",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141985",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Surgical-Technician-II---CVOR_R-141985-1",
+  "title": "Surgical Technician II - CVOR",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 93038,
+  "salary_max": 130250,
+  "posted_at": "2026-10-27T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-27T22:10:06.242Z"
+ },
+ "1af9fd5ffca373100d56556109c6dd58a2b6b0a4": {
+  "id": "1af9fd5ffca373100d56556109c6dd58a2b6b0a4",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143765",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Nuc-Med---PET-CT-Technologist--Float_R-143765-1",
+  "title": "Nuc Med & PET CT Technologist, Float",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 165006,
+  "salary_max": 231005,
+  "posted_at": "2026-10-27T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-27T22:10:06.242Z"
+ },
+ "51dba29dbcdf0f4666cd9c4b4ef73f585e65a435": {
+  "id": "51dba29dbcdf0f4666cd9c4b4ef73f585e65a435",
+  "source": "workday:philips",
+  "external_id": "593899",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Ontario-California-United-States/Supply-Planner_593899",
+  "title": "Supply Planner",
+  "company": "Philips",
+  "location": "Ontario, California, United States",
+  "remote": null,
+  "salary_min": 92000,
+  "salary_max": 146000,
+  "posted_at": "2026-10-27T00:00:00.000Z",
+  "score": 15,
+  "verdict": {
+   "role_fit": "excluded",
+   "work_mode": "onsite",
+   "location_ok": false,
+   "salary_ok": true,
+   "salary_note": "92000 - 146000",
+   "seniority": "mid",
+   "score": 15,
+   "summary": "Supply chain / production planning role at Philips in Ontario, CA—excluded role family, and location not acceptable (Ontario is not within candidate's approved on-site/hybrid cities).",
+   "concerns": [
+    "Excluded: supply chain/procurement, not healthcare planning",
+    "Onsite in Ontario, CA (not in approved cities)",
+    "3 days/week onsite required"
+   ]
+  },
+  "first_seen_at": "2026-10-27T22:10:06.242Z"
  }
 }
