@@ -7607,5 +7607,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-28T12:47:23.347Z"
+ },
+ "4f1949960115ce160ac0e196efaadd6aa9d0efe3": {
+  "id": "4f1949960115ce160ac0e196efaadd6aa9d0efe3",
+  "source": "workday:sutterhealth",
+  "external_id": "R-138837",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Clinical-Nurse-Manager-Emergency-Services_R-138837",
+  "title": "Clinical Nurse Manager, Emergency Department Services",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 200096,
+  "salary_max": 320153,
+  "posted_at": "2026-10-28T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-28T22:32:04.961Z"
  }
 }
