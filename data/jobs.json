@@ -7589,5 +7589,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-28T05:35:35.906Z"
+ },
+ "865149ff0a66e9b0c8304b1f63dfdbcce360d9db": {
+  "id": "865149ff0a66e9b0c8304b1f63dfdbcce360d9db",
+  "source": "adzuna",
+  "external_id": "5944417254",
+  "url": "https://www.adzuna.com/land/ad/5944417254?se=BPOzp83S8RGQEIXNn_ecjA&utm_medium=api&utm_source=53549fa7&v=B8953C59E2D8FAD8336988915EE4206DD11D0E9C",
+  "title": "Summer 2027 Provider Delivery Software Engineer enGen Undergraduate Intern",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 57312,
+  "salary_max": 57312,
+  "posted_at": "2026-10-28T07:18:17.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-28T12:47:23.347Z"
  }
 }
