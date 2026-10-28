@@ -7571,5 +7571,23 @@
    ]
   },
   "first_seen_at": "2026-10-27T22:10:06.242Z"
+ },
+ "925dc3920bb877f7b86c8e53b0afc3b28b3e1535": {
+  "id": "925dc3920bb877f7b86c8e53b0afc3b28b3e1535",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144918",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Licensed-Vocational-Nurse-II--Urology_R-144918",
+  "title": "Licensed Vocational Nurse II, Urology",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 77584,
+  "salary_max": 108597,
+  "posted_at": "2026-10-27T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-28T05:35:35.906Z"
  }
 }
