@@ -7625,5 +7625,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-28T22:32:04.961Z"
+ },
+ "05faa41185d2fb18975e9b023e267156c1dad78a": {
+  "id": "05faa41185d2fb18975e9b023e267156c1dad78a",
+  "source": "adzuna",
+  "external_id": "5944417255",
+  "url": "https://www.adzuna.com/land/ad/5944417255?se=IM5khVvT8RG00IgB7sGfjA&utm_medium=api&utm_source=53549fa7&v=EE7972A7145FE2A41410EECFF384EBDD3216E693",
+  "title": "Summer 2027 Applied Gen AI/Data Scientist Graduate Intern",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 74033,
+  "salary_max": 74033,
+  "posted_at": "2026-10-28T07:18:17.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-29T05:42:47.739Z"
+ },
+ "85e02082452f4baf32c26fb9926d14db4f787b5e": {
+  "id": "85e02082452f4baf32c26fb9926d14db4f787b5e",
+  "source": "workday:sutterhealth",
+  "external_id": "R-135291",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Sterile-Processing-Technician-II_R-135291-1",
+  "title": "Sterile Processing Technician II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 71365,
+  "salary_max": 99902,
+  "posted_at": "2026-10-28T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-29T05:42:47.739Z"
  }
 }
