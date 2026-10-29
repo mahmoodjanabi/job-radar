@@ -7661,5 +7661,95 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-29T05:42:47.739Z"
+ },
+ "396246faef1dea3619a3e6f7133d512c3ff1c297": {
+  "id": "396246faef1dea3619a3e6f7133d512c3ff1c297",
+  "source": "adzuna",
+  "external_id": "5945645292",
+  "url": "https://www.adzuna.com/land/ad/5945645292?se=FtjP8ZfT8RGyLazPTKZXag&utm_medium=api&utm_source=53549fa7&v=80DBA970464DEEFA1DE5A23A0B278A5042CC7803",
+  "title": "Summer 2027 Customer Experience Analyst Graduate Intern",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 40918,
+  "salary_max": 40918,
+  "posted_at": "2026-10-29T08:27:12.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-29T12:55:22.739Z"
+ },
+ "0f6af2b77ebc11d259207de7e48dd23961d0e9f4": {
+  "id": "0f6af2b77ebc11d259207de7e48dd23961d0e9f4",
+  "source": "adzuna",
+  "external_id": "5945645362",
+  "url": "https://www.adzuna.com/land/ad/5945645362?se=FtjP8ZfT8RGyLazPTKZXag&utm_medium=api&utm_source=53549fa7&v=C372782B98D2B73F58BD52CEEFF93DCA006B42AA",
+  "title": "Summer 2027 Enterprise Master Data Management Analyst Graduate Intern",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 58814,
+  "salary_max": 58814,
+  "posted_at": "2026-10-29T08:27:12.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-29T12:55:22.739Z"
+ },
+ "563f2efc003585529b5cb8b6721e8f01ec58010a": {
+  "id": "563f2efc003585529b5cb8b6721e8f01ec58010a",
+  "source": "adzuna",
+  "external_id": "5945636983",
+  "url": "https://www.adzuna.com/details/5945636983?utm_medium=api&utm_source=53549fa7",
+  "title": "Commercial HVAC Project Manager",
+  "company": "Gpac",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 75000,
+  "salary_max": 120000,
+  "posted_at": "2026-10-29T08:26:15.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-29T12:55:22.739Z"
+ },
+ "329630cfa2152073db05069631f6c9cddb9f061f": {
+  "id": "329630cfa2152073db05069631f6c9cddb9f061f",
+  "source": "adzuna",
+  "external_id": "5945631198",
+  "url": "https://www.adzuna.com/land/ad/5945631198?se=-IT58pfT8RGQXO40cb9njA&utm_medium=api&utm_source=53549fa7&v=45E6D2B7849FAD0695B21D6817524D388F1F81AE",
+  "title": "Director, Oncology Performance Solutions",
+  "company": "Evolent",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 83367,
+  "salary_max": 83367,
+  "posted_at": "2026-10-29T08:25:40.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-29T12:55:22.739Z"
+ },
+ "2cd30d59242c815291beae7a53ff69868ca99afc": {
+  "id": "2cd30d59242c815291beae7a53ff69868ca99afc",
+  "source": "adzuna",
+  "external_id": "5945584690",
+  "url": "https://www.adzuna.com/land/ad/5945584690?se=-IT58pfT8RGQXO40cb9njA&utm_medium=api&utm_source=53549fa7&v=747D2BD19B7B6DA78B75C705C49EFF134B0F9EF5",
+  "title": "Senior Project Manager",
+  "company": "CenterWell",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 114279,
+  "salary_max": 114279,
+  "posted_at": "2026-10-29T08:20:12.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-29T12:55:22.739Z"
  }
 }
