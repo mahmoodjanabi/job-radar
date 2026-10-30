@@ -7859,5 +7859,77 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-30T05:42:00.843Z"
+ },
+ "bc4b82829477e69cf19fa572f7ef2987f0b4b201": {
+  "id": "bc4b82829477e69cf19fa572f7ef2987f0b4b201",
+  "source": "adzuna",
+  "external_id": "5946865610",
+  "url": "https://www.adzuna.com/land/ad/5946865610?se=MFFRMmDU8RGbzOofqBVJtA&utm_medium=api&utm_source=53549fa7&v=10E8EF1C6AFF6B6498CD8230784580C2FF051845",
+  "title": "Sr. Principal Vascular Sales Representative - Sacramento, CA / Reno, NV",
+  "company": "Medtronic",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 122592,
+  "salary_max": 122592,
+  "posted_at": "2026-10-30T08:04:09.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-30T12:48:48.278Z"
+ },
+ "8f875fce3f5b6f54e08307e66f973bfbf91d56e4": {
+  "id": "8f875fce3f5b6f54e08307e66f973bfbf91d56e4",
+  "source": "adzuna",
+  "external_id": "5946865594",
+  "url": "https://www.adzuna.com/land/ad/5946865594?se=MFFRMmDU8RGbzOofqBVJtA&utm_medium=api&utm_source=53549fa7&v=A4EE520C0E8BB481190FFB3CF07A5CD136903757",
+  "title": "Sales Representative II, Spine - Sacramento, CA",
+  "company": "Medtronic",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 87399,
+  "salary_max": 87399,
+  "posted_at": "2026-10-30T08:04:08.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-30T12:48:48.278Z"
+ },
+ "47e3dddf0f6c772dc1074808aa3b1ff99176b69f": {
+  "id": "47e3dddf0f6c772dc1074808aa3b1ff99176b69f",
+  "source": "adzuna",
+  "external_id": "5946682130",
+  "url": "https://www.adzuna.com/details/5946682130?utm_medium=api&utm_source=53549fa7",
+  "title": "Architecture Design Coordinator: Healthcare",
+  "company": "LPA",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 80000,
+  "salary_max": 120000,
+  "posted_at": "2026-10-30T04:36:23.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-30T12:48:48.278Z"
+ },
+ "3b3a1b51471b3d90c717ac269a9f49e776b405e1": {
+  "id": "3b3a1b51471b3d90c717ac269a9f49e776b405e1",
+  "source": "adzuna",
+  "external_id": "5946908214",
+  "url": "https://www.adzuna.com/details/5946908214?utm_medium=api&utm_source=53549fa7",
+  "title": "Associate Consultant, Market Access Strategy Consulting",
+  "company": "IQVIA",
+  "location": "Boston Ravine, Nevada County",
+  "remote": null,
+  "salary_min": 65400,
+  "salary_max": 163600,
+  "posted_at": "2026-10-30T08:12:51.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-30T12:48:48.278Z"
  }
 }
