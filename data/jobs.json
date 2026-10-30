@@ -7751,5 +7751,113 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-10-29T12:55:22.739Z"
+ },
+ "3f9e2825442cbfe22f1721ba744a5e0f605c8e7b": {
+  "id": "3f9e2825442cbfe22f1721ba744a5e0f605c8e7b",
+  "source": "adzuna",
+  "external_id": "5946384694",
+  "url": "https://www.adzuna.com/details/5946384694?utm_medium=api&utm_source=53549fa7",
+  "title": "Senior Project Manager - Healthcare",
+  "company": "Stantec",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 167725,
+  "salary_max": 167725,
+  "posted_at": "2026-10-29T22:45:45.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-30T05:42:00.843Z"
+ },
+ "27299f5133eaa2392fc5089e624bb722023e619f": {
+  "id": "27299f5133eaa2392fc5089e624bb722023e619f",
+  "source": "adzuna",
+  "external_id": "5945409283",
+  "url": "https://www.adzuna.com/details/5945409283?utm_medium=api&utm_source=53549fa7",
+  "title": "Training Delivery Specialist II",
+  "company": "Sutter Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 88212,
+  "salary_max": 132329,
+  "posted_at": "2026-10-29T02:58:49.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-30T05:42:00.843Z"
+ },
+ "7569a07e1c830ded5df46914289249e2397e1c83": {
+  "id": "7569a07e1c830ded5df46914289249e2397e1c83",
+  "source": "adzuna",
+  "external_id": "5945680422",
+  "url": "https://www.adzuna.com/details/5945680422?utm_medium=api&utm_source=53549fa7",
+  "title": "Commercial HVAC Project Manager",
+  "company": "Gpac",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 75000,
+  "salary_max": 120000,
+  "posted_at": "2026-10-29T08:32:59.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-10-30T05:42:00.843Z"
+ },
+ "34f6b073d2a17c9684ce8a5d3cee7772b52c2c77": {
+  "id": "34f6b073d2a17c9684ce8a5d3cee7772b52c2c77",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145128",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Transfer---Referral-Specialist-Lead_R-145128-1",
+  "title": "Transfer & Referral Specialist Lead",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": true,
+  "salary_min": 88213,
+  "salary_max": 132330,
+  "posted_at": "2026-10-29T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-30T05:42:00.843Z"
+ },
+ "6f1141dd917146771e5f7a2695caaddbb0135e0e": {
+  "id": "6f1141dd917146771e5f7a2695caaddbb0135e0e",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145126",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Transfer---Referral-Specialist-II_R-145126",
+  "title": "Transfer & Referral Specialist II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": true,
+  "salary_min": 58240,
+  "salary_max": 109325,
+  "posted_at": "2026-10-29T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-30T05:42:00.843Z"
+ },
+ "db490734a2e55334da72c13b934e38db7387711d": {
+  "id": "db490734a2e55334da72c13b934e38db7387711d",
+  "source": "workday:philips",
+  "external_id": "594581",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Poland---Remote-Based/Field-Service-Engineer--Inynier-Serwisu-Sprztu-Medycznego--Biaystok--All-genders-_594581-1",
+  "title": "Field Service Engineer/ Inżynier Serwisu Sprzętu Medycznego, Białystok (All genders)",
+  "company": "Philips",
+  "location": "Poland - Remote Based",
+  "remote": null,
+  "salary_min": null,
+  "salary_max": null,
+  "posted_at": "2026-10-29T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-30T05:42:00.843Z"
  }
 }
