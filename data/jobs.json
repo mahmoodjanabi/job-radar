@@ -7931,5 +7931,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-30T12:48:48.278Z"
+ },
+ "7801a91c2145dda859d956c37c1f3bcc9270b522": {
+  "id": "7801a91c2145dda859d956c37c1f3bcc9270b522",
+  "source": "workday:sutterhealth",
+  "external_id": "R-143125",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Nursing-Assistant---Unit-Secretary--Surgical-Acute_R-143125-1",
+  "title": "Nursing Assistant / Unit Secretary, Surgical Acute",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 67226,
+  "salary_max": 81994,
+  "posted_at": "2026-10-30T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-30T22:15:37.802Z"
+ },
+ "7583213e7255f63401770556e47f2f91b7025be8": {
+  "id": "7583213e7255f63401770556e47f2f91b7025be8",
+  "source": "workday:sutterhealth",
+  "external_id": "R-129616",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Orthopedic-Sports-Medicine_R-129616-1",
+  "title": "Medical Assistant II, Orthopedic Sports Medicine",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-30T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-30T22:15:37.802Z"
  }
 }
