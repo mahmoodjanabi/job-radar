@@ -8021,5 +8021,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-31T12:20:33.270Z"
+ },
+ "b302722222389e9d1eb59686910be084f9bfefd0": {
+  "id": "b302722222389e9d1eb59686910be084f9bfefd0",
+  "source": "adzuna",
+  "external_id": "5948030003",
+  "url": "https://www.adzuna.com/details/5948030003?utm_medium=api&utm_source=53549fa7",
+  "title": "Physician Engagement Specialist",
+  "company": "CommonSpirit Health",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 116429,
+  "salary_max": 116429,
+  "posted_at": "2026-10-31T08:20:46.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-31T21:30:10.669Z"
+ },
+ "be809066ada5e9ef82d0349a554b63d7871e0212": {
+  "id": "be809066ada5e9ef82d0349a554b63d7871e0212",
+  "source": "adzuna",
+  "external_id": "5948026617",
+  "url": "https://www.adzuna.com/details/5948026617?utm_medium=api&utm_source=53549fa7",
+  "title": "Associate, Healthcare & Analytics Strategy Consulting (MASC, Hybrid)",
+  "company": "IQVIA",
+  "location": "Boston Ravine, Nevada County",
+  "remote": null,
+  "salary_min": 65400,
+  "salary_max": 163600,
+  "posted_at": "2026-10-31T08:19:08.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-31T21:30:10.669Z"
  }
 }
