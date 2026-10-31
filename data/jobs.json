@@ -7985,5 +7985,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-31T05:34:54.968Z"
+ },
+ "a14574b6738286aa703a46e8ed3fa2b41608ee2e": {
+  "id": "a14574b6738286aa703a46e8ed3fa2b41608ee2e",
+  "source": "adzuna",
+  "external_id": "5947993002",
+  "url": "https://www.adzuna.com/land/ad/5947993002?se=_nZVaiXV8RGzkfY_QG7FnA&utm_medium=api&utm_source=53549fa7&v=D72F285DAAE2546C261F5F2086D49674582E2201",
+  "title": "Associate Director, Oncology KARE Operations & Strategic Execution",
+  "company": "Merck",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 166146,
+  "salary_max": 166146,
+  "posted_at": "2026-10-31T08:08:53.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-31T12:20:33.270Z"
+ },
+ "b5edcbf20e8675ff2f05a71ef6c7d96b3eab5cff": {
+  "id": "b5edcbf20e8675ff2f05a71ef6c7d96b3eab5cff",
+  "source": "adzuna",
+  "external_id": "5947949544",
+  "url": "https://www.adzuna.com/land/ad/5947949544?se=_nZVaiXV8RGzkfY_QG7FnA&utm_medium=api&utm_source=53549fa7&v=A1AA49FD4F090B7F12127CED8B6CA140EC7C7DD7",
+  "title": "Accounts Receivable Analyst",
+  "company": "Deloitte",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 53137,
+  "salary_max": 53137,
+  "posted_at": "2026-10-31T07:56:33.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-31T12:20:33.270Z"
  }
 }
