@@ -7967,5 +7967,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-10-30T22:15:37.802Z"
+ },
+ "3c373f29b9c989a1d264541279072c622a875073": {
+  "id": "3c373f29b9c989a1d264541279072c622a875073",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145215",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Assistant-II--Specialty-Shared-Staff_R-145215",
+  "title": "Medical Assistant II, Specialty Shared Staff",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-10-30T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-10-31T05:34:54.968Z"
  }
 }
