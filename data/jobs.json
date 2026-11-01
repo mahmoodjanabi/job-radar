@@ -8129,5 +8129,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-01T13:16:17.596Z"
+ },
+ "d25d9f5a1b7ca1175950298563eb755d4632dfa6": {
+  "id": "d25d9f5a1b7ca1175950298563eb755d4632dfa6",
+  "source": "adzuna",
+  "external_id": "5949375735",
+  "url": "https://www.adzuna.com/land/ad/5949375735?se=vFOiZz_W8RGGCOFuy44SDg&utm_medium=api&utm_source=53549fa7&v=11D5AF9FBF8844AB8BC7953BD6D590E0C2890E23",
+  "title": "Healthcare Contract Implementation Project Manager",
+  "company": "Vituity",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 75000,
+  "salary_max": 105000,
+  "posted_at": "2026-11-01T08:54:38.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-11-01T21:59:01.429Z"
  }
 }
