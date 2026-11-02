@@ -8147,5 +8147,41 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-11-01T21:59:01.429Z"
+ },
+ "a3e240042d71e543dd0e88f3d702328b68667aed": {
+  "id": "a3e240042d71e543dd0e88f3d702328b68667aed",
+  "source": "adzuna",
+  "external_id": "5950528464",
+  "url": "https://www.adzuna.com/land/ad/5950528464?se=gNbd-tPW8RG9T57WGr5igQ&utm_medium=api&utm_source=53549fa7&v=C464BDF2E05D3315DA1F2E442EDFB8262838E6D1",
+  "title": "Senior Surgical Account Manager - Sacramento",
+  "company": "Medtronic",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 130519,
+  "salary_max": 130519,
+  "posted_at": "2026-11-02T07:09:34.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-02T15:42:49.828Z"
+ },
+ "9c23604f8acf94aeae14368061b3e69d71469849": {
+  "id": "9c23604f8acf94aeae14368061b3e69d71469849",
+  "source": "adzuna",
+  "external_id": "5950513581",
+  "url": "https://www.adzuna.com/land/ad/5950513581?se=6jhq_NPW8RGkV4BSIpFfaA&utm_medium=api&utm_source=53549fa7&v=FC39B9A1FB703A0308E3DAE075EC8995C0A7C087",
+  "title": "Physician Engagement Specialist",
+  "company": "Dignity Health",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 151845,
+  "salary_max": 151845,
+  "posted_at": "2026-11-02T06:56:01.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-02T15:42:49.828Z"
  }
 }
