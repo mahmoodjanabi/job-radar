@@ -8309,5 +8309,113 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-03T00:56:04.621Z"
+ },
+ "5b6f0227c132a1f13e7019cf801890e712f64739": {
+  "id": "5b6f0227c132a1f13e7019cf801890e712f64739",
+  "source": "workday:sutterhealth",
+  "external_id": "R-140689",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Diabetes-Nurse-Educator_R-140689",
+  "title": "Diabetes Nurse Educator",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 180128,
+  "salary_max": 252158,
+  "posted_at": "2026-11-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T14:06:40.545Z"
+ },
+ "cd95d186f4bfd3764e1d918c680b449c413827c0": {
+  "id": "cd95d186f4bfd3764e1d918c680b449c413827c0",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144137",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Respiratory-Care-Practitioner-II_R-144137",
+  "title": "Respiratory Care Practitioner II",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 121930,
+  "salary_max": 148678,
+  "posted_at": "2026-11-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T14:06:40.545Z"
+ },
+ "c028d0131721a7cb3e20813e45c13798d2413557": {
+  "id": "c028d0131721a7cb3e20813e45c13798d2413557",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144138",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Respiratory-Care-Practitioner-II_R-144138",
+  "title": "Respiratory Care Practitioner II",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 121930,
+  "salary_max": 148678,
+  "posted_at": "2026-11-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T14:06:40.545Z"
+ },
+ "56207af4ff562f98dd0b80fc5be5b81f9d144bb7": {
+  "id": "56207af4ff562f98dd0b80fc5be5b81f9d144bb7",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144140",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Respiratory-Care-Practitioner-II_R-144140",
+  "title": "Respiratory Care Practitioner II",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 121930,
+  "salary_max": 148678,
+  "posted_at": "2026-11-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T14:06:40.545Z"
+ },
+ "bbd13c70405018b8b5b875737528abee5b9d572b": {
+  "id": "bbd13c70405018b8b5b875737528abee5b9d572b",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144139",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Respiratory-Care-Practitioner-II_R-144139",
+  "title": "Respiratory Care Practitioner II",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 121930,
+  "salary_max": 148678,
+  "posted_at": "2026-11-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T14:06:40.545Z"
+ },
+ "50c424181f893a4919b9d49b25eb7138c63c3c9b": {
+  "id": "50c424181f893a4919b9d49b25eb7138c63c3c9b",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145519",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Pain-Management_R-145519",
+  "title": "Medical Assistant II, Pain Management",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-11-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T14:06:40.545Z"
  }
 }
