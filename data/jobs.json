@@ -8417,5 +8417,95 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-03T14:06:40.545Z"
+ },
+ "f535d5287bd45b184a0577ee882892caba60d963": {
+  "id": "f535d5287bd45b184a0577ee882892caba60d963",
+  "source": "adzuna",
+  "external_id": "5952081579",
+  "url": "https://www.adzuna.com/land/ad/5952081579?se=8jgpvdzX8RGq8uikjjIrMw&utm_medium=api&utm_source=53549fa7&v=907D5750B3C174B6CDC64A580DDE1B2F7288EEFD",
+  "title": "Local Oncology RN (Registered Nurse) in Sacramento, CA - 1137314L",
+  "company": "Medical Solutions",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 31126,
+  "salary_max": 31126,
+  "posted_at": "2026-11-03T14:09:09.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T23:17:58.989Z"
+ },
+ "ae6b582b27d032297850015c8f5f6ee0660e8b9c": {
+  "id": "ae6b582b27d032297850015c8f5f6ee0660e8b9c",
+  "source": "adzuna",
+  "external_id": "5952080896",
+  "url": "https://www.adzuna.com/land/ad/5952080896?se=8jgpvdzX8RGq8uikjjIrMw&utm_medium=api&utm_source=53549fa7&v=251308CBED6ADB33158F1F6CE62C0488449407BA",
+  "title": "Local L&D (Labor and Delivery) RN (Registered Nurse) in Roseville, CA - 1167449L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 44475,
+  "salary_max": 44475,
+  "posted_at": "2026-11-03T14:08:08.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T23:17:58.989Z"
+ },
+ "0dd4faa8c1f869d74e9968d7471816cf79c53c4a": {
+  "id": "0dd4faa8c1f869d74e9968d7471816cf79c53c4a",
+  "source": "adzuna",
+  "external_id": "5952080062",
+  "url": "https://www.adzuna.com/land/ad/5952080062?se=8jgpvdzX8RGq8uikjjIrMw&utm_medium=api&utm_source=53549fa7&v=75A41359AF55DC81B24ECC084139496F0A47DDDC",
+  "title": "Local L&D (Labor and Delivery) RN (Registered Nurse) in Sacramento, CA - 1167492L",
+  "company": "Medical Solutions",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 33248,
+  "salary_max": 33248,
+  "posted_at": "2026-11-03T14:07:39.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T23:17:58.989Z"
+ },
+ "7f966f306050ee78f1199a833bd4622309078db0": {
+  "id": "7f966f306050ee78f1199a833bd4622309078db0",
+  "source": "adzuna",
+  "external_id": "5952078693",
+  "url": "https://www.adzuna.com/land/ad/5952078693?se=8jgpvdzX8RGq8uikjjIrMw&utm_medium=api&utm_source=53549fa7&v=384BD1CCB14EB87058D9740A67242F9104ECC698",
+  "title": "Local Cardiac Cath Lab RN (Registered Nurse) in Roseville, CA - 1168312L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 56823,
+  "salary_max": 56823,
+  "posted_at": "2026-11-03T14:07:08.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T23:17:58.989Z"
+ },
+ "b5ebcc449079d440fb90f44813a10e03d1748926": {
+  "id": "b5ebcc449079d440fb90f44813a10e03d1748926",
+  "source": "adzuna",
+  "external_id": "5952078713",
+  "url": "https://www.adzuna.com/land/ad/5952078713?se=4BXCvdzX8RGJF4UBchTzUg&utm_medium=api&utm_source=53549fa7&v=D0078299334040739E50986D45288DA95DAB971F",
+  "title": "Local ICU (Intensive Care Unit) RN (Registered Nurse) in Vacaville, CA - 1130245L",
+  "company": "Medical Solutions",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 53154,
+  "salary_max": 53154,
+  "posted_at": "2026-11-03T14:07:08.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T23:17:58.989Z"
  }
 }
