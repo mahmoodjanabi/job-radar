@@ -8183,5 +8183,131 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-02T15:42:49.828Z"
+ },
+ "e303342a66589627f285191e41b5552c9fa9c641": {
+  "id": "e303342a66589627f285191e41b5552c9fa9c641",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145196",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Monitor-Technician-I--Centralized-Monitoring_R-145196",
+  "title": "Monitor Technician I, Centralized Monitoring",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60382,
+  "salary_max": 84510,
+  "posted_at": "2026-11-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T00:56:04.621Z"
+ },
+ "867ccefe870ce73ec1052222c663e3a7a95fa875": {
+  "id": "867ccefe870ce73ec1052222c663e3a7a95fa875",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144960",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Spine-Neurosurgery_R-144960-1",
+  "title": "Medical Assistant II, Spine Neurosurgery",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-11-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T00:56:04.621Z"
+ },
+ "32b7f0d47449dc1252d26ca34d93dc38266efe83": {
+  "id": "32b7f0d47449dc1252d26ca34d93dc38266efe83",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144920",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Radiation-Therapy-Assistant_R-144920",
+  "title": "Radiation Therapy Assistant",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 56950,
+  "salary_max": 79726,
+  "posted_at": "2026-11-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T00:56:04.621Z"
+ },
+ "dbb34487372d3c22a106a636ee0d4b74661f38a2": {
+  "id": "dbb34487372d3c22a106a636ee0d4b74661f38a2",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144943",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Clinical-Dietitian-II_R-144943",
+  "title": "Clinical Dietitian II",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 112278,
+  "salary_max": 157186,
+  "posted_at": "2026-11-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T00:56:04.621Z"
+ },
+ "d020bbf685a0acd39a063f7e50bdd294ec3fa1ac": {
+  "id": "d020bbf685a0acd39a063f7e50bdd294ec3fa1ac",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144938",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Clinical-Dietitian-II_R-144938",
+  "title": "Clinical Dietitian II",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 112278,
+  "salary_max": 157186,
+  "posted_at": "2026-11-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T00:56:04.621Z"
+ },
+ "637bf629e8834daa228cb27dd03b48b7ec337d9e": {
+  "id": "637bf629e8834daa228cb27dd03b48b7ec337d9e",
+  "source": "workday:stryker",
+  "external_id": "R575624",
+  "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Sr-Staff-R-D-Engineer_R575624",
+  "title": "Sr. Staff R&D Engineer",
+  "company": "Stryker",
+  "location": "Irvine, California",
+  "remote": null,
+  "salary_min": 118000,
+  "salary_max": 196600,
+  "posted_at": "2026-11-02T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T00:56:04.621Z"
+ },
+ "d314fded39d52f2b5cfee918b4319eaebe0f17c7": {
+  "id": "d314fded39d52f2b5cfee918b4319eaebe0f17c7",
+  "source": "workday:philips",
+  "external_id": "584565",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/India---Remote-Based/Account-Manager---IS_584565",
+  "title": "Account Manager - IS",
+  "company": "Philips",
+  "location": "India - Remote Based",
+  "remote": null,
+  "salary_min": null,
+  "salary_max": null,
+  "posted_at": "2026-08-07T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-03T00:56:04.621Z"
  }
 }
