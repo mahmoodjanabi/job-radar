@@ -8543,5 +8543,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-04T06:11:13.099Z"
+ },
+ "ae8720153e852cb55c1dec66a0e5d51212812080": {
+  "id": "ae8720153e852cb55c1dec66a0e5d51212812080",
+  "source": "adzuna",
+  "external_id": "5952921396",
+  "url": "https://www.adzuna.com/land/ad/5952921396?se=yGXmuVvY8RGzzrVppzF3wg&utm_medium=api&utm_source=53549fa7&v=A3C54284B74EA0433AFB5C40AC0454AA265C1B53",
+  "title": "Training Delivery Specialist II",
+  "company": "Sutter Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 92581,
+  "salary_max": 92581,
+  "posted_at": "2026-11-04T08:07:10.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-04T14:26:57.125Z"
  }
 }
