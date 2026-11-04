@@ -8561,5 +8561,167 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-04T14:26:57.125Z"
+ },
+ "e59dcabcbd114eecc5641031b410f4b036cff586": {
+  "id": "e59dcabcbd114eecc5641031b410f4b036cff586",
+  "source": "adzuna",
+  "external_id": "5953100797",
+  "url": "https://www.adzuna.com/details/5953100797?utm_medium=api&utm_source=53549fa7",
+  "title": "Lead/Senior Medical Planner",
+  "company": "Taylor Design",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 110000,
+  "salary_max": 140000,
+  "posted_at": "2026-11-04T10:33:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-11-04T23:38:09.590Z"
+ },
+ "dbf53778685bc9966d2e51aa87446b90272cb71a": {
+  "id": "dbf53778685bc9966d2e51aa87446b90272cb71a",
+  "source": "adzuna",
+  "external_id": "5953447727",
+  "url": "https://www.adzuna.com/details/5953447727?utm_medium=api&utm_source=53549fa7",
+  "title": "Operational Quality Services Specialist, Associate",
+  "company": "Blue Shield of California",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 67055,
+  "salary_max": 67055,
+  "posted_at": "2026-11-04T16:38:24.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-04T23:38:09.590Z"
+ },
+ "0141e4c5f1e1e8895a1329c3517eb670ac8aa22c": {
+  "id": "0141e4c5f1e1e8895a1329c3517eb670ac8aa22c",
+  "source": "adzuna",
+  "external_id": "5953400231",
+  "url": "https://www.adzuna.com/land/ad/5953400231?se=flTAu6jY8RGn-MbUyeeZJA&utm_medium=api&utm_source=53549fa7&v=AA512152A1C9B31943AE953BFDC4CF153CFCE7BC",
+  "title": "Local L&D (Labor and Delivery) RN (Registered Nurse) in Roseville, CA - 1167457L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 44192,
+  "salary_max": 44192,
+  "posted_at": "2026-11-04T15:13:03.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-04T23:38:09.590Z"
+ },
+ "5075a98c9f38a32257157b1a9a25c3e1701a94b0": {
+  "id": "5075a98c9f38a32257157b1a9a25c3e1701a94b0",
+  "source": "adzuna",
+  "external_id": "5952124942",
+  "url": "https://www.adzuna.com/land/ad/5952124942?se=flTAu6jY8RGn-MbUyeeZJA&utm_medium=api&utm_source=53549fa7&v=04E674E69E44927A29B1A8FDE553F89EE12BB90F",
+  "title": "Local L&D (Labor and Delivery) RN (Registered Nurse) in Sacramento, CA - 1167475L",
+  "company": "Medical Solutions",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 33461,
+  "salary_max": 33461,
+  "posted_at": "2026-11-03T18:13:08.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-04T23:38:09.590Z"
+ },
+ "684525e338a647947329779f6589738978859451": {
+  "id": "684525e338a647947329779f6589738978859451",
+  "source": "adzuna",
+  "external_id": "5953406114",
+  "url": "https://www.adzuna.com/land/ad/5953406114?se=pKhZvKjY8RGLVYGr7O6wFw&utm_medium=api&utm_source=53549fa7&v=1B676EC8D34F2014E041163B111F62E5325CA417",
+  "title": "Local L&D (Labor and Delivery) RN (Registered Nurse) in Vacaville, CA - 1167417L",
+  "company": "Medical Solutions",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 42103,
+  "salary_max": 42103,
+  "posted_at": "2026-11-04T15:14:16.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-04T23:38:09.590Z"
+ },
+ "ba73394b76c370fda85897a6f850a911745d43d2": {
+  "id": "ba73394b76c370fda85897a6f850a911745d43d2",
+  "source": "adzuna",
+  "external_id": "5953397158",
+  "url": "https://www.adzuna.com/land/ad/5953397158?se=pKhZvKjY8RGLVYGr7O6wFw&utm_medium=api&utm_source=53549fa7&v=53D4033E5E581283F0FA477C714817416AC5FD47",
+  "title": "Local ICU (Intensive Care Unit) RN (Registered Nurse) in Vacaville, CA - 1135941L",
+  "company": "Medical Solutions",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 52820,
+  "salary_max": 52820,
+  "posted_at": "2026-11-04T15:12:16.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-04T23:38:09.590Z"
+ },
+ "a724964553c3fa8b727acb67a2fb986f5f54a664": {
+  "id": "a724964553c3fa8b727acb67a2fb986f5f54a664",
+  "source": "workday:sutterhealth",
+  "external_id": "R-141920",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Nursing-Assistant---Unit-Secretary--Cardiac-Care-Unit_R-141920",
+  "title": "Nursing Assistant / Unit Secretary, Cardiac Care Unit",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 62462,
+  "salary_max": 87443,
+  "posted_at": "2026-11-04T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-04T23:38:09.590Z"
+ },
+ "9e6f62d3f3df1b4d6a3a23c5cfde882e26f07aad": {
+  "id": "9e6f62d3f3df1b4d6a3a23c5cfde882e26f07aad",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145739",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Critical-Care-Technician--Cardiovascular-Surgical-ICU_R-145739",
+  "title": "Critical Care Technician, CVSICU",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 68640,
+  "salary_max": 96096,
+  "posted_at": "2026-11-04T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-04T23:38:09.590Z"
+ },
+ "346e72f82709ced934feda0589731a907e767eef": {
+  "id": "346e72f82709ced934feda0589731a907e767eef",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144084",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Fetal-Loss-Specialist_R-144084-1",
+  "title": "Fetal Loss Specialist",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 74048,
+  "salary_max": 103646,
+  "posted_at": "2026-11-04T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-04T23:38:09.590Z"
  }
 }
