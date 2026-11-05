@@ -8795,5 +8795,269 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-05T06:40:07.783Z"
+ },
+ "883381ea4ae88e390cab9a7ebe780a2d73d83de6": {
+  "id": "883381ea4ae88e390cab9a7ebe780a2d73d83de6",
+  "source": "adzuna",
+  "external_id": "5954212499",
+  "url": "https://www.adzuna.com/land/ad/5954212499?se=oOpMn1LZ8RG4vr3URdSNKw&utm_medium=api&utm_source=53549fa7&v=815B0C55091BB7A45545B7AB82FF6C0E2C7BE38B",
+  "title": "Healthcare Integration Architect",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 149386,
+  "salary_max": 149386,
+  "posted_at": "2026-11-05T07:47:18.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-11-05T19:54:24.169Z"
+ },
+ "a37e04ee979115f24d94e4bdcdeaf16c9e51be59": {
+  "id": "a37e04ee979115f24d94e4bdcdeaf16c9e51be59",
+  "source": "adzuna",
+  "external_id": "5954615561",
+  "url": "https://www.adzuna.com/land/ad/5954615561?se=cq23n1LZ8RGcxONAeSkpDg&utm_medium=api&utm_source=53549fa7&v=B2A843D4ED7B042186C881528D849C339BEE1584",
+  "title": "Mobile Engineer, Senior",
+  "company": "Blue Shield of California",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 135067,
+  "salary_max": 135067,
+  "posted_at": "2026-11-05T13:21:34.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T19:54:24.169Z"
+ },
+ "b9c9eeeccdc8ec47574134c53e281c5f0ee6a03b": {
+  "id": "b9c9eeeccdc8ec47574134c53e281c5f0ee6a03b",
+  "source": "adzuna",
+  "external_id": "5954610794",
+  "url": "https://www.adzuna.com/land/ad/5954610794?se=cq23n1LZ8RGcxONAeSkpDg&utm_medium=api&utm_source=53549fa7&v=E5303059A88FC011226FB8EA3925AFB341DB7AB3",
+  "title": "Local L&D (Labor and Delivery) RN (Registered Nurse) in Roseville, CA - 1167422L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 44475,
+  "salary_max": 44475,
+  "posted_at": "2026-11-05T13:14:28.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T19:54:24.169Z"
+ },
+ "bd241d5453a0088a25c6bd164e8e155b534d4f53": {
+  "id": "bd241d5453a0088a25c6bd164e8e155b534d4f53",
+  "source": "adzuna",
+  "external_id": "5954392585",
+  "url": "https://www.adzuna.com/land/ad/5954392585?se=cq23n1LZ8RGcxONAeSkpDg&utm_medium=api&utm_source=53549fa7&v=B24B6A4F66BEA5759368D22659D45F1C38FEDA73",
+  "title": "Local NICU (Neonatal Intensive Care Unit) RN (Registered Nurse) in Roseville, CA - 1167436L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 46541,
+  "salary_max": 46541,
+  "posted_at": "2026-11-05T10:16:36.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T19:54:24.169Z"
+ },
+ "4a68c7d50fd34cb0149112c6a168823a7aaa6535": {
+  "id": "4a68c7d50fd34cb0149112c6a168823a7aaa6535",
+  "source": "adzuna",
+  "external_id": "5954211235",
+  "url": "https://www.adzuna.com/land/ad/5954211235?se=cq23n1LZ8RGcxONAeSkpDg&utm_medium=api&utm_source=53549fa7&v=BE92E26178E7D44F8A3F40742F898E0D2B320AE2",
+  "title": "Summer 2027 Healthcare Analytics Data Science Graduate Intern",
+  "company": "Highmark Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 48663,
+  "salary_max": 48663,
+  "posted_at": "2026-11-05T07:44:05.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T19:54:24.169Z"
+ },
+ "881292d55abc8d676768bcf594ac6215f019b22e": {
+  "id": "881292d55abc8d676768bcf594ac6215f019b22e",
+  "source": "adzuna",
+  "external_id": "5954209155",
+  "url": "https://www.adzuna.com/land/ad/5954209155?se=cq23n1LZ8RGcxONAeSkpDg&utm_medium=api&utm_source=53549fa7&v=432861FF9E7141EABDFAFAA6EA929620D904D09D",
+  "title": "Facets Product Consultant",
+  "company": "Cognizant",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 116257,
+  "salary_max": 116257,
+  "posted_at": "2026-11-05T07:40:40.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T19:54:24.169Z"
+ },
+ "d91f603a0de9c66458171a78f1a86743d403414c": {
+  "id": "d91f603a0de9c66458171a78f1a86743d403414c",
+  "source": "adzuna",
+  "external_id": "5953913572",
+  "url": "https://www.adzuna.com/land/ad/5953913572?se=cq23n1LZ8RGcxONAeSkpDg&utm_medium=api&utm_source=53549fa7&v=D6D497E350328E398ABEFB4B9BF506CC77CE4C98",
+  "title": "Local OR (Operating Room) RN (Registered Nurse) in Marysville, CA - 1161895L",
+  "company": "Medical Solutions",
+  "location": "Marysville, Yuba County",
+  "remote": null,
+  "salary_min": 43506,
+  "salary_max": 43506,
+  "posted_at": "2026-11-05T01:58:58.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T19:54:24.169Z"
+ },
+ "f123b05c8f3a8076cc398ed6758787b5315c85d6": {
+  "id": "f123b05c8f3a8076cc398ed6758787b5315c85d6",
+  "source": "adzuna",
+  "external_id": "5954611876",
+  "url": "https://www.adzuna.com/land/ad/5954611876?se=Rmo_oFLZ8RGfyN3H3ce7sQ&utm_medium=api&utm_source=53549fa7&v=6FF40E13CBD5ECE9C78649F2D46C4E592820BAD9",
+  "title": "Local L&D (Labor and Delivery) RN (Registered Nurse) in Vacaville, CA - 1095270L",
+  "company": "Medical Solutions",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 41838,
+  "salary_max": 41838,
+  "posted_at": "2026-11-05T13:17:05.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T19:54:24.169Z"
+ },
+ "6a82f10972ae64465586119c176ed86609128f25": {
+  "id": "6a82f10972ae64465586119c176ed86609128f25",
+  "source": "adzuna",
+  "external_id": "5954610536",
+  "url": "https://www.adzuna.com/land/ad/5954610536?se=Rmo_oFLZ8RGfyN3H3ce7sQ&utm_medium=api&utm_source=53549fa7&v=BEFC91A64F2561FEF7FDC5B2755A80441D70E55F",
+  "title": "Local ICU (Intensive Care Unit) RN (Registered Nurse) in Vacaville, CA - 1130380L",
+  "company": "Medical Solutions",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 52820,
+  "salary_max": 52820,
+  "posted_at": "2026-11-05T13:13:53.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T19:54:24.169Z"
+ },
+ "000eb207320879f24f89945c354521f2a95c6628": {
+  "id": "000eb207320879f24f89945c354521f2a95c6628",
+  "source": "adzuna",
+  "external_id": "5954589339",
+  "url": "https://www.adzuna.com/land/ad/5954589339?se=qIIKoVLZ8RGbcMICoEvUuw&utm_medium=api&utm_source=53549fa7&v=F2CBE69D1812E6225AA4D9704C070C8548920341",
+  "title": "HCAI Project Engineer",
+  "company": "RimePro Inc",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 87183,
+  "salary_max": 87183,
+  "posted_at": "2026-11-05T12:20:07.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T19:54:24.169Z"
+ },
+ "4bfa9d50581d35325026af1fbc4903619d586215": {
+  "id": "4bfa9d50581d35325026af1fbc4903619d586215",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145821",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Assistant-II--Orthopedics_R-145821",
+  "title": "Medical Assistant II, Orthopedics",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-11-05T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T19:54:24.169Z"
+ },
+ "5a306910f9872b7274756930a0b92bf5aa0958b4": {
+  "id": "5a306910f9872b7274756930a0b92bf5aa0958b4",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145728",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Associate-Chief-Medical-Information-Officer--ACMIO_R-145728",
+  "title": "Associate Chief Medical Information Officer, ACMIO",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 354473,
+  "salary_max": 567153,
+  "posted_at": "2026-11-05T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T19:54:24.169Z"
+ },
+ "d19b0ee447ab0cdaf006c46bb68bbed7b08bedcc": {
+  "id": "d19b0ee447ab0cdaf006c46bb68bbed7b08bedcc",
+  "source": "workday:philips",
+  "external_id": "591130",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Clinical-Application-Specialist--MR--National-Travel-_591130",
+  "title": "Clinical Application Specialist- MR (National-Travel)",
+  "company": "Philips",
+  "location": "United States of America - Home Based, United States",
+  "remote": null,
+  "salary_min": 90000,
+  "salary_max": 143000,
+  "posted_at": "2026-11-05T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T19:54:24.169Z"
+ },
+ "95a0005dfe1a7260f70c3f24c7b1ad80ed56607b": {
+  "id": "95a0005dfe1a7260f70c3f24c7b1ad80ed56607b",
+  "source": "adzuna",
+  "external_id": "5954212283",
+  "url": "https://www.adzuna.com/land/ad/5954212283?se=cq23n1LZ8RGcxONAeSkpDg&utm_medium=api&utm_source=53549fa7&v=ACF0293B3817105AEFF0129535D6947947CC856C",
+  "title": "Vascular Senior Clinical Specialist - Sacramento",
+  "company": "Medtronic",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 125397,
+  "salary_max": 125397,
+  "posted_at": "2026-11-05T07:46:40.000Z",
+  "score": 15,
+  "verdict": {
+   "role_fit": "excluded",
+   "work_mode": "remote",
+   "location_ok": true,
+   "salary_ok": true,
+   "salary_note": "$125,397/yr",
+   "seniority": "senior",
+   "score": 15,
+   "summary": "Vascular Clinical Specialist role at Medtronic; excluded because vendor clinical specialist roles are target only if focused on equipment planning/site design, not sales or bedside training—title and company profile suggest sales/clinical support focus.",
+   "concerns": [
+    "Likely sales or bedside clinical training role",
+    "Medtronic vendor context suggests sales quota",
+    "Limited description—role details unavailable"
+   ]
+  },
+  "first_seen_at": "2026-11-05T19:54:24.169Z"
  }
 }
