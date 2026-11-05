@@ -8723,5 +8723,77 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-04T23:38:09.590Z"
+ },
+ "6933276d0ef136792894bc03b87879d8dcf78dcd": {
+  "id": "6933276d0ef136792894bc03b87879d8dcf78dcd",
+  "source": "adzuna",
+  "external_id": "5953628702",
+  "url": "https://www.adzuna.com/land/ad/5953628702?se=JDBtrOPY8RG908O6iWXBeQ&utm_medium=api&utm_source=53549fa7&v=E5DAEA22A43496CF6C6E6A2E83D363A1FDAE1D89",
+  "title": "Local ICU (Intensive Care Unit) RN (Registered Nurse) in Sacramento, CA - 1133260L",
+  "company": "Medical Solutions",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 46233,
+  "salary_max": 46233,
+  "posted_at": "2026-11-04T21:55:24.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T06:40:07.783Z"
+ },
+ "b7e37cae0cb111e8872b874902c962636edbbcf4": {
+  "id": "b7e37cae0cb111e8872b874902c962636edbbcf4",
+  "source": "adzuna",
+  "external_id": "5953628358",
+  "url": "https://www.adzuna.com/land/ad/5953628358?se=JDBtrOPY8RG908O6iWXBeQ&utm_medium=api&utm_source=53549fa7&v=E49B8A5AEABB931F7030DA58BB29B8BBC880018C",
+  "title": "Local Med Surg (Medical Surgical) RN (Registered Nurse) in Carbondale, IL - 1162842L",
+  "company": "Medical Solutions",
+  "location": "Carbondale, Amador County",
+  "remote": null,
+  "salary_min": 43710,
+  "salary_max": 43710,
+  "posted_at": "2026-11-04T21:55:09.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T06:40:07.783Z"
+ },
+ "aad99384851d90277b82308a91c3c42325cf9c2c": {
+  "id": "aad99384851d90277b82308a91c3c42325cf9c2c",
+  "source": "adzuna",
+  "external_id": "5952126234",
+  "url": "https://www.adzuna.com/land/ad/5952126234?se=JDBtrOPY8RG908O6iWXBeQ&utm_medium=api&utm_source=53549fa7&v=4A31F5395ABFEFBB1126169EAB0B709DEC776B74",
+  "title": "Local L&D (Labor and Delivery) RN (Registered Nurse) in Roseville, CA - 1167445L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 48301,
+  "salary_max": 48301,
+  "posted_at": "2026-11-03T18:16:33.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T06:40:07.783Z"
+ },
+ "09ab153c7ffd0fd7121ad08146d440cf85de9ca3": {
+  "id": "09ab153c7ffd0fd7121ad08146d440cf85de9ca3",
+  "source": "workday:sutterhealth",
+  "external_id": "R-142888",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Unit-Clerk-Nursing-Assistant--Resource-Pool--Clinical-Support_R-142888",
+  "title": "Unit Clerk/Nursing Assistant, Resource Pool, Clinical Support",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 62462,
+  "salary_max": 87443,
+  "posted_at": "2026-11-04T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-05T06:40:07.783Z"
  }
 }
