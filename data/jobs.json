@@ -9059,5 +9059,251 @@
    ]
   },
   "first_seen_at": "2026-11-05T19:54:24.169Z"
+ },
+ "4e457fa01bb26ec85a5ef0811b5adbfdd35e40ac": {
+  "id": "4e457fa01bb26ec85a5ef0811b5adbfdd35e40ac",
+  "source": "adzuna",
+  "external_id": "5955242582",
+  "url": "https://www.adzuna.com/land/ad/5955242582?se=iN8IPqzZ8RG4vr3URdSNKw&utm_medium=api&utm_source=53549fa7&v=5822C43151D3FD6F059C4884B7C3D9C8BD740F59",
+  "title": "Local Telemetry RN (Registered Nurse) in Yuba City, CA - 1173817L",
+  "company": "Medical Solutions",
+  "location": "Yuba City, Sutter County",
+  "remote": null,
+  "salary_min": 39776,
+  "salary_max": 39776,
+  "posted_at": "2026-11-05T23:38:52.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T06:35:55.819Z"
+ },
+ "af5a4d7e988d6c7685682ca8c6e76e3a00054e09": {
+  "id": "af5a4d7e988d6c7685682ca8c6e76e3a00054e09",
+  "source": "adzuna",
+  "external_id": "5955237633",
+  "url": "https://www.adzuna.com/land/ad/5955237633?se=iN8IPqzZ8RG4vr3URdSNKw&utm_medium=api&utm_source=53549fa7&v=E62C1F88504EC448CFC9ED6A32F16584E9BC6FD4",
+  "title": "Local NICU (Neonatal Intensive Care Unit) RN (Registered Nurse) in Roseville, CA - 1167428L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 45438,
+  "salary_max": 45438,
+  "posted_at": "2026-11-05T23:35:56.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T06:35:55.819Z"
+ },
+ "f0f38a7352d71bee6922cd6c774b43b219cf0199": {
+  "id": "f0f38a7352d71bee6922cd6c774b43b219cf0199",
+  "source": "adzuna",
+  "external_id": "5955224635",
+  "url": "https://www.adzuna.com/land/ad/5955224635?se=iN8IPqzZ8RG4vr3URdSNKw&utm_medium=api&utm_source=53549fa7&v=07CF34147FDBEFE019CD0490F2AB87D5F63A1955",
+  "title": "Local OR (Operating Room) RN (Registered Nurse) in Marysville, CA - 1161895L",
+  "company": "Medical Solutions",
+  "location": "Marysville, Yuba County",
+  "remote": null,
+  "salary_min": 42430,
+  "salary_max": 42430,
+  "posted_at": "2026-11-05T23:19:15.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T06:35:55.819Z"
+ },
+ "ebafffdc2b95ebd3951c3bd3b1008fcaaadea534": {
+  "id": "ebafffdc2b95ebd3951c3bd3b1008fcaaadea534",
+  "source": "adzuna",
+  "external_id": "5954891584",
+  "url": "https://www.adzuna.com/land/ad/5954891584?se=iN8IPqzZ8RG4vr3URdSNKw&utm_medium=api&utm_source=53549fa7&v=CA609BF4FFBBC1237000BB1EC55D37B14C1C58A6",
+  "title": "Local Med Surg (Medical Surgical) RN (Registered Nurse) in Wheatland, WY - 1153259L",
+  "company": "Medical Solutions",
+  "location": "Wheatland, Yuba County",
+  "remote": null,
+  "salary_min": 48765,
+  "salary_max": 48765,
+  "posted_at": "2026-11-05T19:57:24.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T06:35:55.819Z"
+ },
+ "386c4c36bd57f492cba10562c8e7de882214d73d": {
+  "id": "386c4c36bd57f492cba10562c8e7de882214d73d",
+  "source": "adzuna",
+  "external_id": "5952079977",
+  "url": "https://www.adzuna.com/land/ad/5952079977?se=iN8IPqzZ8RG4vr3URdSNKw&utm_medium=api&utm_source=53549fa7&v=65A0809DE89897DBACFF3484061A8D9410ACBBFD",
+  "title": "Local ICU (Intensive Care Unit) RN (Registered Nurse) in Sacramento, CA - 1172940L",
+  "company": "Medical Solutions",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 46233,
+  "salary_max": 46233,
+  "posted_at": "2026-11-03T14:07:38.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T06:35:55.819Z"
+ },
+ "fa74e6750c91687a2be45c22da2de56462bb6e52": {
+  "id": "fa74e6750c91687a2be45c22da2de56462bb6e52",
+  "source": "adzuna",
+  "external_id": "5955243652",
+  "url": "https://www.adzuna.com/land/ad/5955243652?se=9BZMPqzZ8RGiyLcWFRyVsw&utm_medium=api&utm_source=53549fa7&v=CEC6EA58C8731B6BBC29F65E52A56902FD2A98B1",
+  "title": "Local NICU (Neonatal Intensive Care Unit) RN (Registered Nurse) in Lodi, CA - 1148305L",
+  "company": "Medical Solutions",
+  "location": "Lodi, San Joaquin County",
+  "remote": null,
+  "salary_min": 36193,
+  "salary_max": 36193,
+  "posted_at": "2026-11-05T23:39:33.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T06:35:55.819Z"
+ },
+ "654d8f18841586e71c25b5324d9c3ebff5166137": {
+  "id": "654d8f18841586e71c25b5324d9c3ebff5166137",
+  "source": "adzuna",
+  "external_id": "5954611006",
+  "url": "https://www.adzuna.com/land/ad/5954611006?se=TpOJPqzZ8RG2xejHgokDmg&utm_medium=api&utm_source=53549fa7&v=5225A3A94D4BFABE8B4869D124F98BCACA2237C8",
+  "title": "Local ICU (Intensive Care Unit) RN (Registered Nurse) in Vacaville, CA - 1130238L",
+  "company": "Medical Solutions",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 53154,
+  "salary_max": 53154,
+  "posted_at": "2026-11-05T13:14:57.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T06:35:55.819Z"
+ },
+ "c44b943c9646d1e2b8aa0204ffd36ea3b1608373": {
+  "id": "c44b943c9646d1e2b8aa0204ffd36ea3b1608373",
+  "source": "adzuna",
+  "external_id": "5954887506",
+  "url": "https://www.adzuna.com/details/5954887506?utm_medium=api&utm_source=53549fa7",
+  "title": "Program Manager",
+  "company": "TEKsystems",
+  "location": "Fairfield, Solano County",
+  "remote": null,
+  "salary_min": 147958,
+  "salary_max": 147958,
+  "posted_at": "2026-11-05T19:52:39.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T06:35:55.819Z"
+ },
+ "3f3d37a2bb57f9fdc6936f45891a3af71cd1f8bb": {
+  "id": "3f3d37a2bb57f9fdc6936f45891a3af71cd1f8bb",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145865",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Assistant-II--Orthopedics_R-145865",
+  "title": "Medical Assistant II, Orthopedics",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-11-05T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T06:35:55.819Z"
+ },
+ "2127aec2742ac98ca4372ab77710ab1bfa3cdb46": {
+  "id": "2127aec2742ac98ca4372ab77710ab1bfa3cdb46",
+  "source": "workday:sutterhealth",
+  "external_id": "R-140729",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Mental-Health-Therpist-III_R-140729",
+  "title": "Mental Health Therapist III",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 110989,
+  "salary_max": 155376,
+  "posted_at": "2026-11-05T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T06:35:55.819Z"
+ },
+ "2f6299f04f45e22dd2579717e85fd0019f2bf834": {
+  "id": "2f6299f04f45e22dd2579717e85fd0019f2bf834",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145882",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Monitor-Technician-I--Centralized-Monitoring_R-145882",
+  "title": "Monitor Technician I, Centralized Monitoring",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60382,
+  "salary_max": 84510,
+  "posted_at": "2026-11-05T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T06:35:55.819Z"
+ },
+ "89964f1a8f05d90356e2b3159a1dfe1f8d9b20c9": {
+  "id": "89964f1a8f05d90356e2b3159a1dfe1f8d9b20c9",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145416",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Scheduler--Hospice_R-145416-1",
+  "title": "Scheduler, Hospice",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 54995,
+  "salary_max": 73819,
+  "posted_at": "2026-11-05T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T06:35:55.819Z"
+ },
+ "57eacf8df62ed9e042de11ae5c8f9c3aa4ccb276": {
+  "id": "57eacf8df62ed9e042de11ae5c8f9c3aa4ccb276",
+  "source": "adzuna",
+  "external_id": "5954887505",
+  "url": "https://www.adzuna.com/details/5954887505?utm_medium=api&utm_source=53549fa7",
+  "title": "Senior IT & Business Project Manager",
+  "company": "TEKsystems",
+  "location": "Fairfield, Solano County",
+  "remote": null,
+  "salary_min": 144750,
+  "salary_max": 144750,
+  "posted_at": "2026-11-05T19:52:39.000Z",
+  "score": 18,
+  "verdict": {
+   "role_fit": "excluded",
+   "work_mode": "hybrid",
+   "location_ok": false,
+   "salary_ok": true,
+   "salary_note": "144750 - 144750",
+   "seniority": "senior",
+   "score": 18,
+   "summary": "Senior IT project manager for healthcare interoperability; excluded role family (IT/tech), onsite in Fairfield (not acceptable).",
+   "concerns": [
+    "healthcare IT/technology role",
+    "onsite in Fairfield (Bay Area)",
+    "not healthcare planning/design"
+   ]
+  },
+  "first_seen_at": "2026-11-06T06:35:55.819Z"
  }
 }
