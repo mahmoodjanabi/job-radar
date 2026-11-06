@@ -9305,5 +9305,334 @@
    ]
   },
   "first_seen_at": "2026-11-06T06:35:55.819Z"
+ },
+ "21a4bb56a57d4c943f7b1828d40142045eb6a9f9": {
+  "id": "21a4bb56a57d4c943f7b1828d40142045eb6a9f9",
+  "source": "adzuna",
+  "external_id": "5955756892",
+  "url": "https://www.adzuna.com/details/5955756892?utm_medium=api&utm_source=53549fa7",
+  "title": "Allied Technician - 38693250",
+  "company": "UC Davis Rehabilitation Hospital",
+  "location": "Long Island, Sacramento County",
+  "remote": null,
+  "salary_min": 132080,
+  "salary_max": 132080,
+  "posted_at": "2026-11-06T08:57:08.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "e5f7149f16a530caef09f54ba0c6c9430e4d936e": {
+  "id": "e5f7149f16a530caef09f54ba0c6c9430e4d936e",
+  "source": "adzuna",
+  "external_id": "5955630601",
+  "url": "https://www.adzuna.com/land/ad/5955630601?se=GGDcIBfa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=53549fa7&v=D6744DCB9527AC922F7C77D12DEF072C4A9104F2",
+  "title": "Local L&D (Labor and Delivery) RN (Registered Nurse) in Sacramento, CA - 1167477L",
+  "company": "Medical Solutions",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 33248,
+  "salary_max": 33248,
+  "posted_at": "2026-11-06T07:50:27.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "2112917b1e521b2f97a294db232a54ffdb32371d": {
+  "id": "2112917b1e521b2f97a294db232a54ffdb32371d",
+  "source": "adzuna",
+  "external_id": "5955627291",
+  "url": "https://www.adzuna.com/land/ad/5955627291?se=GGDcIBfa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=53549fa7&v=5B36E97599897805D6F7D762A46942A88B0FC3D8",
+  "title": "Vascular Area Clinical Service Manager (California)",
+  "company": "Medtronic",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 197943,
+  "salary_max": 197943,
+  "posted_at": "2026-11-06T07:47:09.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "6d9934fa6c9a75b3fb7583176a9ac71ec12789a0": {
+  "id": "6d9934fa6c9a75b3fb7583176a9ac71ec12789a0",
+  "source": "adzuna",
+  "external_id": "5955626974",
+  "url": "https://www.adzuna.com/land/ad/5955626974?se=GGDcIBfa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=53549fa7&v=216176E14C0940D7D83BC7ED5919132154C43D9E",
+  "title": "RN - New Grad",
+  "company": "Maxim Healthcare",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 74893,
+  "salary_max": 74893,
+  "posted_at": "2026-11-06T07:46:32.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "56239431de3011c4c73adf527656c47396303c20": {
+  "id": "56239431de3011c4c73adf527656c47396303c20",
+  "source": "adzuna",
+  "external_id": "5955626225",
+  "url": "https://www.adzuna.com/land/ad/5955626225?se=GGDcIBfa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=53549fa7&v=8DF5952A979DDCD5274871F2B0DF5B54DF962FD7",
+  "title": "Senior Product Designer - Part D (Pharmacy) Benefits",
+  "company": "Humana",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 122664,
+  "salary_max": 122664,
+  "posted_at": "2026-11-06T07:45:13.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "c1205cead6fd24086af48ee286f807e8f00aec0d": {
+  "id": "c1205cead6fd24086af48ee286f807e8f00aec0d",
+  "source": "adzuna",
+  "external_id": "5955397159",
+  "url": "https://www.adzuna.com/details/5955397159?utm_medium=api&utm_source=53549fa7",
+  "title": "Electrical Design Engineer",
+  "company": "CMTA",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 90000,
+  "salary_max": 150000,
+  "posted_at": "2026-11-06T03:10:13.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "e94a9523025e53d7d2a78af2571a9f9b5f32ae82": {
+  "id": "e94a9523025e53d7d2a78af2571a9f9b5f32ae82",
+  "source": "adzuna",
+  "external_id": "5953410061",
+  "url": "https://www.adzuna.com/land/ad/5953410061?se=GGDcIBfa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=53549fa7&v=2DC266E7E0E10A8527C68E33D8EC55A8F2F21766",
+  "title": "Local ICU (Intensive Care Unit) RN (Registered Nurse) in Sacramento, CA - 1167030L",
+  "company": "Medical Solutions",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 46233,
+  "salary_max": 46233,
+  "posted_at": "2026-11-04T15:14:53.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "73338c58cc715019dca68baf46085f58b7f038bc": {
+  "id": "73338c58cc715019dca68baf46085f58b7f038bc",
+  "source": "adzuna",
+  "external_id": "5954610790",
+  "url": "https://www.adzuna.com/land/ad/5954610790?se=rLqXIRfa8RGD5Iv7NVeOtg&utm_medium=api&utm_source=53549fa7&v=FBEDB08811CBC0A3C2DBCCAFC77591A1C3546F87",
+  "title": "Local ICU (Intensive Care Unit) RN (Registered Nurse) in Vacaville, CA - 1130374L",
+  "company": "Medical Solutions",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 52820,
+  "salary_max": 52820,
+  "posted_at": "2026-11-05T13:14:28.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "141934b1087e07c81ec06d2a1fdbc0d71e8f87ec": {
+  "id": "141934b1087e07c81ec06d2a1fdbc0d71e8f87ec",
+  "source": "adzuna",
+  "external_id": "5955626222",
+  "url": "https://www.adzuna.com/land/ad/5955626222?se=RpqfIhfa8RG34JVfd8b-pw&utm_medium=api&utm_source=53549fa7&v=5F2E14DBC03D12AE0F3DC83CAFA9562FF53D2BCF",
+  "title": "Grievances & Appeals Lead",
+  "company": "Humana",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 102977,
+  "salary_max": 102977,
+  "posted_at": "2026-11-06T07:45:13.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "d218aa26c6885b032af053c891f27ce9ee6aa89b": {
+  "id": "d218aa26c6885b032af053c891f27ce9ee6aa89b",
+  "source": "adzuna",
+  "external_id": "5955624038",
+  "url": "https://www.adzuna.com/land/ad/5955624038?se=RpqfIhfa8RG34JVfd8b-pw&utm_medium=api&utm_source=53549fa7&v=88D8DFBF9C076003D1263566F4EA174047452327",
+  "title": "Digital Program Manager",
+  "company": "Datavant",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 122279,
+  "salary_max": 122279,
+  "posted_at": "2026-11-06T07:42:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "d7df28d08f80ff134fc39c344ad96aa9c63668b4": {
+  "id": "d7df28d08f80ff134fc39c344ad96aa9c63668b4",
+  "source": "adzuna",
+  "external_id": "5955624034",
+  "url": "https://www.adzuna.com/land/ad/5955624034?se=RpqfIhfa8RG34JVfd8b-pw&utm_medium=api&utm_source=53549fa7&v=10CE2A28401ED6ECD714C3D79F1862F03083DBAF",
+  "title": "Senior Project Manager, Implementation",
+  "company": "Datavant",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 143449,
+  "salary_max": 143449,
+  "posted_at": "2026-11-06T07:42:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "10f646b7e2a5c4e75ab0be1c3afa3bd9565e3326": {
+  "id": "10f646b7e2a5c4e75ab0be1c3afa3bd9565e3326",
+  "source": "adzuna",
+  "external_id": "5955625221",
+  "url": "https://www.adzuna.com/land/ad/5955625221?se=hAGaIxfa8RGD5Iv7NVeOtg&utm_medium=api&utm_source=53549fa7&v=51F6EEB180ABD055E386996E02DE71E607FAFF42",
+  "title": "ASC Solutions Architect - West",
+  "company": "GE HealthCare",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 180332,
+  "salary_max": 180332,
+  "posted_at": "2026-11-06T07:43:48.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "6bd5c133deb522be0d35002878136bc6604849ae": {
+  "id": "6bd5c133deb522be0d35002878136bc6604849ae",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145541",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Radiologic-Technologist_R-145541",
+  "title": "Radiologic Technologist",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 122845,
+  "salary_max": 149760,
+  "posted_at": "2026-11-06T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "68a5eedd4e5d257d67826a1c326bc7919306a5a6": {
+  "id": "68a5eedd4e5d257d67826a1c326bc7919306a5a6",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144171",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Mental-Health-Worker-I--Patient-Support_R-144171",
+  "title": "Mental Health Worker I, Patient Support",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 56326,
+  "salary_max": 78832,
+  "posted_at": "2026-11-06T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "e19a9633e4b38ea88057fc07913075f822249e40": {
+  "id": "e19a9633e4b38ea88057fc07913075f822249e40",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145419",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Mental-Health-Worker-I--Patient-Support_R-145419",
+  "title": "Mental Health Worker I, Patient Support",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 56326,
+  "salary_max": 78832,
+  "posted_at": "2026-11-06T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "b2810a3b61c4b7285acfbc58ac9145288363d62a": {
+  "id": "b2810a3b61c4b7285acfbc58ac9145288363d62a",
+  "source": "adzuna",
+  "external_id": "5955625696",
+  "url": "https://www.adzuna.com/land/ad/5955625696?se=mMdZIBfa8RGzHMiJGgoLuQ&utm_medium=api&utm_source=53549fa7&v=D62A7336A5EA3CF943364614B1B38F6FD929A27B",
+  "title": "Sr. Data Architect (Remote)",
+  "company": "GovCIO",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 106389,
+  "salary_max": 106389,
+  "posted_at": "2026-11-06T07:44:22.000Z",
+  "score": 15,
+  "verdict": {
+   "role_fit": "excluded",
+   "work_mode": "remote",
+   "location_ok": true,
+   "salary_ok": true,
+   "salary_note": "$106,389",
+   "seniority": "senior",
+   "score": 15,
+   "summary": "Data architect role for VA healthcare IT systems; excluded as healthcare technology/IT planner, not a healthcare planning/design role.",
+   "concerns": [
+    "Healthcare IT/database role, not healthcare planning",
+    "No facility or clinical equipment planning component"
+   ]
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "d712c3ed055ecc3bfa7ec4699bf87d6ee5a2a95e": {
+  "id": "d712c3ed055ecc3bfa7ec4699bf87d6ee5a2a95e",
+  "source": "adzuna",
+  "external_id": "5955627288",
+  "url": "https://www.adzuna.com/land/ad/5955627288?se=GGDcIBfa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=53549fa7&v=65F92FDC6601AC233FB574EA501A274FC3DD690A",
+  "title": "Senior Radiology Clinical Specialist - West Coast",
+  "company": "Medtronic",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 165645,
+  "salary_max": 165645,
+  "posted_at": "2026-11-06T07:47:09.000Z",
+  "score": 15,
+  "verdict": {
+   "role_fit": "excluded",
+   "work_mode": "remote",
+   "location_ok": true,
+   "salary_ok": true,
+   "salary_note": "$165,645/yr",
+   "seniority": "senior",
+   "score": 15,
+   "summary": "Medtronic radiology clinical specialist role is a vendor sales/training position, not healthcare planning/design; excluded role family.",
+   "concerns": [
+    "vendor clinical specialist role",
+    "likely sales/training focus rather than planning",
+    "Medtronic equipment vendor"
+   ]
+  },
+  "first_seen_at": "2026-11-06T19:21:00.719Z"
  }
 }
