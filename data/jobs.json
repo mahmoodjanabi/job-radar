@@ -9634,5 +9634,95 @@
    ]
   },
   "first_seen_at": "2026-11-06T19:21:00.719Z"
+ },
+ "43ae420813e066eae7d79c9f064e5da4ceae39e3": {
+  "id": "43ae420813e066eae7d79c9f064e5da4ceae39e3",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144825",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Sonographer_R-144825",
+  "title": "Sonographer",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 134846,
+  "salary_max": 188781,
+  "posted_at": "2026-11-06T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-07T05:53:48.280Z"
+ },
+ "1c0e11e2a9777e5abc81ed578a289cce9fbc54d0": {
+  "id": "1c0e11e2a9777e5abc81ed578a289cce9fbc54d0",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145634",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Mental-Health-Therapist-III--Psychiatric-Response-Team_R-145634",
+  "title": "Mental Health Therapist III, Psychiatric Response Team",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 110989,
+  "salary_max": 155376,
+  "posted_at": "2026-11-06T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-07T05:53:48.280Z"
+ },
+ "63a527e2a5f4c36b8a4b96261cd84cbcefa0418f": {
+  "id": "63a527e2a5f4c36b8a4b96261cd84cbcefa0418f",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145968",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Manteca/Medical-Assistant-II--Weight-Loss-Program_R-145968",
+  "title": "Medical Assistant II, Weight Loss Program",
+  "company": "Sutter Health",
+  "location": "Manteca",
+  "remote": null,
+  "salary_min": 58011,
+  "salary_max": 81203,
+  "posted_at": "2026-11-06T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-07T05:53:48.280Z"
+ },
+ "981f3a8634ddf943304264d620c3e99aa47192ad": {
+  "id": "981f3a8634ddf943304264d620c3e99aa47192ad",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144011",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Radiologic-Technologist_R-144011-1",
+  "title": "Radiologic Technologist",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 122845,
+  "salary_max": 149760,
+  "posted_at": "2026-11-06T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-07T05:53:48.280Z"
+ },
+ "291866f2071a60592763631a5e99ea4ca668689a": {
+  "id": "291866f2071a60592763631a5e99ea4ca668689a",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145154",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Clinical-Dietitian-II_R-145154",
+  "title": "Clinical Dietitian II",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 112278,
+  "salary_max": 157186,
+  "posted_at": "2026-11-06T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-07T05:53:48.280Z"
  }
 }
