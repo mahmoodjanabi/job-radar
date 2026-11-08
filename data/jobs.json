@@ -10372,5 +10372,167 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-11-07T21:46:09.408Z"
+ },
+ "e274fe41e6cdb495af2796f0023b4d4c16f0d69d": {
+  "id": "e274fe41e6cdb495af2796f0023b4d4c16f0d69d",
+  "source": "adzuna",
+  "external_id": "5957683983",
+  "url": "https://www.adzuna.com/land/ad/5957683983?se=nhoXGTnb8RGD5Iv7NVeOtg&utm_medium=api&utm_source=53549fa7&v=2C7819C93681E552E6DE575F118B36FEC4D69873",
+  "title": "Immediate Opportunity - Cardiac Cath Lab Staff RN",
+  "company": "Medical Solutions",
+  "location": "Rocklin, Placer County",
+  "remote": null,
+  "salary_min": 68185,
+  "salary_max": 68185,
+  "posted_at": "2026-11-07T23:47:07.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T05:56:32.151Z"
+ },
+ "1fac0ca0200d812aff3573e8f820352788652ea0": {
+  "id": "1fac0ca0200d812aff3573e8f820352788652ea0",
+  "source": "adzuna",
+  "external_id": "5957477283",
+  "url": "https://www.adzuna.com/land/ad/5957477283?se=nhoXGTnb8RGD5Iv7NVeOtg&utm_medium=api&utm_source=53549fa7&v=518ACE2E551A8E1A03DAF1D5103B1A932459244C",
+  "title": "Immediate Opportunity - Cardiac Cath Lab Staff RN",
+  "company": "Medical Solutions",
+  "location": "Auburn Lake Trails, El Dorado County",
+  "remote": null,
+  "salary_min": 68482,
+  "salary_max": 68482,
+  "posted_at": "2026-11-07T16:40:54.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T05:56:32.151Z"
+ },
+ "cfce40a9d9c3ce27889150eb6011e6d804a57acb": {
+  "id": "cfce40a9d9c3ce27889150eb6011e6d804a57acb",
+  "source": "adzuna",
+  "external_id": "5957199659",
+  "url": "https://www.adzuna.com/details/5957199659?utm_medium=api&utm_source=53549fa7",
+  "title": "Design Principal - Interior Design",
+  "company": "HGA",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 153859,
+  "salary_max": 153859,
+  "posted_at": "2026-11-07T10:52:52.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T05:56:32.151Z"
+ },
+ "fadbb73bcdd18c9d0db975bbd4138fa9f5404cbc": {
+  "id": "fadbb73bcdd18c9d0db975bbd4138fa9f5404cbc",
+  "source": "adzuna",
+  "external_id": "5957070039",
+  "url": "https://www.adzuna.com/land/ad/5957070039?se=nhoXGTnb8RGD5Iv7NVeOtg&utm_medium=api&utm_source=53549fa7&v=CC555141BB1F4AE5619CEBA55B3EE2074FF01EFC",
+  "title": "Product Experience Design Lead",
+  "company": "Cardinal Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 121364,
+  "salary_max": 121364,
+  "posted_at": "2026-11-07T09:08:57.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T05:56:32.151Z"
+ },
+ "ea67ffc5164c5c9d69fb5a5f91efef4a9b45bdd0": {
+  "id": "ea67ffc5164c5c9d69fb5a5f91efef4a9b45bdd0",
+  "source": "adzuna",
+  "external_id": "5957034114",
+  "url": "https://www.adzuna.com/land/ad/5957034114?se=nhoXGTnb8RGD5Iv7NVeOtg&utm_medium=api&utm_source=53549fa7&v=6100A7D0BEEA019AA7A44F732F724BC7FF1E9E0C",
+  "title": "Electrical Design Engineer",
+  "company": "CMTA, Inc",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 98021,
+  "salary_max": 98021,
+  "posted_at": "2026-11-07T08:31:39.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T05:56:32.151Z"
+ },
+ "ec5b627279fb11bf221078d6654fd33d3414792c": {
+  "id": "ec5b627279fb11bf221078d6654fd33d3414792c",
+  "source": "adzuna",
+  "external_id": "5956850271",
+  "url": "https://www.adzuna.com/land/ad/5956850271?se=nhoXGTnb8RGD5Iv7NVeOtg&utm_medium=api&utm_source=53549fa7&v=C76ACCC31471CEACCF828452EC47D5FE91E33488",
+  "title": "Apply Today - Local Cath Lab RN | Immediate Opening",
+  "company": "Medical Solutions",
+  "location": "Rancho Murieta, Sacramento County",
+  "remote": null,
+  "salary_min": 53771,
+  "salary_max": 53771,
+  "posted_at": "2026-11-07T05:53:17.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T05:56:32.151Z"
+ },
+ "a2e1675152aff0f8ec115a00b35a684101d0f191": {
+  "id": "a2e1675152aff0f8ec115a00b35a684101d0f191",
+  "source": "adzuna",
+  "external_id": "5956633306",
+  "url": "https://www.adzuna.com/land/ad/5956633306?se=nhoXGTnb8RGD5Iv7NVeOtg&utm_medium=api&utm_source=53549fa7&v=E5746FFC69449EBC1F1DFDF48173E6675E7D1E41",
+  "title": "Immediate Opportunity - Cardiac Cath Lab Staff RN",
+  "company": "Medical Solutions",
+  "location": "North Highlands, Sacramento County",
+  "remote": null,
+  "salary_min": 68746,
+  "salary_max": 68746,
+  "posted_at": "2026-11-07T02:55:34.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T05:56:32.151Z"
+ },
+ "e3553c2d99138591b3ff64c8ab91d7a64bc67b3a": {
+  "id": "e3553c2d99138591b3ff64c8ab91d7a64bc67b3a",
+  "source": "adzuna",
+  "external_id": "5956630117",
+  "url": "https://www.adzuna.com/land/ad/5956630117?se=nhoXGTnb8RGD5Iv7NVeOtg&utm_medium=api&utm_source=53549fa7&v=70580926835512E540F32F0A683621320CBE8611",
+  "title": "Immediate Opportunity - Cardiac Cath Lab Staff RN",
+  "company": "Medical Solutions",
+  "location": "El Dorado Hills, El Dorado County",
+  "remote": null,
+  "salary_min": 72382,
+  "salary_max": 72382,
+  "posted_at": "2026-11-07T02:52:11.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T05:56:32.151Z"
+ },
+ "4247bcca21a6ca1864afd5415ba2ceae715e70f1": {
+  "id": "4247bcca21a6ca1864afd5415ba2ceae715e70f1",
+  "source": "adzuna",
+  "external_id": "5956500665",
+  "url": "https://www.adzuna.com/land/ad/5956500665?se=yF4CGjnb8RGJ_5m-0JeM1g&utm_medium=api&utm_source=53549fa7&v=6F6643F07910E9F1A7DDBFC3A7D851DA7C502E96",
+  "title": "Local ICU (Intensive Care Unit) RN (Registered Nurse) in Vacaville, CA - 1160783L",
+  "company": "Medical Solutions",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 53154,
+  "salary_max": 53154,
+  "posted_at": "2026-11-07T00:28:12.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T05:56:32.151Z"
  }
 }
