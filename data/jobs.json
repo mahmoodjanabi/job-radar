@@ -10534,5 +10534,185 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-08T05:56:32.151Z"
+ },
+ "f9d5bdacbb08b0677fe8c39cb0daf517b2bfd00e": {
+  "id": "f9d5bdacbb08b0677fe8c39cb0daf517b2bfd00e",
+  "source": "adzuna",
+  "external_id": "5958112311",
+  "url": "https://www.adzuna.com/land/ad/5958112311?se=0s8FuHbb8RGQ-ZuA3LKzHA&utm_medium=api&utm_source=53549fa7&v=B859513811D54E7526E88A1BE2AF8873FD484F1B",
+  "title": "Principal Platform Software Engineer - Oracle Health",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 210749,
+  "salary_max": 210749,
+  "posted_at": "2026-11-08T08:11:31.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T13:17:40.692Z"
+ },
+ "e6b706fe97f086684d9960fda10b83f18d1f4052": {
+  "id": "e6b706fe97f086684d9960fda10b83f18d1f4052",
+  "source": "adzuna",
+  "external_id": "5957790076",
+  "url": "https://www.adzuna.com/details/5957790076?utm_medium=api&utm_source=53549fa7",
+  "title": "Senior Mechanical Engineer - Buildings",
+  "company": "WSP",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 100800,
+  "salary_max": 147000,
+  "posted_at": "2026-11-08T01:29:40.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T13:17:40.692Z"
+ },
+ "542bdd67594def1f8b77e0f1a5e45b1ddee6303b": {
+  "id": "542bdd67594def1f8b77e0f1a5e45b1ddee6303b",
+  "source": "adzuna",
+  "external_id": "5958042970",
+  "url": "https://www.adzuna.com/land/ad/5958042970?se=8pB0uHbb8RGJ_5m-0JeM1g&utm_medium=api&utm_source=53549fa7&v=A019BECCF940CFAD127EF804DBC5C8B244944176",
+  "title": "Apply Today - Local Cath Lab RN | Immediate Opening",
+  "company": "Medical Solutions",
+  "location": "Cameron Park, El Dorado County",
+  "remote": null,
+  "salary_min": 53389,
+  "salary_max": 53389,
+  "posted_at": "2026-11-08T06:58:46.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T13:17:40.692Z"
+ },
+ "364c8565b97b9561f5d346d9c7c02a539eaa25d9": {
+  "id": "364c8565b97b9561f5d346d9c7c02a539eaa25d9",
+  "source": "adzuna",
+  "external_id": "5958041596",
+  "url": "https://www.adzuna.com/land/ad/5958041596?se=8pB0uHbb8RGJ_5m-0JeM1g&utm_medium=api&utm_source=53549fa7&v=43690EEB5DACAB39DB934D5EBEC5AFEC516BD3AD",
+  "title": "Apply Today - Local Cath Lab RN | Immediate Opening",
+  "company": "Medical Solutions",
+  "location": "Shingle Springs, El Dorado County",
+  "remote": null,
+  "salary_min": 54595,
+  "salary_max": 54595,
+  "posted_at": "2026-11-08T06:49:49.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T13:17:40.692Z"
+ },
+ "7f8b53003d0296b7872dcf559c2ed8bec8585976": {
+  "id": "7f8b53003d0296b7872dcf559c2ed8bec8585976",
+  "source": "adzuna",
+  "external_id": "5957479059",
+  "url": "https://www.adzuna.com/land/ad/5957479059?se=8pB0uHbb8RGJ_5m-0JeM1g&utm_medium=api&utm_source=53549fa7&v=185CED4656EAE15710126A6C610AD764F23761E1",
+  "title": "Apply Today - Local Cath Lab RN | Immediate Opening",
+  "company": "Medical Solutions",
+  "location": "El Dorado Hills, El Dorado County",
+  "remote": null,
+  "salary_min": 57413,
+  "salary_max": 57413,
+  "posted_at": "2026-11-07T16:44:32.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T13:17:40.692Z"
+ },
+ "51d8cacbff169f9edbf55cbe85b2f4c1cc2ebe50": {
+  "id": "51d8cacbff169f9edbf55cbe85b2f4c1cc2ebe50",
+  "source": "adzuna",
+  "external_id": "5956632407",
+  "url": "https://www.adzuna.com/land/ad/5956632407?se=8pB0uHbb8RGJ_5m-0JeM1g&utm_medium=api&utm_source=53549fa7&v=139C4FA0E20BDCB34D65138E972C4E94698C0BB6",
+  "title": "Apply Today - Local Cath Lab RN | Immediate Opening",
+  "company": "Medical Solutions",
+  "location": "Orangevale, Sacramento County",
+  "remote": null,
+  "salary_min": 51996,
+  "salary_max": 51996,
+  "posted_at": "2026-11-07T02:54:38.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T13:17:40.692Z"
+ },
+ "d478420055b42ae31e674653c6febf7ff13f718c": {
+  "id": "d478420055b42ae31e674653c6febf7ff13f718c",
+  "source": "adzuna",
+  "external_id": "5953628656",
+  "url": "https://www.adzuna.com/land/ad/5953628656?se=8pB0uHbb8RGJ_5m-0JeM1g&utm_medium=api&utm_source=53549fa7&v=6387252F13FD69CEAF9D3872B76D54F7948DA499",
+  "title": "Local PICU (Pediatric Intensive Care Unit) RN (Registered Nurse) in Roseville, CA - 1167544L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 51800,
+  "salary_max": 51800,
+  "posted_at": "2026-11-04T21:55:21.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T13:17:40.692Z"
+ },
+ "c155922ba07383d8cf028ffaa3853025f0a2b7e8": {
+  "id": "c155922ba07383d8cf028ffaa3853025f0a2b7e8",
+  "source": "adzuna",
+  "external_id": "5958112798",
+  "url": "https://www.adzuna.com/land/ad/5958112798?se=RC9funbb8RGD5Iv7NVeOtg&utm_medium=api&utm_source=53549fa7&v=83FBD2B43E2A275C71CFB624018D9FCFDB698802",
+  "title": "Product Manager, Platform - AI & Analytics",
+  "company": "Cardinal Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 138106,
+  "salary_max": 138106,
+  "posted_at": "2026-11-08T08:11:58.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T13:17:40.692Z"
+ },
+ "5746dd175ac24b3e2750f5288be00af2768be21c": {
+  "id": "5746dd175ac24b3e2750f5288be00af2768be21c",
+  "source": "adzuna",
+  "external_id": "5958112787",
+  "url": "https://www.adzuna.com/land/ad/5958112787?se=RC9funbb8RGD5Iv7NVeOtg&utm_medium=api&utm_source=53549fa7&v=57E6D6692F03692593C817F57062441C716C75CF",
+  "title": "Product Manager, Platform - Mobility Applications & Medical Consumables",
+  "company": "Cardinal Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 141560,
+  "salary_max": 141560,
+  "posted_at": "2026-11-08T08:11:57.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T13:17:40.692Z"
+ },
+ "55f5ca1ea8b61ae8e4a23262084da69a667436fc": {
+  "id": "55f5ca1ea8b61ae8e4a23262084da69a667436fc",
+  "source": "adzuna",
+  "external_id": "5958109605",
+  "url": "https://www.adzuna.com/land/ad/5958109605?se=RC9funbb8RGD5Iv7NVeOtg&utm_medium=api&utm_source=53549fa7&v=6519E7B00065827685563D98C05003282221B5CB",
+  "title": "Project Management Lead",
+  "company": "Humana",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 154659,
+  "salary_max": 154659,
+  "posted_at": "2026-11-08T08:08:42.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-08T13:17:40.692Z"
  }
 }
