@@ -10948,5 +10948,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-08T22:00:00.680Z"
+ },
+ "9e921f11576ea27591da4dee20e6f3434aff0aa3": {
+  "id": "9e921f11576ea27591da4dee20e6f3434aff0aa3",
+  "source": "adzuna",
+  "external_id": "5958544036",
+  "url": "https://www.adzuna.com/land/ad/5958544036?se=4IS1RwXc8RGxfckJLb_21w&utm_medium=api&utm_source=53549fa7&v=6DD3F9EBA59B3E4BE991B1DD32AD9D4B64845B19",
+  "title": "Immediate Opportunity - Cardiac Cath Lab Staff RN",
+  "company": "Medical Solutions",
+  "location": "Shingle Springs, El Dorado County",
+  "remote": null,
+  "salary_min": 68830,
+  "salary_max": 68830,
+  "posted_at": "2026-11-08T17:11:50.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-09T06:18:07.274Z"
+ },
+ "50345e1c36036511166c14319e5414e02fa7c7c9": {
+  "id": "50345e1c36036511166c14319e5414e02fa7c7c9",
+  "source": "adzuna",
+  "external_id": "5952126866",
+  "url": "https://www.adzuna.com/land/ad/5952126866?se=4IS1RwXc8RGxfckJLb_21w&utm_medium=api&utm_source=53549fa7&v=175B76DA48F4D53B4B0FA0E80A96D4BE6BF92921",
+  "title": "Local L&D (Labor and Delivery) RN (Registered Nurse) in Sacramento, CA - 1167488L",
+  "company": "Medical Solutions",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 33461,
+  "salary_max": 33461,
+  "posted_at": "2026-11-03T18:19:53.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-09T06:18:07.274Z"
  }
 }
