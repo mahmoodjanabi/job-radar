@@ -11218,5 +11218,131 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-09T22:17:21.106Z"
+ },
+ "428e97c5b00a4c1a1fa5900ebe9f3425fbd2df5a": {
+  "id": "428e97c5b00a4c1a1fa5900ebe9f3425fbd2df5a",
+  "source": "adzuna",
+  "external_id": "5959851015",
+  "url": "https://www.adzuna.com/land/ad/5959851015?se=5H_x-dXc8RG0Gf3QumIS4A&utm_medium=api&utm_source=53549fa7&v=EBA847053288E8B76146B52C820DCCF85308DC66",
+  "title": "Electrical Designer - Healthcare",
+  "company": "Harley Ellis Devereaux",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 78240,
+  "salary_max": 78240,
+  "posted_at": "2026-11-09T23:15:47.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "salary max 78240 < floor"
+  },
+  "first_seen_at": "2026-11-10T07:12:06.212Z"
+ },
+ "34f0e2d6c68a3476e26b3d41f38e8ff6c42012ad": {
+  "id": "34f0e2d6c68a3476e26b3d41f38e8ff6c42012ad",
+  "source": "adzuna",
+  "external_id": "5959761784",
+  "url": "https://www.adzuna.com/land/ad/5959761784?se=5H_x-dXc8RG0Gf3QumIS4A&utm_medium=api&utm_source=53549fa7&v=82A424EFAE7E44DBBC51E6B6823FEA4A9D92F277",
+  "title": "NP / Cardiology - Interventional / California / Locum tenens / Locums NP-Interventional Cardiology Job in Arkansas Job",
+  "company": "Hayman Daugherty Associates, Inc",
+  "location": "Union Hill, Nevada County",
+  "remote": null,
+  "salary_min": 243475,
+  "salary_max": 243475,
+  "posted_at": "2026-11-09T22:17:16.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-10T07:12:06.212Z"
+ },
+ "920b23f87e6bad1446bdd038257ff8c1cf2d08c3": {
+  "id": "920b23f87e6bad1446bdd038257ff8c1cf2d08c3",
+  "source": "adzuna",
+  "external_id": "5959619646",
+  "url": "https://www.adzuna.com/land/ad/5959619646?se=PBcA_NXc8RGH3poTNeosoQ&utm_medium=api&utm_source=53549fa7&v=3B7B285A5DA2D4B9097AB1584974E18A27654A94",
+  "title": "System Event Coordinator",
+  "company": "Arthur Lawrence",
+  "location": "Fairfield, Solano County",
+  "remote": null,
+  "salary_min": 63645,
+  "salary_max": 63645,
+  "posted_at": "2026-11-09T19:35:19.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-10T07:12:06.212Z"
+ },
+ "5119ed46d3c9d7bfdf2bf4cee63a59d640807736": {
+  "id": "5119ed46d3c9d7bfdf2bf4cee63a59d640807736",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146145",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Pain-Management_R-146145-1",
+  "title": "Medical Assistant II, Pain Management",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-11-09T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-10T07:12:06.212Z"
+ },
+ "5f6e74be3b3075e84326421fd23db732068088b3": {
+  "id": "5f6e74be3b3075e84326421fd23db732068088b3",
+  "source": "workday:sutterhealth",
+  "external_id": "R-130585",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Virtual-Patient-Safety-Attendant_R-130585",
+  "title": "Virtual Patient Safety Attendant",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60382,
+  "salary_max": 84510,
+  "posted_at": "2026-11-09T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-10T07:12:06.212Z"
+ },
+ "e163bab0cb6058fc729f0e97636a380998cd29db": {
+  "id": "e163bab0cb6058fc729f0e97636a380998cd29db",
+  "source": "workday:sutterhealth",
+  "external_id": "R-130584",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Virtual-Patient-Safety-Attendant_R-130584-1",
+  "title": "Virtual Patient Safety Attendant",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60382,
+  "salary_max": 84510,
+  "posted_at": "2026-11-09T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-10T07:12:06.212Z"
+ },
+ "0598dcc38c51ba45f64fb38c5ae542585a942089": {
+  "id": "0598dcc38c51ba45f64fb38c5ae542585a942089",
+  "source": "workday:sutterhealth",
+  "external_id": "R-130599",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Virtual-Patient-Safety-Attendant_R-130599",
+  "title": "Virtual Patient Safety Attendant",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60382,
+  "salary_max": 84510,
+  "posted_at": "2026-11-09T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-10T07:12:06.212Z"
  }
 }
