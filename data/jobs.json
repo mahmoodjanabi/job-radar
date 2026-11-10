@@ -11344,5 +11344,149 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-10T07:12:06.212Z"
+ },
+ "ddabdfd5f0b0b25123b9667f8a3a1efd1d9e2e4f": {
+  "id": "ddabdfd5f0b0b25123b9667f8a3a1efd1d9e2e4f",
+  "source": "adzuna",
+  "external_id": "5960582183",
+  "url": "https://www.adzuna.com/land/ad/5960582183?se=sA9pnz7d8RG2ju3U9MuxdQ&utm_medium=api&utm_source=53549fa7&v=43E1A892811C0051EF8D65336082A6AC241404AA",
+  "title": "Regional Director of Sales – Sacramento Hotel Portfolio - Sacramento Region, CA",
+  "company": "Wsmanagementinc",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 97638,
+  "salary_max": 97638,
+  "posted_at": "2026-11-10T13:13:23.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-10T19:41:19.856Z"
+ },
+ "8b5beeb38b4ebf690bd0f3d5fbd4354e901fb138": {
+  "id": "8b5beeb38b4ebf690bd0f3d5fbd4354e901fb138",
+  "source": "adzuna",
+  "external_id": "5960299539",
+  "url": "https://www.adzuna.com/land/ad/5960299539?se=KlUXoD7d8RGxnsm2izC-GQ&utm_medium=api&utm_source=53549fa7&v=A232B60F8BD797F3CB1DBDC6D31B9B8CC3F2EE70",
+  "title": "Health IT Strategy - Epic and EHR Modernization Manager",
+  "company": "Accenture",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 346323,
+  "salary_max": 346323,
+  "posted_at": "2026-11-10T07:45:03.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-10T19:41:19.856Z"
+ },
+ "c93d70fb89755e0cf7c761d4b26369e6345f4b1e": {
+  "id": "c93d70fb89755e0cf7c761d4b26369e6345f4b1e",
+  "source": "adzuna",
+  "external_id": "5960299384",
+  "url": "https://www.adzuna.com/land/ad/5960299384?se=KlUXoD7d8RGxnsm2izC-GQ&utm_medium=api&utm_source=53549fa7&v=88DBF57EB9ABC6A805464E07A66FC41782F4C2B8",
+  "title": "Health IT Strategy - Epic and EHR Modernization Senior Manager",
+  "company": "Accenture",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 328931,
+  "salary_max": 328931,
+  "posted_at": "2026-11-10T07:45:01.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-10T19:41:19.856Z"
+ },
+ "f09749bdc61d93fec66ec4cb6b709ce5a920ed49": {
+  "id": "f09749bdc61d93fec66ec4cb6b709ce5a920ed49",
+  "source": "adzuna",
+  "external_id": "5960157616",
+  "url": "https://www.adzuna.com/details/5960157616?utm_medium=api&utm_source=53549fa7",
+  "title": "Remote Licensed Mental Health Counselor",
+  "company": "Envision Your Potential Mental Wellbeing",
+  "location": "Elk Grove, Sacramento County",
+  "remote": null,
+  "salary_min": 115000,
+  "salary_max": 130000,
+  "posted_at": "2026-11-10T03:02:53.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-10T19:41:19.856Z"
+ },
+ "c6bccfec3b326881e3f88c44efadd27b6d78d7b5": {
+  "id": "c6bccfec3b326881e3f88c44efadd27b6d78d7b5",
+  "source": "adzuna",
+  "external_id": "5960155925",
+  "url": "https://www.adzuna.com/details/5960155925?utm_medium=api&utm_source=53549fa7",
+  "title": "Remote Licensed Marriage and Family Therapist (LMFT) - Full-Time Opportunity",
+  "company": "Refresh Zone Mental Health Services, inc.",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 120000,
+  "salary_max": 130000,
+  "posted_at": "2026-11-10T03:02:33.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-10T19:41:19.856Z"
+ },
+ "a6dcf32e59376dc392d3ff3efcf6060e1e42e97c": {
+  "id": "a6dcf32e59376dc392d3ff3efcf6060e1e42e97c",
+  "source": "adzuna",
+  "external_id": "5960138358",
+  "url": "https://www.adzuna.com/details/5960138358?utm_medium=api&utm_source=53549fa7",
+  "title": "Remote Licensed Mental Health Counselor - Supervisor Role",
+  "company": "Shelter Counseling Clinic",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 80000,
+  "salary_max": 100000,
+  "posted_at": "2026-11-10T03:00:13.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-10T19:41:19.856Z"
+ },
+ "63ab3b978363016ea6cfab59cf0575cb026f9c82": {
+  "id": "63ab3b978363016ea6cfab59cf0575cb026f9c82",
+  "source": "adzuna",
+  "external_id": "5960137287",
+  "url": "https://www.adzuna.com/details/5960137287?utm_medium=api&utm_source=53549fa7",
+  "title": "Licensed Clinical Social Worker - Remote Hospice Care Specialist",
+  "company": "Peoples Movement Psychiatric Solutions",
+  "location": "Elk Grove, Sacramento County",
+  "remote": null,
+  "salary_min": 115000,
+  "salary_max": 130000,
+  "posted_at": "2026-11-10T03:00:07.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-10T19:41:19.856Z"
+ },
+ "ff917882a60a9d0c93a233655dbe9a6a25401529": {
+  "id": "ff917882a60a9d0c93a233655dbe9a6a25401529",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145421",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Mental-Health-Worker-I--Patient-Support_R-145421",
+  "title": "Mental Health Worker I, Patient Support",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 56326,
+  "salary_max": 78832,
+  "posted_at": "2026-11-10T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-10T19:41:19.856Z"
  }
 }
