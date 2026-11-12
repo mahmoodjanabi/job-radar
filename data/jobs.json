@@ -12436,5 +12436,131 @@
    ]
   },
   "first_seen_at": "2026-11-11T14:14:31.661Z"
+ },
+ "bb6fc77dd601681fc00d9fbb8cc311a6d96ecf9f": {
+  "id": "bb6fc77dd601681fc00d9fbb8cc311a6d96ecf9f",
+  "source": "adzuna",
+  "external_id": "5962221501",
+  "url": "https://www.adzuna.com/land/ad/5962221501?se=6tuxPjHe8RG-3tonMCyHnw&utm_medium=api&utm_source=53549fa7&v=25EDD00BB536E41609D2105F56510CCBE56B0205",
+  "title": "ICU RN - Great Opportunity for Skilled Registered Nurses",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 44995,
+  "salary_max": 44995,
+  "posted_at": "2026-11-11T17:21:57.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-12T00:37:54.208Z"
+ },
+ "be15fcd0c4cef58632633c08edc8b8c00f2ca210": {
+  "id": "be15fcd0c4cef58632633c08edc8b8c00f2ca210",
+  "source": "adzuna",
+  "external_id": "5961855901",
+  "url": "https://www.adzuna.com/land/ad/5961855901?se=6tuxPjHe8RG-3tonMCyHnw&utm_medium=api&utm_source=53549fa7&v=239F2E7C1396D6EE4DC44ECCE119A172CD8F9660",
+  "title": "ICU RN - Join a Dedicated Critical Care Team",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 48598,
+  "salary_max": 48598,
+  "posted_at": "2026-11-11T11:30:51.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-12T00:37:54.208Z"
+ },
+ "76b1575bfd2a9cc718d626e1c9be83612a995aef": {
+  "id": "76b1575bfd2a9cc718d626e1c9be83612a995aef",
+  "source": "adzuna",
+  "external_id": "5961308816",
+  "url": "https://www.adzuna.com/land/ad/5961308816?se=6tuxPjHe8RG-3tonMCyHnw&utm_medium=api&utm_source=53549fa7&v=20689E36B79DBEC94BE2A7982908D49A02B4E3BA",
+  "title": "ICU RN - Apply Now for Competitive Pay",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 48262,
+  "salary_max": 48262,
+  "posted_at": "2026-11-11T02:29:53.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-12T00:37:54.208Z"
+ },
+ "cd8017d5ea34728c43a3cc47aa1c6c8abb8f85e7": {
+  "id": "cd8017d5ea34728c43a3cc47aa1c6c8abb8f85e7",
+  "source": "adzuna",
+  "external_id": "5961295927",
+  "url": "https://www.adzuna.com/land/ad/5961295927?se=6tuxPjHe8RG-3tonMCyHnw&utm_medium=api&utm_source=53549fa7&v=6854BBFF3A5816FB8EB05687BF58829F43E20099",
+  "title": "ICU RN - Apply Today and Advance Your Nursing Career",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 36591,
+  "salary_max": 36591,
+  "posted_at": "2026-11-11T02:24:05.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-12T00:37:54.208Z"
+ },
+ "9bef58f6affece51022715810a3af19e517b0542": {
+  "id": "9bef58f6affece51022715810a3af19e517b0542",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146093",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Director-of-Applications--Building-Technology--Security---Enterprise-Badge-Service_R-146093",
+  "title": "Director of Applications, Building Technology, Security & Enterprise Badge Service",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 181875,
+  "salary_max": 291012,
+  "posted_at": "2026-11-11T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-12T00:37:54.208Z"
+ },
+ "0aa082202d86cd41163544469c0f646d2b3f36b7": {
+  "id": "0aa082202d86cd41163544469c0f646d2b3f36b7",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144849",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Surgical-Technician-II_R-144849-1",
+  "title": "Surgical Technician II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 89336,
+  "salary_max": 125050,
+  "posted_at": "2026-11-11T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-12T00:37:54.208Z"
+ },
+ "5007eced5225be27e414c76f43928a9522bc5751": {
+  "id": "5007eced5225be27e414c76f43928a9522bc5751",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146132",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Family-Medicine_R-146132",
+  "title": "Medical Assistant II, Family Medicine",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-11-11T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-12T00:37:54.208Z"
  }
 }
