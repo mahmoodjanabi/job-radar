@@ -12796,5 +12796,113 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-12T15:06:52.174Z"
+ },
+ "0e172db2037833bd0c10126a759d8e870503f904": {
+  "id": "0e172db2037833bd0c10126a759d8e870503f904",
+  "source": "adzuna",
+  "external_id": "5963665348",
+  "url": "https://www.adzuna.com/land/ad/5963665348?se=hMybmvHe8RGeRcETzs7BxQ&utm_medium=api&utm_source=53549fa7&v=BF43378FB9A14B6228857E9A24F2907D87A9E912",
+  "title": "Senior AI/ML Architect - GenAI, Azure & Healthcare",
+  "company": "Ethereum Technologies",
+  "location": "Woodland, Yolo County",
+  "remote": null,
+  "salary_min": 159338,
+  "salary_max": 159338,
+  "posted_at": "2026-11-12T15:18:55.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Woodland, Yolo County\" not CA/remote"
+  },
+  "first_seen_at": "2026-11-12T23:34:51.828Z"
+ },
+ "e2c7624b30fcd6ddcd3af5e6c543c2041117f0ef": {
+  "id": "e2c7624b30fcd6ddcd3af5e6c543c2041117f0ef",
+  "source": "adzuna",
+  "external_id": "5963721873",
+  "url": "https://www.adzuna.com/land/ad/5963721873?se=RsmGm_He8RG0NsbUZx0nZA&utm_medium=api&utm_source=53549fa7&v=BED7B568AF4184845FA4A1BB8099071B5F1D4DAF",
+  "title": "Registered Nurse - Intensive Care Unit - Hiring Immediately",
+  "company": "Medical Solutions",
+  "location": "Rio Vista, Solano County",
+  "remote": null,
+  "salary_min": 57626,
+  "salary_max": 57626,
+  "posted_at": "2026-11-12T17:24:27.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-12T23:34:51.828Z"
+ },
+ "6040d1cb5a9caea56a5b8070276a4d10fd2bd612": {
+  "id": "6040d1cb5a9caea56a5b8070276a4d10fd2bd612",
+  "source": "adzuna",
+  "external_id": "5962529586",
+  "url": "https://www.adzuna.com/land/ad/5962529586?se=RsmGm_He8RG0NsbUZx0nZA&utm_medium=api&utm_source=53549fa7&v=41237BCA9F56DCA9563EBFF178970A05BC7D03ED",
+  "title": "Registered Nurse - Intensive Care Unit - Join Our Critical Care Team",
+  "company": "Medical Solutions",
+  "location": "Rio Vista, Solano County",
+  "remote": null,
+  "salary_min": 67723,
+  "salary_max": 67723,
+  "posted_at": "2026-11-11T23:30:33.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-12T23:34:51.828Z"
+ },
+ "fc6e701530bb84172bc3a3b261d59e27ca23e7b8": {
+  "id": "fc6e701530bb84172bc3a3b261d59e27ca23e7b8",
+  "source": "adzuna",
+  "external_id": "5962519745",
+  "url": "https://www.adzuna.com/land/ad/5962519745?se=RsmGm_He8RG0NsbUZx0nZA&utm_medium=api&utm_source=53549fa7&v=C7DFA11EDE718594C19EF5E1BE7F1F8BF22A31E7",
+  "title": "Registered Nurse - Intensive Care Unit - New Opportunity",
+  "company": "Medical Solutions",
+  "location": "Winters, Yolo County",
+  "remote": null,
+  "salary_min": 69508,
+  "salary_max": 69508,
+  "posted_at": "2026-11-11T23:24:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-12T23:34:51.828Z"
+ },
+ "efe48bca06e0d318b52cb23695ef6896745ebd02": {
+  "id": "efe48bca06e0d318b52cb23695ef6896745ebd02",
+  "source": "adzuna",
+  "external_id": "5963666129",
+  "url": "https://www.adzuna.com/land/ad/5963666129?se=xB4cnPHe8RG0NsbUZx0nZA&utm_medium=api&utm_source=53549fa7&v=A4FE7A449E2356860E47D429A35D7134B093CFFE",
+  "title": "Architecture Project Manager: Healthcare",
+  "company": "LPA, Inc.",
+  "location": "Florin, Sacramento County",
+  "remote": null,
+  "salary_min": 155982,
+  "salary_max": 155982,
+  "posted_at": "2026-11-12T15:19:04.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Florin, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-11-12T23:34:51.828Z"
+ },
+ "adfa99336f0d3190a8cc122fdede9aad7fe5451e": {
+  "id": "adfa99336f0d3190a8cc122fdede9aad7fe5451e",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146255",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Unit-Secretary--Nursing-Assistant--Surgical-Acute_R-146255",
+  "title": "Unit Secretary/ Nursing Assistant, Surgical Acute",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 60237,
+  "salary_max": 73362,
+  "posted_at": "2026-11-12T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-12T23:34:51.828Z"
  }
 }
