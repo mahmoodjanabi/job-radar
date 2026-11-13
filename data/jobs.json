@@ -13066,5 +13066,131 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-13T06:37:03.431Z"
+ },
+ "1582e81e224052ef3720592f746a855108aef707": {
+  "id": "1582e81e224052ef3720592f746a855108aef707",
+  "source": "adzuna",
+  "external_id": "5964483351",
+  "url": "https://www.adzuna.com/land/ad/5964483351?se=XsPZppnf8RGNl561rfNY_A&utm_medium=api&utm_source=53549fa7&v=39EC6B137D3B2E10B1089CD8C0D2875674A792A7",
+  "title": "Healthcare Product Strategy & Design -Consultant",
+  "company": "Deloitte",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 104317,
+  "salary_max": 104317,
+  "posted_at": "2026-11-13T07:46:55.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T19:38:02.552Z"
+ },
+ "250af23cf0ecea93d929d70a08e50370abe415cc": {
+  "id": "250af23cf0ecea93d929d70a08e50370abe415cc",
+  "source": "adzuna",
+  "external_id": "5964483341",
+  "url": "https://www.adzuna.com/land/ad/5964483341?se=XsPZppnf8RGNl561rfNY_A&utm_medium=api&utm_source=53549fa7&v=26909C72B558D4D516B0B894791D0BEF43DB73CB",
+  "title": "Healthcare Product Strategy Senior Manager",
+  "company": "Deloitte",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 132747,
+  "salary_max": 132747,
+  "posted_at": "2026-11-13T07:46:55.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T19:38:02.552Z"
+ },
+ "d7378f8cf06761269d2a078afbd33cae0bf11873": {
+  "id": "d7378f8cf06761269d2a078afbd33cae0bf11873",
+  "source": "adzuna",
+  "external_id": "5964221619",
+  "url": "https://www.adzuna.com/details/5964221619?utm_medium=api&utm_source=53549fa7",
+  "title": "Training Delivery Specialist III",
+  "company": "Sutter Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 97032,
+  "salary_max": 145558,
+  "posted_at": "2026-11-13T02:20:34.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T19:38:02.552Z"
+ },
+ "e30c136abd3e061994a94130b192b6b1bb636d6a": {
+  "id": "e30c136abd3e061994a94130b192b6b1bb636d6a",
+  "source": "adzuna",
+  "external_id": "5962232100",
+  "url": "https://www.adzuna.com/land/ad/5962232100?se=XsPZppnf8RGNl561rfNY_A&utm_medium=api&utm_source=53549fa7&v=1C3B478F4BB345522999141090FFE5E1E79DFA9A",
+  "title": "ICU RN - Competitive Compensation and Career Growth",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 54883,
+  "salary_max": 54883,
+  "posted_at": "2026-11-11T17:29:40.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T19:38:02.552Z"
+ },
+ "668027e0f031c93f983486f68b8a461886e05dff": {
+  "id": "668027e0f031c93f983486f68b8a461886e05dff",
+  "source": "adzuna",
+  "external_id": "5962911949",
+  "url": "https://www.adzuna.com/land/ad/5962911949?se=EEb-p5nf8RGDtoxXJCvQRQ&utm_medium=api&utm_source=53549fa7&v=96B996346400DC63BC379010B51EED2A8BDACB25",
+  "title": "Registered Nurse - Intensive Care Unit - Now Hiring",
+  "company": "Medical Solutions",
+  "location": "Rio Vista, Solano County",
+  "remote": null,
+  "salary_min": 64831,
+  "salary_max": 64831,
+  "posted_at": "2026-11-12T05:23:28.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T19:38:02.552Z"
+ },
+ "426bb812ad8e4864617acf60c9ef3501f69d80ca": {
+  "id": "426bb812ad8e4864617acf60c9ef3501f69d80ca",
+  "source": "adzuna",
+  "external_id": "5964485628",
+  "url": "https://www.adzuna.com/land/ad/5964485628?se=eHIYqZnf8RGDtoxXJCvQRQ&utm_medium=api&utm_source=53549fa7&v=0FE6B6A38A5B842BB0240FE59005506664AAD335",
+  "title": "Superintendent",
+  "company": "Insight Global",
+  "location": "Hammonton, Yuba County",
+  "remote": null,
+  "salary_min": 166094,
+  "salary_max": 166094,
+  "posted_at": "2026-11-13T07:50:15.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T19:38:02.552Z"
+ },
+ "1d65a73f793c55631bf2bc44f4ec63de345bfb0e": {
+  "id": "1d65a73f793c55631bf2bc44f4ec63de345bfb0e",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144232",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Anesthesia-Technician_R-144232-1",
+  "title": "Anesthesia Technician",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 78978,
+  "salary_max": 96325,
+  "posted_at": "2026-11-13T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T19:38:02.552Z"
  }
 }
