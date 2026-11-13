@@ -12904,5 +12904,167 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-12T23:34:51.828Z"
+ },
+ "8d9bcbb1d6a1a5aa73b998b60337b1f6d966a193": {
+  "id": "8d9bcbb1d6a1a5aa73b998b60337b1f6d966a193",
+  "source": "adzuna",
+  "external_id": "5961300121",
+  "url": "https://www.adzuna.com/land/ad/5961300121?se=WD4vlSzf8RGtfI4ANTZ8vw&utm_medium=api&utm_source=53549fa7&v=067F7CE8D1966C90460F651F20554E4736616BB3",
+  "title": "ICU RN - Competitive Pay for Experienced Nurses",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 29362,
+  "salary_max": 29362,
+  "posted_at": "2026-11-11T02:26:10.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T06:37:03.431Z"
+ },
+ "61070ffb7fb7566bcc0a56b113312a3471ac2428": {
+  "id": "61070ffb7fb7566bcc0a56b113312a3471ac2428",
+  "source": "adzuna",
+  "external_id": "5952750149",
+  "url": "https://www.adzuna.com/land/ad/5952750149?se=WD4vlSzf8RGtfI4ANTZ8vw&utm_medium=api&utm_source=53549fa7&v=46580C413EF92DEC46DC13F2256D5082A3262D4A",
+  "title": "Local NICU (Neonatal Intensive Care Unit) RN (Registered Nurse) in Roseville, CA - 1167431L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 46541,
+  "salary_max": 46541,
+  "posted_at": "2026-11-04T02:22:19.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T06:37:03.431Z"
+ },
+ "02f16979779fa9d8393ef65781b94fc551beda18": {
+  "id": "02f16979779fa9d8393ef65781b94fc551beda18",
+  "source": "adzuna",
+  "external_id": "5963843615",
+  "url": "https://www.adzuna.com/land/ad/5963843615?se=jq0Blizf8RGtFJQZMDCfZg&utm_medium=api&utm_source=53549fa7&v=B28277D3DB5E2A5BFB7618D10C9E84F365739CFB",
+  "title": "Registered Nurse - Intensive Care Unit - Now Hiring",
+  "company": "Medical Solutions",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 63609,
+  "salary_max": 63609,
+  "posted_at": "2026-11-12T20:35:42.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T06:37:03.431Z"
+ },
+ "98e97d4a6e3658a2a1ffc4c3d2e0005f2fd193e0": {
+  "id": "98e97d4a6e3658a2a1ffc4c3d2e0005f2fd193e0",
+  "source": "adzuna",
+  "external_id": "5963842964",
+  "url": "https://www.adzuna.com/land/ad/5963842964?se=jq0Blizf8RGtFJQZMDCfZg&utm_medium=api&utm_source=53549fa7&v=22C391B16B1477D4306D4C6186332D58BFB04A9E",
+  "title": "Registered Nurse - Intensive Care Unit - Take the Next Step",
+  "company": "Medical Solutions",
+  "location": "Rio Vista, Solano County",
+  "remote": null,
+  "salary_min": 49598,
+  "salary_max": 49598,
+  "posted_at": "2026-11-12T20:35:24.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T06:37:03.431Z"
+ },
+ "d6b79a9a744302caca0e6b4eb4f77b4d4eea1233": {
+  "id": "d6b79a9a744302caca0e6b4eb4f77b4d4eea1233",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146427",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Assistant-II--Internal-Medicine_R-146427",
+  "title": "Medical Assistant II, Internal Medicine",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-11-12T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T06:37:03.431Z"
+ },
+ "9c6f2506634f8f9162108f0b1b5e1aeda57211da": {
+  "id": "9c6f2506634f8f9162108f0b1b5e1aeda57211da",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145818",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Unit-Secretary-Nursing-Assistant--Med-Surg-Telemetry_R-145818",
+  "title": "Unit Secretary/Nursing Assistant, Med/Surg Telemetry",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 67226,
+  "salary_max": 81994,
+  "posted_at": "2026-11-12T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T06:37:03.431Z"
+ },
+ "b5f27c33dae778961e417a22802c3524463a265b": {
+  "id": "b5f27c33dae778961e417a22802c3524463a265b",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145613",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Unit-Secretary---Nursing-Assistant--Med-Surg_R-145613",
+  "title": "Unit Secretary / Nursing Assistant, Med Surg",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 67226,
+  "salary_max": 81994,
+  "posted_at": "2026-11-12T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T06:37:03.431Z"
+ },
+ "08db73c47d5c1ff0175e6e866c6b53662430f7e8": {
+  "id": "08db73c47d5c1ff0175e6e866c6b53662430f7e8",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145433",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Unit-Secretary---Nursing-Assistant--Telemetry_R-145433",
+  "title": "Unit Secretary / Nursing Assistant, Telemetry",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 67226,
+  "salary_max": 81994,
+  "posted_at": "2026-11-12T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T06:37:03.431Z"
+ },
+ "d977afd890366301934d953ea9d0aa05ae416e03": {
+  "id": "d977afd890366301934d953ea9d0aa05ae416e03",
+  "source": "workday:sutterhealth",
+  "external_id": "R-138705",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Unit-Secretary---Nursing-Assistant--Med-Surg-Telemetry_R-138705",
+  "title": "Unit Secretary / Nursing Assistant, Med/Surg Telemetry",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 67226,
+  "salary_max": 81994,
+  "posted_at": "2026-11-12T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-13T06:37:03.431Z"
  }
 }
