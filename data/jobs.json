@@ -13192,5 +13192,59 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-13T19:38:02.552Z"
+ },
+ "352b4329a260b58f0e016321383f5aef14fb9a21": {
+  "id": "352b4329a260b58f0e016321383f5aef14fb9a21",
+  "source": "adzuna",
+  "external_id": "5953091189",
+  "url": "https://www.adzuna.com/land/ad/5953091189?se=QgSmnfLf8RGNl561rfNY_A&utm_medium=api&utm_source=53549fa7&v=72C42320437A9794AAA5E644412BBD82D7BB8340",
+  "title": "Local NICU (Neonatal Intensive Care Unit) RN (Registered Nurse) in Roseville, CA - 1167563L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 46838,
+  "salary_max": 46838,
+  "posted_at": "2026-11-04T10:22:14.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-14T06:14:35.029Z"
+ },
+ "897c3cc3750da65c04a2cc36e5cb3ab3d0898f54": {
+  "id": "897c3cc3750da65c04a2cc36e5cb3ab3d0898f54",
+  "source": "adzuna",
+  "external_id": "5965098827",
+  "url": "https://www.adzuna.com/land/ad/5965098827?se=GrM8nvLf8RG7id9GLvN5zA&utm_medium=api&utm_source=53549fa7&v=61B57667014F8BFD4B1DC1F2B22B56587F605DA8",
+  "title": "Registered Nurse - Intensive Care Unit - Join Our Critical Care Team",
+  "company": "Medical Solutions",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 66447,
+  "salary_max": 66447,
+  "posted_at": "2026-11-13T20:44:33.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-14T06:14:35.029Z"
+ },
+ "a8221c88abc242c5cc90e9dc8db942445fa56493": {
+  "id": "a8221c88abc242c5cc90e9dc8db942445fa56493",
+  "source": "adzuna",
+  "external_id": "5964173355",
+  "url": "https://www.adzuna.com/details/5964173355?utm_medium=api&utm_source=53549fa7",
+  "title": "Manager, Grant Operations",
+  "company": "NorthBay Healthcare Corporation",
+  "location": "Fairfield, Solano County",
+  "remote": null,
+  "salary_min": 117903,
+  "salary_max": 117903,
+  "posted_at": "2026-11-13T01:50:32.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-14T06:14:35.029Z"
  }
 }
