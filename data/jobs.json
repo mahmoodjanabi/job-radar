@@ -14092,5 +14092,95 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-11-15T06:22:01.522Z"
+ },
+ "74b3f690376b33bf3f776f40e7687353db6a9b33": {
+  "id": "74b3f690376b33bf3f776f40e7687353db6a9b33",
+  "source": "adzuna",
+  "external_id": "5966700000",
+  "url": "https://www.adzuna.com/land/ad/5966700000?se=CJgDDSXh8RGVeLyi5LCRlA&utm_medium=api&utm_source=53549fa7&v=BCED826D266BBB347365744A954EB0B27B04652C",
+  "title": "Senior Business Analyst (Public-sector healthcare / MITA)",
+  "company": "Jobot",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 104000,
+  "salary_max": 145600,
+  "posted_at": "2026-11-15T03:22:32.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-15T18:48:12.579Z"
+ },
+ "b7a3372c71f939337fda8e57383e4b165b0d6af6": {
+  "id": "b7a3372c71f939337fda8e57383e4b165b0d6af6",
+  "source": "adzuna",
+  "external_id": "5966821730",
+  "url": "https://www.adzuna.com/land/ad/5966821730?se=IlZsDSXh8RG3UKJUaLg__w&utm_medium=api&utm_source=53549fa7&v=59E451E17EC6415D846981D7E059BCA6B858C1EE",
+  "title": "Principal Consultant- Oracle Health",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 135604,
+  "salary_max": 135604,
+  "posted_at": "2026-11-15T07:53:36.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-15T18:48:12.579Z"
+ },
+ "da39986b4f6fbf1d29bd4c10c0c5c6d240ac85ca": {
+  "id": "da39986b4f6fbf1d29bd4c10c0c5c6d240ac85ca",
+  "source": "adzuna",
+  "external_id": "5961299286",
+  "url": "https://www.adzuna.com/land/ad/5961299286?se=IlZsDSXh8RG3UKJUaLg__w&utm_medium=api&utm_source=53549fa7&v=E1DC71B67972D5EDEDD847A799B3A3EF0E27C59D",
+  "title": "ICU RN - Make an Impact in Critical Patient Care",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 44252,
+  "salary_max": 44252,
+  "posted_at": "2026-11-11T02:25:41.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-15T18:48:12.579Z"
+ },
+ "184e94912e1a65d1e8d4a9933d43378571ccbec7": {
+  "id": "184e94912e1a65d1e8d4a9933d43378571ccbec7",
+  "source": "adzuna",
+  "external_id": "5966651490",
+  "url": "https://www.adzuna.com/details/5966651490?utm_medium=api&utm_source=53549fa7",
+  "title": "RN - 19552280",
+  "company": "Adventist Health Lodi Memorial",
+  "location": "Kettleman, San Joaquin County",
+  "remote": null,
+  "salary_min": 122304,
+  "salary_max": 122304,
+  "posted_at": "2026-11-15T02:30:33.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-15T18:48:12.579Z"
+ },
+ "21fcfb6622fd5d52620c52af6774cea59610f56d": {
+  "id": "21fcfb6622fd5d52620c52af6774cea59610f56d",
+  "source": "adzuna",
+  "external_id": "5966612278",
+  "url": "https://www.adzuna.com/land/ad/5966612278?se=KGTuDSXh8RG3UKJUaLg__w&utm_medium=api&utm_source=53549fa7&v=A954A36A945A55115A3C749037C22E8B2309922D",
+  "title": "Travel ER RN - $2,352 per week",
+  "company": "Thrive Staffing",
+  "location": "Kettleman, San Joaquin County",
+  "remote": null,
+  "salary_min": 0,
+  "salary_max": 122304,
+  "posted_at": "2026-11-15T01:49:35.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-15T18:48:12.579Z"
  }
 }
