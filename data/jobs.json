@@ -14182,5 +14182,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-15T18:48:12.579Z"
+ },
+ "e4b40f401289ea6dccb08374ae4d8fcc67cad273": {
+  "id": "e4b40f401289ea6dccb08374ae4d8fcc67cad273",
+  "source": "adzuna",
+  "external_id": "5966705569",
+  "url": "https://www.adzuna.com/details/5966705569?utm_medium=api&utm_source=53549fa7",
+  "title": "Training Delivery Specialist III",
+  "company": "Sutter Health",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 97032,
+  "salary_max": 145558,
+  "posted_at": "2026-11-15T03:31:05.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-16T06:21:21.977Z"
+ },
+ "f482dab0f610aa5b13402a62e373cd791226518e": {
+  "id": "f482dab0f610aa5b13402a62e373cd791226518e",
+  "source": "adzuna",
+  "external_id": "5963724943",
+  "url": "https://www.adzuna.com/land/ad/5963724943?se=MIJc5oXh8RG05qb2Qiu1Nw&utm_medium=api&utm_source=53549fa7&v=FAAF10586A76373CE7DFE3798234CE8E7293FC5D",
+  "title": "Local NICU (Neonatal Intensive Care Unit) RN (Registered Nurse) in Roseville, CA - 1167600L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 46541,
+  "salary_max": 46541,
+  "posted_at": "2026-11-12T17:25:55.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-16T06:21:21.978Z"
  }
 }
