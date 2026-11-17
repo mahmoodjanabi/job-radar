@@ -14344,5 +14344,149 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-17T07:50:30.136Z"
+ },
+ "aace15bacbd6d17cd5fcc13e800e891b541c38e6": {
+  "id": "aace15bacbd6d17cd5fcc13e800e891b541c38e6",
+  "source": "adzuna",
+  "external_id": "5969045776",
+  "url": "https://www.adzuna.com/details/5969045776?utm_medium=api&utm_source=53549fa7",
+  "title": "Commercial Flooring Sales Professional",
+  "company": "Gpac",
+  "location": "Yuba City, Sutter County",
+  "remote": null,
+  "salary_min": 80000,
+  "salary_max": 125000,
+  "posted_at": "2026-11-17T08:19:20.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-17T20:51:38.400Z"
+ },
+ "28268127c8830a38923f6d657d92ef1f71752054": {
+  "id": "28268127c8830a38923f6d657d92ef1f71752054",
+  "source": "adzuna",
+  "external_id": "5968835326",
+  "url": "https://www.adzuna.com/details/5968835326?utm_medium=api&utm_source=53549fa7",
+  "title": "Licensed Physical Therapist Assistant for Rehabilitation Services",
+  "company": "Grand Health Care Clinic",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 50000,
+  "salary_max": 65000,
+  "posted_at": "2026-11-17T03:04:56.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-17T20:51:38.400Z"
+ },
+ "6adbe300fe994cc3e36e8c21bac317ce0fdafadc": {
+  "id": "6adbe300fe994cc3e36e8c21bac317ce0fdafadc",
+  "source": "adzuna",
+  "external_id": "5968842234",
+  "url": "https://www.adzuna.com/details/5968842234?utm_medium=api&utm_source=53549fa7",
+  "title": "Skilled Physical Therapist Assistant (PTA) in Rehabilitation Services",
+  "company": "Lakeland Health & Fitness",
+  "location": "Lodi, San Joaquin County",
+  "remote": null,
+  "salary_min": 75011,
+  "salary_max": 75011,
+  "posted_at": "2026-11-17T03:06:10.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-17T20:51:38.400Z"
+ },
+ "1222ae75de34206e702804179098efeaa1ce9fa3": {
+  "id": "1222ae75de34206e702804179098efeaa1ce9fa3",
+  "source": "adzuna",
+  "external_id": "5968836366",
+  "url": "https://www.adzuna.com/details/5968836366?utm_medium=api&utm_source=53549fa7",
+  "title": "Remote Licensed Clinical Social Worker (LCSW) - Full-Time",
+  "company": "Soul Support and Emotional Recovery",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 120000,
+  "salary_max": 130000,
+  "posted_at": "2026-11-17T03:05:07.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-17T20:51:38.400Z"
+ },
+ "84c4e4ebfafcc03432e304e472d7874614ee3ecb": {
+  "id": "84c4e4ebfafcc03432e304e472d7874614ee3ecb",
+  "source": "adzuna",
+  "external_id": "5969321678",
+  "url": "https://www.adzuna.com/details/5969321678?utm_medium=api&utm_source=53549fa7",
+  "title": "Physician Engagement Specialist",
+  "company": "CommonSpirit Health",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 122087,
+  "salary_max": 122087,
+  "posted_at": "2026-11-17T14:39:12.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-17T20:51:38.400Z"
+ },
+ "3f79793afe1fff41bc19acd1f59f0640b7014cb6": {
+  "id": "3f79793afe1fff41bc19acd1f59f0640b7014cb6",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145332",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Radiologic-Technologist_R-145332",
+  "title": "Radiologic Technologist",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 122845,
+  "salary_max": 149760,
+  "posted_at": "2026-11-17T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-17T20:51:38.400Z"
+ },
+ "c7c76c434ba03d830d1d12c1171201b6ad3b36c7": {
+  "id": "c7c76c434ba03d830d1d12c1171201b6ad3b36c7",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146571",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Surgical-Technician-II_R-146571",
+  "title": "Surgical Technician II",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 89336,
+  "salary_max": 125050,
+  "posted_at": "2026-11-17T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-17T20:51:38.400Z"
+ },
+ "ad5e387c20724e045622cd6f859a72678246a2e3": {
+  "id": "ad5e387c20724e045622cd6f859a72678246a2e3",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146885",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/LVN-II--Pre-Admission---Pre-Operative-Phone-Calls_R-146885",
+  "title": "LVN II, Pre-Admission & Pre-Operative Phone Calls",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 77584,
+  "salary_max": 108597,
+  "posted_at": "2026-11-17T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-17T20:51:38.400Z"
  }
 }
