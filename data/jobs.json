@@ -14308,5 +14308,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-16T21:58:16.104Z"
+ },
+ "2e29d9dac1da8096dd8450e2d2cc671b2b6019a3": {
+  "id": "2e29d9dac1da8096dd8450e2d2cc671b2b6019a3",
+  "source": "adzuna",
+  "external_id": "5968525138",
+  "url": "https://www.adzuna.com/details/5968525138?utm_medium=api&utm_source=53549fa7",
+  "title": "Medical Technician (Phlebotomist) - Stockton, CA, Modesto, CA, Sonora, CA",
+  "company": "Prime Physicians",
+  "location": "Pioneer, Amador County",
+  "remote": null,
+  "salary_min": 37708,
+  "salary_max": 37708,
+  "posted_at": "2026-11-16T22:57:16.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-17T07:50:30.136Z"
+ },
+ "7f929036f7c9883fb18e4045b58a83d4daf9ac2e": {
+  "id": "7f929036f7c9883fb18e4045b58a83d4daf9ac2e",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146744",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Ear--Nose---Throat_R-146744",
+  "title": "Medical Assistant II, Ear, Nose & Throat",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-11-16T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-17T07:50:30.136Z"
  }
 }
