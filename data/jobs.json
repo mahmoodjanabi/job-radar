@@ -14596,5 +14596,143 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-18T07:20:55.427Z"
+ },
+ "b70892f774f8b54b89df9dacf9ce94e4abd5d7f9": {
+  "id": "b70892f774f8b54b89df9dacf9ce94e4abd5d7f9",
+  "source": "adzuna",
+  "external_id": "5970342526",
+  "url": "https://www.adzuna.com/details/5970342526?utm_medium=api&utm_source=53549fa7",
+  "title": "Commercial Flooring Sales Professional",
+  "company": "Gpac",
+  "location": "Bryte, Yolo County",
+  "remote": null,
+  "salary_min": 80000,
+  "salary_max": 125000,
+  "posted_at": "2026-11-18T08:22:59.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-18T20:27:33.118Z"
+ },
+ "7db7e05fc1d84cd38415c5ee051afbc9980b723d": {
+  "id": "7db7e05fc1d84cd38415c5ee051afbc9980b723d",
+  "source": "adzuna",
+  "external_id": "5970341395",
+  "url": "https://www.adzuna.com/details/5970341395?utm_medium=api&utm_source=53549fa7",
+  "title": "Commercial Flooring Sales Professional",
+  "company": "Gpac",
+  "location": "Wilton, Sacramento County",
+  "remote": null,
+  "salary_min": 80000,
+  "salary_max": 125000,
+  "posted_at": "2026-11-18T08:22:48.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-18T20:27:33.118Z"
+ },
+ "673b6ef9122d31745c1e538952ca9e6c406740da": {
+  "id": "673b6ef9122d31745c1e538952ca9e6c406740da",
+  "source": "adzuna",
+  "external_id": "5966276699",
+  "url": "https://www.adzuna.com/land/ad/5966276699?se=6OSrYo7j8RGd8ssWAUUomg&utm_medium=api&utm_source=53549fa7&v=8AAE7115C52AFDBF2E0EE8F6D5BDE0F92BD9E7D1",
+  "title": "Registered Nurse - Intensive Care Unit - Take the Next Step",
+  "company": "Medical Solutions",
+  "location": "Winters, Yolo County",
+  "remote": null,
+  "salary_min": 50988,
+  "salary_max": 50988,
+  "posted_at": "2026-11-14T17:34:57.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-18T20:27:33.118Z"
+ },
+ "7d41b575fa972316b9932e220363b92435cd6b2b": {
+  "id": "7d41b575fa972316b9932e220363b92435cd6b2b",
+  "source": "adzuna",
+  "external_id": "5970501534",
+  "url": "https://www.adzuna.com/details/5970501534?utm_medium=api&utm_source=53549fa7",
+  "title": "Physician Engagement Specialist",
+  "company": "CommonSpirit Health",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 134329,
+  "salary_max": 134329,
+  "posted_at": "2026-11-18T11:15:04.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-18T20:27:33.118Z"
+ },
+ "cce9c4c32de680d9e56711b1b797e6108aebb4ae": {
+  "id": "cce9c4c32de680d9e56711b1b797e6108aebb4ae",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146765",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Cardiology-Device-Technician_R-146765",
+  "title": "Cardiology Device Technician",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 78062,
+  "salary_max": 109283,
+  "posted_at": "2026-11-18T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-18T20:27:33.118Z"
+ },
+ "021e4ce4881b767aea8cf3f371c20cb6cfd33a5b": {
+  "id": "021e4ce4881b767aea8cf3f371c20cb6cfd33a5b",
+  "source": "workday:philips",
+  "external_id": "594779",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Poland---Remote-Based/Clinical-Application-Specialist-Ultrasound--all-genders-_594779-2",
+  "title": "Clinical Application Specialist Ultrasound (all genders)",
+  "company": "Philips",
+  "location": "Poland - Remote Based",
+  "remote": null,
+  "salary_min": null,
+  "salary_max": null,
+  "posted_at": "2026-11-18T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-18T20:27:33.118Z"
+ },
+ "dc593efd0c571de9c0f0a1dcd661c905d1d94153": {
+  "id": "dc593efd0c571de9c0f0a1dcd661c905d1d94153",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146773",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Cardiac-Device-Clinical-Specialist_R-146773",
+  "title": "Cardiac Device Clinical Specialist",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 128440,
+  "salary_max": 179816,
+  "posted_at": "2026-11-18T00:00:00.000Z",
+  "score": 15,
+  "verdict": {
+   "role_fit": "excluded",
+   "work_mode": "onsite",
+   "location_ok": false,
+   "salary_ok": true,
+   "salary_note": "$128,440 – $179,816 (from parsed range; posted as $61.75–$86.45/hr)",
+   "seniority": "mid",
+   "score": 15,
+   "summary": "Cardiac Device Clinical Specialist at Sutter Health—excluded because this is a bedside/clinical care role (device management and patient monitoring in ambulatory settings), not a planning/design role, and location is Sacramento proper (onsite), which is not acceptable.",
+   "concerns": [
+    "onsite in Sacramento proper",
+    "bedside clinical role, not planning",
+    "5 years CIED experience required"
+   ]
+  },
+  "first_seen_at": "2026-11-18T20:27:33.118Z"
  }
 }
