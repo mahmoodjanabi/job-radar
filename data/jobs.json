@@ -14488,5 +14488,113 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-17T20:51:38.400Z"
+ },
+ "2014cf8e76f772a47c908cb5410ad329582d2cd8": {
+  "id": "2014cf8e76f772a47c908cb5410ad329582d2cd8",
+  "source": "adzuna",
+  "external_id": "5961667792",
+  "url": "https://www.adzuna.com/land/ad/5961667792?se=QAwViSDj8RGXMNRRpZDicQ&utm_medium=api&utm_source=53549fa7&v=0A65787FF52CCA17A17361D502CB690D06A3CF3E",
+  "title": "Local NICU (Neonatal Intensive Care Unit) RN (Registered Nurse) in Roseville, CA - 1167573L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 46838,
+  "salary_max": 46838,
+  "posted_at": "2026-11-11T08:33:37.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-18T07:20:55.427Z"
+ },
+ "12b7e0ef0ff8fd1946aea1a856dd13b7dc898634": {
+  "id": "12b7e0ef0ff8fd1946aea1a856dd13b7dc898634",
+  "source": "adzuna",
+  "external_id": "5961665467",
+  "url": "https://www.adzuna.com/land/ad/5961665467?se=QAwViSDj8RGXMNRRpZDicQ&utm_medium=api&utm_source=53549fa7&v=B74E0372EB9EEEEC0C533A500ED6982BF08E10A8",
+  "title": "ICU RN - Bring Your Critical Care Expertise",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 58806,
+  "salary_max": 58806,
+  "posted_at": "2026-11-11T08:32:55.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-18T07:20:55.427Z"
+ },
+ "33bfaad86e89c3f94bde50f5da1e1a1e3eb75772": {
+  "id": "33bfaad86e89c3f94bde50f5da1e1a1e3eb75772",
+  "source": "adzuna",
+  "external_id": "5964363231",
+  "url": "https://www.adzuna.com/land/ad/5964363231?se=PIlKiiDj8RG6PO8lVubONg&utm_medium=api&utm_source=53549fa7&v=C3C3F5BE56039224CF31C3C67CEFFE15B4DB5351",
+  "title": "Registered Nurse - Intensive Care Unit - Competitive Pay",
+  "company": "Medical Solutions",
+  "location": "Winters, Yolo County",
+  "remote": null,
+  "salary_min": 71241,
+  "salary_max": 71241,
+  "posted_at": "2026-11-13T05:34:25.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-18T07:20:55.427Z"
+ },
+ "ed5ec7fb9fa8ac587588f3368fe9adebd524931f": {
+  "id": "ed5ec7fb9fa8ac587588f3368fe9adebd524931f",
+  "source": "adzuna",
+  "external_id": "5962917503",
+  "url": "https://www.adzuna.com/land/ad/5962917503?se=PIlKiiDj8RG6PO8lVubONg&utm_medium=api&utm_source=53549fa7&v=8D45CBD60E87BFB1CC4830D7DD6C4DC2B889281C",
+  "title": "Registered Nurse - Intensive Care Unit - Hiring Immediately",
+  "company": "Medical Solutions",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 56540,
+  "salary_max": 56540,
+  "posted_at": "2026-11-12T05:27:45.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-18T07:20:55.427Z"
+ },
+ "e4666196b54116233d695fd2e05239164d18b3a9": {
+  "id": "e4666196b54116233d695fd2e05239164d18b3a9",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146888",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Licensed-Vocational-Nurse-II--Interventional-Radiology_R-146888",
+  "title": "Licensed Vocational Nurse II, Interventional Radiology",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 77584,
+  "salary_max": 108597,
+  "posted_at": "2026-11-17T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-18T07:20:55.427Z"
+ },
+ "89e41c4bbc17166dc0adfcd805d240ab834ad0d6": {
+  "id": "89e41c4bbc17166dc0adfcd805d240ab834ad0d6",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146812",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Pain-Management_R-146812",
+  "title": "Medical Assistant II, Pain Management",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-11-17T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-18T07:20:55.427Z"
  }
 }
