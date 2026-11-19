@@ -14842,5 +14842,161 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-19T07:18:37.295Z"
+ },
+ "462c853c99e050571d3a8ab732c8909fb46e19ef": {
+  "id": "462c853c99e050571d3a8ab732c8909fb46e19ef",
+  "source": "adzuna",
+  "external_id": "5971595835",
+  "url": "https://www.adzuna.com/land/ad/5971595835?se=iv31C1jk8RGxFJ2qbXBvog&utm_medium=api&utm_source=53549fa7&v=4175332F316D6ADA32AB86031B4AAFA81851FBBD",
+  "title": "Lead Developer (.NET / Vue.js)",
+  "company": "Cognizant",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 72671,
+  "salary_max": 72671,
+  "posted_at": "2026-11-19T07:54:19.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-19T20:30:45.173Z"
+ },
+ "1ccc107666f5cc28a5495828ac10d13ea0d73709": {
+  "id": "1ccc107666f5cc28a5495828ac10d13ea0d73709",
+  "source": "adzuna",
+  "external_id": "5966075316",
+  "url": "https://www.adzuna.com/land/ad/5966075316?se=ks39DVjk8RGzJOoV2dqqBw&utm_medium=api&utm_source=53549fa7&v=62D315EEB1BCE186EEE4BDAE759FED7C6FCF4A95",
+  "title": "Registered Nurse - Intensive Care Unit - Great Benefits",
+  "company": "Medical Solutions",
+  "location": "Winters, Yolo County",
+  "remote": null,
+  "salary_min": 67244,
+  "salary_max": 67244,
+  "posted_at": "2026-11-14T11:40:05.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-19T20:30:45.173Z"
+ },
+ "8a0d297dfaabff762ca474f36e9ff175b06c7010": {
+  "id": "8a0d297dfaabff762ca474f36e9ff175b06c7010",
+  "source": "adzuna",
+  "external_id": "5971951727",
+  "url": "https://www.adzuna.com/land/ad/5971951727?se=LvZoEFjk8RGxFJ2qbXBvog&utm_medium=api&utm_source=53549fa7&v=5A7D894F5BD73FC876273AB13B173FBF541BD172",
+  "title": "Medical Facilities Project Manager",
+  "company": "Insight Global",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 145600,
+  "salary_max": 156000,
+  "posted_at": "2026-11-19T12:31:54.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-11-19T20:30:45.173Z"
+ },
+ "8fedc88cb50bb27106c49b5558292182cb0d3d3d": {
+  "id": "8fedc88cb50bb27106c49b5558292182cb0d3d3d",
+  "source": "adzuna",
+  "external_id": "5971597464",
+  "url": "https://www.adzuna.com/land/ad/5971597464?se=LvZoEFjk8RGxFJ2qbXBvog&utm_medium=api&utm_source=53549fa7&v=C92B85D8C5DBED1BF5DBA98FE08AA28151C5E7C2",
+  "title": "Physician Engagement Specialist",
+  "company": "Dignity Health",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 159093,
+  "salary_max": 159093,
+  "posted_at": "2026-11-19T07:55:17.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-19T20:30:45.173Z"
+ },
+ "c1e02dcda5c5d01d09c3afec5ad666ea6969a0fc": {
+  "id": "c1e02dcda5c5d01d09c3afec5ad666ea6969a0fc",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144102",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Director--Women-s---Children-s-Services_R-144102",
+  "title": "Director, Women's & Children's Services",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 165339,
+  "salary_max": 264555,
+  "posted_at": "2026-11-19T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-19T20:30:45.173Z"
+ },
+ "9ca016f4c1148e7e3c462f8a236f26b158170525": {
+  "id": "9ca016f4c1148e7e3c462f8a236f26b158170525",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145692",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Cardiac-Cath-Technologist_R-145692",
+  "title": "Cardiac Cath Technologist",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 147638,
+  "salary_max": 179962,
+  "posted_at": "2026-11-19T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-19T20:30:45.173Z"
+ },
+ "4cb35ae08f13438d7e2f637c5ddbc55806c07565": {
+  "id": "4cb35ae08f13438d7e2f637c5ddbc55806c07565",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146558",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Interventional-Specialist-Technologist---Cath-Lab_R-146558",
+  "title": "Interventional Specialist Technologist - Cath Lab",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 148325,
+  "salary_max": 207646,
+  "posted_at": "2026-11-19T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-19T20:30:45.173Z"
+ },
+ "30cc7e568ab7c7f4727720a99f2dce4a6378cad7": {
+  "id": "30cc7e568ab7c7f4727720a99f2dce4a6378cad7",
+  "source": "adzuna",
+  "external_id": "5971601076",
+  "url": "https://www.adzuna.com/land/ad/5971601076?se=iv31C1jk8RGxFJ2qbXBvog&utm_medium=api&utm_source=53549fa7&v=9801238B69A29C96BBF395778ADBFADA3CB866E3",
+  "title": "Sr. Clinical Specialist CRM - Sacramento",
+  "company": "Medtronic",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 90648,
+  "salary_max": 90648,
+  "posted_at": "2026-11-19T07:58:22.000Z",
+  "score": 15,
+  "verdict": {
+   "role_fit": "excluded",
+   "work_mode": "remote",
+   "location_ok": true,
+   "salary_ok": true,
+   "salary_note": "90648 - 90648",
+   "seniority": "senior",
+   "score": 15,
+   "summary": "Sr. Clinical Specialist at Medtronic—likely a sales or bedside clinical role; excluded as CRM specialist titles typically focus on customer relationship management, clinical support, or account management rather than healthcare planning/design.",
+   "concerns": [
+    "CRM role (customer relationship/sales focus)",
+    "Title suggests bedside or vendor support, not planning",
+    "Job description truncated; full duties unclear"
+   ]
+  },
+  "first_seen_at": "2026-11-19T20:30:45.173Z"
  }
 }
