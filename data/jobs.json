@@ -15052,5 +15052,149 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-20T07:07:53.530Z"
+ },
+ "1fbb51c174244aa1520f73929ca4ab37d8905b5b": {
+  "id": "1fbb51c174244aa1520f73929ca4ab37d8905b5b",
+  "source": "adzuna",
+  "external_id": "5972860004",
+  "url": "https://www.adzuna.com/land/ad/5972860004?se=CrZJGB7l8RGB-bDIy5dDgQ&utm_medium=api&utm_source=53549fa7&v=716893C74AE6B7955F7491F38D26BB6688C99E1E",
+  "title": "SR Azure Platform Architect",
+  "company": "Cognizant",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 123213,
+  "salary_max": 123213,
+  "posted_at": "2026-11-20T07:50:17.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-11-20T20:08:30.954Z"
+ },
+ "8b88449f37334546ee75245f3917106742370219": {
+  "id": "8b88449f37334546ee75245f3917106742370219",
+  "source": "adzuna",
+  "external_id": "5972865546",
+  "url": "https://www.adzuna.com/land/ad/5972865546?se=Gh7gGB7l8RGuPayoyp3FzQ&utm_medium=api&utm_source=53549fa7&v=9C6DEA9B63AD4F88C07B3C9811FCCF3B51BE85AE",
+  "title": "Senior Manager, Platform Software Engineering",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 182240,
+  "salary_max": 182240,
+  "posted_at": "2026-11-20T07:56:21.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-20T20:08:30.954Z"
+ },
+ "d7ab07c63ebb1c0becbe9766421d4d678813cc92": {
+  "id": "d7ab07c63ebb1c0becbe9766421d4d678813cc92",
+  "source": "adzuna",
+  "external_id": "5972859999",
+  "url": "https://www.adzuna.com/land/ad/5972859999?se=Gh7gGB7l8RGuPayoyp3FzQ&utm_medium=api&utm_source=53549fa7&v=BC158E40C65463E0E4E3C8E26E12848202EB6BB7",
+  "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+  "company": "Cognizant",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 92236,
+  "salary_max": 92236,
+  "posted_at": "2026-11-20T07:50:17.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-20T20:08:30.954Z"
+ },
+ "bd1b0315df7f196e9cc336c4b901c37d22b4ec7d": {
+  "id": "bd1b0315df7f196e9cc336c4b901c37d22b4ec7d",
+  "source": "adzuna",
+  "external_id": "5963606364",
+  "url": "https://www.adzuna.com/land/ad/5963606364?se=Gh7gGB7l8RGuPayoyp3FzQ&utm_medium=api&utm_source=53549fa7&v=0F91161EB52E2CEAC8A627746DC311AC6A94CD5B",
+  "title": "Local NICU (Neonatal Intensive Care Unit) RN (Registered Nurse) in Roseville, CA - 1167447L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 46541,
+  "salary_max": 46541,
+  "posted_at": "2026-11-12T14:45:55.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-20T20:08:30.954Z"
+ },
+ "81331b3ad4fe1602837afd0953f432bb15a34227": {
+  "id": "81331b3ad4fe1602837afd0953f432bb15a34227",
+  "source": "adzuna",
+  "external_id": "5972863700",
+  "url": "https://www.adzuna.com/land/ad/5972863700?se=Wl4mGx7l8RGB-bDIy5dDgQ&utm_medium=api&utm_source=53549fa7&v=B3CD751A3DE4A465E6664E97FC87048B4FFFC751",
+  "title": "Clinical Innovation Delivery Lead",
+  "company": "Humana",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 127932,
+  "salary_max": 127932,
+  "posted_at": "2026-11-20T07:53:46.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-20T20:08:30.954Z"
+ },
+ "e4aefcdf92d0b86a1ca94ba97856104ee1aebc27": {
+  "id": "e4aefcdf92d0b86a1ca94ba97856104ee1aebc27",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145902",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Mental-Health-Therapist-III_R-145902-1",
+  "title": "Mental Health Therapist III",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 110989,
+  "salary_max": 155376,
+  "posted_at": "2026-11-20T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-20T20:08:30.954Z"
+ },
+ "972f94f4a2b0e34293aace9dbf1eb5c0a59d7b2d": {
+  "id": "972f94f4a2b0e34293aace9dbf1eb5c0a59d7b2d",
+  "source": "workday:sutterhealth",
+  "external_id": "R-145761",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Mental-Health-Therapist-III---Psychiatric-Response-Team_R-145761",
+  "title": "Mental Health Therapist III,  Psychiatric Response Team",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 110989,
+  "salary_max": 155376,
+  "posted_at": "2026-11-20T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-20T20:08:30.954Z"
+ },
+ "65fa53d014018c4135876d59153d1d0bcfb6c1f8": {
+  "id": "65fa53d014018c4135876d59153d1d0bcfb6c1f8",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144588",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Laboratory-Technician_R-144588",
+  "title": "Medical Laboratory Technician",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 99902,
+  "salary_max": 139838,
+  "posted_at": "2026-11-20T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-20T20:08:30.954Z"
  }
 }
