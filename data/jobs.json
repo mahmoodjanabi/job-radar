@@ -14998,5 +14998,59 @@
    ]
   },
   "first_seen_at": "2026-11-19T20:30:45.173Z"
+ },
+ "dde155563390ed45faf64fa0c49c651f6beb2843": {
+  "id": "dde155563390ed45faf64fa0c49c651f6beb2843",
+  "source": "adzuna",
+  "external_id": "5972181213",
+  "url": "https://www.adzuna.com/land/ad/5972181213?se=oAcJDLHk8RGpoKFL6IHoeQ&utm_medium=api&utm_source=53549fa7&v=56AE4DD2367191C6D0917638C7C7D3BF55B3C880",
+  "title": "Healthcare Project Manager",
+  "company": "Infinite Computer Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 101191,
+  "salary_max": 101191,
+  "posted_at": "2026-11-19T18:03:10.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Roseville, Placer County\" not CA/remote"
+  },
+  "first_seen_at": "2026-11-20T07:07:53.530Z"
+ },
+ "85f6a51e1653e3a029a0e8369ec535ddc86f95c3": {
+  "id": "85f6a51e1653e3a029a0e8369ec535ddc86f95c3",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146587",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Medical-Assistant-II--Urology_R-146587-1",
+  "title": "Medical Assistant II, Urology",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-11-19T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-20T07:07:53.530Z"
+ },
+ "3c0da0dc31e91a25fa2c75e8006351a1eede7512": {
+  "id": "3c0da0dc31e91a25fa2c75e8006351a1eede7512",
+  "source": "workday:sutterhealth",
+  "external_id": "R-147042",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Radiologic-Technologist_R-147042",
+  "title": "Radiologic Technologist",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 123926,
+  "salary_max": 173472,
+  "posted_at": "2026-11-19T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-20T07:07:53.530Z"
  }
 }
