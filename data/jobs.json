@@ -15214,5 +15214,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-22T06:41:00.423Z"
+ },
+ "282802883ba0568d895a1c1c169c21641008141d": {
+  "id": "282802883ba0568d895a1c1c169c21641008141d",
+  "source": "adzuna",
+  "external_id": "5974930403",
+  "url": "https://www.adzuna.com/details/5974930403?utm_medium=api&utm_source=53549fa7",
+  "title": "Care Consultant",
+  "company": "Snowline Hospice of El Dorado",
+  "location": "Rancho Cordova, Sacramento County",
+  "remote": null,
+  "salary_min": 90000,
+  "salary_max": 115000,
+  "posted_at": "2026-11-22T05:56:46.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-22T19:31:53.455Z"
  }
 }
