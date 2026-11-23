@@ -15754,5 +15754,203 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-23T07:29:46.164Z"
+ },
+ "1f8ba1b016e8f0a7299482cb1238269902a6cd76": {
+  "id": "1f8ba1b016e8f0a7299482cb1238269902a6cd76",
+  "source": "adzuna",
+  "external_id": "5976454578",
+  "url": "https://www.adzuna.com/land/ad/5976454578?se=ipUvg5jn8RGOPqj9_oCmyg&utm_medium=api&utm_source=53549fa7&v=F66487E1F283B92C33B4261C08F551C3D1745EC2",
+  "title": "Local Med Surg (Medical Surgical) RN (Registered Nurse) in Wheatland, WY - 1209726L",
+  "company": "Medical Solutions",
+  "location": "Wheatland, Yuba County",
+  "remote": null,
+  "salary_min": 48765,
+  "salary_max": 48765,
+  "posted_at": "2026-11-23T15:45:54.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-23T23:49:49.267Z"
+ },
+ "9d15d5c459529f8dd0f05280f7818f8c3c080bb2": {
+  "id": "9d15d5c459529f8dd0f05280f7818f8c3c080bb2",
+  "source": "adzuna",
+  "external_id": "5976452363",
+  "url": "https://www.adzuna.com/land/ad/5976452363?se=ipUvg5jn8RGOPqj9_oCmyg&utm_medium=api&utm_source=53549fa7&v=C2CEA41026A92762150388BC0969702D159F3F7D",
+  "title": "Local ER (Emergency Room) RN (Registered Nurse) in Roseville, CA - 1225588L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 52077,
+  "salary_max": 52077,
+  "posted_at": "2026-11-23T15:44:50.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-23T23:49:49.267Z"
+ },
+ "0ae46e2bde2657a7241042d191aa84a076ad15e0": {
+  "id": "0ae46e2bde2657a7241042d191aa84a076ad15e0",
+  "source": "adzuna",
+  "external_id": "5976451739",
+  "url": "https://www.adzuna.com/land/ad/5976451739?se=ipUvg5jn8RGOPqj9_oCmyg&utm_medium=api&utm_source=53549fa7&v=47EC90DD7907F45871718B3FB2B9DA597EB32ABD",
+  "title": "Local ICU (Intensive Care Unit) RN (Registered Nurse) in Sacramento, CA - 1195262L",
+  "company": "Medical Solutions",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 45937,
+  "salary_max": 45937,
+  "posted_at": "2026-11-23T15:44:22.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-23T23:49:49.267Z"
+ },
+ "b64995d5728f15384d07c514656bbc9197ee9a81": {
+  "id": "b64995d5728f15384d07c514656bbc9197ee9a81",
+  "source": "adzuna",
+  "external_id": "5976309504",
+  "url": "https://www.adzuna.com/land/ad/5976309504?se=ipUvg5jn8RGOPqj9_oCmyg&utm_medium=api&utm_source=53549fa7&v=26278F95EF73FE5B61FA26014FB3174F832E7D7D",
+  "title": "Designer II- Healthcare",
+  "company": "Lionakis",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 67163,
+  "salary_max": 67163,
+  "posted_at": "2026-11-23T12:51:23.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "salary max 67163 < floor"
+  },
+  "first_seen_at": "2026-11-23T23:49:49.267Z"
+ },
+ "765d77dfb9f881adf5fb202e40745ffdcd79554e": {
+  "id": "765d77dfb9f881adf5fb202e40745ffdcd79554e",
+  "source": "adzuna",
+  "external_id": "5976094583",
+  "url": "https://www.adzuna.com/land/ad/5976094583?se=ipUvg5jn8RGOPqj9_oCmyg&utm_medium=api&utm_source=53549fa7&v=C0D3666ADE5F64E074206519AA8CBDF6C50D617D",
+  "title": "Health IT Strategy - Epic and EHR Modernization Associate Director",
+  "company": "Accenture",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 279029,
+  "salary_max": 279029,
+  "posted_at": "2026-11-23T07:49:11.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-23T23:49:49.267Z"
+ },
+ "05dfe968aa0155569cdccee78a8457d63d90e7b2": {
+  "id": "05dfe968aa0155569cdccee78a8457d63d90e7b2",
+  "source": "adzuna",
+  "external_id": "5975357393",
+  "url": "https://www.adzuna.com/details/5975357393?utm_medium=api&utm_source=53549fa7",
+  "title": "Travel Physical Therapist (PT) - $2,140 per week in Sacramento, CA",
+  "company": "AlliedTravelCareers",
+  "location": "North Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 102720,
+  "salary_max": 102720,
+  "posted_at": "2026-11-22T14:51:46.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-23T23:49:49.267Z"
+ },
+ "ed5cef006e7b966fb2d53084a6edb1ff79bd8e67": {
+  "id": "ed5cef006e7b966fb2d53084a6edb1ff79bd8e67",
+  "source": "adzuna",
+  "external_id": "5976452065",
+  "url": "https://www.adzuna.com/land/ad/5976452065?se=3GXzg5jn8RG3obL8FeuK5Q&utm_medium=api&utm_source=53549fa7&v=4D52A5D9E3C43EF492EAE61263053C29081CD21E",
+  "title": "Local ICU (Intensive Care Unit) RN (Registered Nurse) in Vacaville, CA - 1187166L",
+  "company": "Medical Solutions",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 53154,
+  "salary_max": 53154,
+  "posted_at": "2026-11-23T15:44:39.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-23T23:49:49.267Z"
+ },
+ "25f2786c5a78cb12ee8adb183720bb1311acc72b": {
+  "id": "25f2786c5a78cb12ee8adb183720bb1311acc72b",
+  "source": "adzuna",
+  "external_id": "5976099884",
+  "url": "https://www.adzuna.com/land/ad/5976099884?se=mF7AhJjn8RGBUuiRoBjMvg&utm_medium=api&utm_source=53549fa7&v=0767A0E014D26D3A5BAD3560751E7F0DA7716959",
+  "title": "Senior Systems Implementation Analyst",
+  "company": "Oracle",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 130999,
+  "salary_max": 130999,
+  "posted_at": "2026-11-23T07:54:05.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-23T23:49:49.267Z"
+ },
+ "b48122f30eaab4ac21b2e8a4b5c28b7c091920c7": {
+  "id": "b48122f30eaab4ac21b2e8a4b5c28b7c091920c7",
+  "source": "workday:sutterhealth",
+  "external_id": "R-147391",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Medical-Assistant-II--Family-Medicine_R-147391",
+  "title": "Medical Assistant II, Family Medicine",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-11-23T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-23T23:49:49.267Z"
+ },
+ "71c2bfdc60b0575ef73aef565d218662d5c20167": {
+  "id": "71c2bfdc60b0575ef73aef565d218662d5c20167",
+  "source": "workday:sutterhealth",
+  "external_id": "R-147197",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Auburn/Medical-Assistant-II--Orthopedics_R-147197",
+  "title": "Medical Assistant II, Orthopedics",
+  "company": "Sutter Health",
+  "location": "Auburn",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-11-23T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-23T23:49:49.267Z"
+ },
+ "d3203b8515744980d8939f932094306ebd3647c3": {
+  "id": "d3203b8515744980d8939f932094306ebd3647c3",
+  "source": "workday:philips",
+  "external_id": "595330",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Canada---Remote-Based-Ontario-Canada---Canada----distance-Ontario-Canada/Sales--Clinical-Application-Specialist---General-Imaging-Ultrasound--Ontario--CA-_595330",
+  "title": "Sales, Clinical Application Specialist - General Imaging Ultrasound (Ontario, CA)",
+  "company": "Philips",
+  "location": "Canada - Remote Based, Ontario, Canada - Canada - À distance, Ontario, Canada",
+  "remote": null,
+  "salary_min": 77000,
+  "salary_max": 121000,
+  "posted_at": "2026-11-20T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-23T23:49:49.267Z"
  }
 }
