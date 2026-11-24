@@ -15970,5 +15970,131 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-24T09:49:07.806Z"
+ },
+ "8703bb28b1fbcbd198a1d3a40ab769d7c4b9ab24": {
+  "id": "8703bb28b1fbcbd198a1d3a40ab769d7c4b9ab24",
+  "source": "adzuna",
+  "external_id": "5977049207",
+  "url": "https://www.adzuna.com/land/ad/5977049207?se=EGNKdVXo8RGLYqZYfSmpUQ&utm_medium=api&utm_source=53549fa7&v=86AD7FC5F9CDFFC827B2FAB1B3CDECBC4F794C77",
+  "title": "Local ER (Emergency Room) RN (Registered Nurse) in Roseville, CA - 1225582L",
+  "company": "Medical Solutions",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 52410,
+  "salary_max": 52410,
+  "posted_at": "2026-11-24T06:43:38.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-24T22:22:28.216Z"
+ },
+ "aaeda924e77b9a21412972c0888d3fc58f226aa0": {
+  "id": "aaeda924e77b9a21412972c0888d3fc58f226aa0",
+  "source": "adzuna",
+  "external_id": "5976450996",
+  "url": "https://www.adzuna.com/land/ad/5976450996?se=EGNKdVXo8RGLYqZYfSmpUQ&utm_medium=api&utm_source=53549fa7&v=2D69B7B635404EA204C5B8B655F637D693933CCB",
+  "title": "Local OR (Operating Room) RN (Registered Nurse) in Sacramento, CA - 1208039L",
+  "company": "Medical Solutions",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 37775,
+  "salary_max": 37775,
+  "posted_at": "2026-11-23T15:43:21.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-24T22:22:28.216Z"
+ },
+ "17dd898175cf053533f3d438982326bb95739508": {
+  "id": "17dd898175cf053533f3d438982326bb95739508",
+  "source": "adzuna",
+  "external_id": "5975340184",
+  "url": "https://www.adzuna.com/details/5975340184?utm_medium=api&utm_source=53549fa7",
+  "title": "Travel Cath Lab Tech - $2,867 per week in Marysville, CA",
+  "company": "Medical Solutions",
+  "location": "Linda, Yuba County",
+  "remote": null,
+  "salary_min": 137616,
+  "salary_max": 137616,
+  "posted_at": "2026-11-22T14:50:18.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-24T22:22:28.216Z"
+ },
+ "da46bb74b7e2efe36d7fa4782711017cff7f5668": {
+  "id": "da46bb74b7e2efe36d7fa4782711017cff7f5668",
+  "source": "adzuna",
+  "external_id": "5977302649",
+  "url": "https://www.adzuna.com/land/ad/5977302649?se=-MesdVXo8RGRSJE6vESEnw&utm_medium=api&utm_source=53549fa7&v=4411B1179B9A415C967C0C64597B27589427EDA2",
+  "title": "Travel Nurse RN - Emergency Room (ER) / Trauma - $2,956 per week in Lodi, CA",
+  "company": "TravelNurseSource",
+  "location": "Woodbridge, San Joaquin County",
+  "remote": null,
+  "salary_min": 0,
+  "salary_max": 153712,
+  "posted_at": "2026-11-24T10:56:01.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-24T22:22:28.216Z"
+ },
+ "a75f93d53cdfe6e23e0a76033d25b8cf12db3969": {
+  "id": "a75f93d53cdfe6e23e0a76033d25b8cf12db3969",
+  "source": "adzuna",
+  "external_id": "5977558554",
+  "url": "https://www.adzuna.com/land/ad/5977558554?se=7EL8dVXo8RG3CcCV_YsU0g&utm_medium=api&utm_source=53549fa7&v=E976C522D989DBA33B4F6E991E7C15AB4F8C47B7",
+  "title": "Local ICU (Intensive Care Unit) RN (Registered Nurse) in Vacaville, CA - 1130355L",
+  "company": "Medical Solutions",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 53154,
+  "salary_max": 53154,
+  "posted_at": "2026-11-24T15:45:42.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-24T22:22:28.216Z"
+ },
+ "c8affae8525989541edaef0725daa249f0593490": {
+  "id": "c8affae8525989541edaef0725daa249f0593490",
+  "source": "workday:sutterhealth",
+  "external_id": "R-144694",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Nursing-Assistant--BMT-Oncology_R-144694",
+  "title": "Nursing Assistant, BMT/Oncology",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 59800,
+  "salary_max": 83699,
+  "posted_at": "2026-11-24T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-24T22:22:28.216Z"
+ },
+ "70f2a557ad8851ffbf14552a4a3d6e89fb44e6a7": {
+  "id": "70f2a557ad8851ffbf14552a4a3d6e89fb44e6a7",
+  "source": "workday:sutterhealth",
+  "external_id": "R-147078",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/Mammography-Technologist_R-147078",
+  "title": "Mammography Technologist",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 133806,
+  "salary_max": 187325,
+  "posted_at": "2026-11-24T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-24T22:22:28.216Z"
  }
 }
