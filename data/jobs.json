@@ -15952,5 +15952,23 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-23T23:49:49.267Z"
+ },
+ "43341b03ba7ddb996a15acaf9d7c9e116ab0d531": {
+  "id": "43341b03ba7ddb996a15acaf9d7c9e116ab0d531",
+  "source": "adzuna",
+  "external_id": "5976768033",
+  "url": "https://www.adzuna.com/land/ad/5976768033?se=SIT2OOzn8RGIwNaKQ2yMBA&utm_medium=api&utm_source=53549fa7&v=5F22AA4BD4621A1EB1DC27829BBA05EA56AB9992",
+  "title": "Local OR (Operating Room) RN (Registered Nurse) in Sacramento, CA - 1208037L",
+  "company": "Medical Solutions",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 37775,
+  "salary_max": 37775,
+  "posted_at": "2026-11-24T00:42:20.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-24T09:49:07.806Z"
  }
 }
