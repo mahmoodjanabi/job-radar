@@ -16132,5 +16132,59 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-25T08:24:57.929Z"
+ },
+ "1a9ceddaf81c4836f8455d343aaa211caa40fe30": {
+  "id": "1a9ceddaf81c4836f8455d343aaa211caa40fe30",
+  "source": "adzuna",
+  "external_id": "5978809535",
+  "url": "https://www.adzuna.com/details/5978809535?utm_medium=api&utm_source=53549fa7",
+  "title": "Travel Physical Therapist (PT) - $2,688 per week in Lodi, CA",
+  "company": "AlliedTravelCareers",
+  "location": "Kettleman, San Joaquin County",
+  "remote": null,
+  "salary_min": 129024,
+  "salary_max": 129024,
+  "posted_at": "2026-11-25T15:26:21.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-25T21:38:36.481Z"
+ },
+ "8f81890ffb3386fe4b1cb1481e2ebf82d20f5959": {
+  "id": "8f81890ffb3386fe4b1cb1481e2ebf82d20f5959",
+  "source": "adzuna",
+  "external_id": "5978809565",
+  "url": "https://www.adzuna.com/details/5978809565?utm_medium=api&utm_source=53549fa7",
+  "title": "Travel Physical Therapist (PT) - $2,688 per week in Lodi, CA",
+  "company": "Medical Solutions",
+  "location": "Kettleman, San Joaquin County",
+  "remote": null,
+  "salary_min": 129024,
+  "salary_max": 129024,
+  "posted_at": "2026-11-25T15:26:21.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-25T21:38:36.481Z"
+ },
+ "d24a1659749348cf9750eac8ee4c5e04e142e696": {
+  "id": "d24a1659749348cf9750eac8ee4c5e04e142e696",
+  "source": "workday:sutterhealth",
+  "external_id": "R-147337",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Roseville/CT-Technologist_R-147337",
+  "title": "CT Technologist",
+  "company": "Sutter Health",
+  "location": "Roseville",
+  "remote": null,
+  "salary_min": 134701,
+  "salary_max": 164195,
+  "posted_at": "2026-11-25T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-25T21:38:36.481Z"
  }
 }
