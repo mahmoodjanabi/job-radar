@@ -16096,5 +16096,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-24T22:22:28.216Z"
+ },
+ "03f8366acab1bcdc289515ec6f6850e68323dc5f": {
+  "id": "03f8366acab1bcdc289515ec6f6850e68323dc5f",
+  "source": "adzuna",
+  "external_id": "5977870905",
+  "url": "https://www.adzuna.com/details/5977870905?utm_medium=api&utm_source=53549fa7",
+  "title": "Senior Project Manager - Healthcare",
+  "company": "KAI Partners",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 138000,
+  "salary_max": 167000,
+  "posted_at": "2026-11-25T00:21:37.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Roseville, Placer County\" not CA/remote"
+  },
+  "first_seen_at": "2026-11-25T08:24:57.929Z"
+ },
+ "363abe0815cb44c140a18651c6af7ee935c336e2": {
+  "id": "363abe0815cb44c140a18651c6af7ee935c336e2",
+  "source": "workday:sutterhealth",
+  "external_id": "R-147753",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Medical-Assistant-II--Pediatric-Surgery_R-147753",
+  "title": "Medical Assistant II, Pediatric Surgery",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 60902,
+  "salary_max": 85259,
+  "posted_at": "2026-11-24T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-25T08:24:57.929Z"
  }
 }
