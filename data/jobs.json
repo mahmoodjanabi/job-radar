@@ -16186,5 +16186,77 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-25T21:38:36.481Z"
+ },
+ "a3037b744f1ab1204df02a7bff312fec457d626d": {
+  "id": "a3037b744f1ab1204df02a7bff312fec457d626d",
+  "source": "adzuna",
+  "external_id": "5978952583",
+  "url": "https://www.adzuna.com/details/5978952583?utm_medium=api&utm_source=53549fa7",
+  "title": "Marketing Manager",
+  "company": "Costa Vida - Norcal Restaurant Holdings",
+  "location": "Roseville, Placer County",
+  "remote": null,
+  "salary_min": 52000,
+  "salary_max": 62400,
+  "posted_at": "2026-11-25T20:24:32.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-26T08:10:09.769Z"
+ },
+ "c538daf2956a4422fcdb6b76e901ba265a2c79ee": {
+  "id": "c538daf2956a4422fcdb6b76e901ba265a2c79ee",
+  "source": "adzuna",
+  "external_id": "5978902151",
+  "url": "https://www.adzuna.com/details/5978902151?utm_medium=api&utm_source=53549fa7",
+  "title": "Hospice Community Liaison",
+  "company": "Madrona Hospice Care Inc.",
+  "location": "Vacaville, Solano County",
+  "remote": null,
+  "salary_min": 60000,
+  "salary_max": 100000,
+  "posted_at": "2026-11-25T18:56:06.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-26T08:10:09.769Z"
+ },
+ "8f946f3f2435c411007c4a9f4bc94198ec6a5bdb": {
+  "id": "8f946f3f2435c411007c4a9f4bc94198ec6a5bdb",
+  "source": "adzuna",
+  "external_id": "5978902143",
+  "url": "https://www.adzuna.com/details/5978902143?utm_medium=api&utm_source=53549fa7",
+  "title": "Hospice Community Liaison",
+  "company": "Madrona Hospice Care Inc.",
+  "location": "Fairfield, Solano County",
+  "remote": null,
+  "salary_min": 60000,
+  "salary_max": 100000,
+  "posted_at": "2026-11-25T18:56:06.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-26T08:10:09.769Z"
+ },
+ "cf38126974d4b3c5b5c50238b511557b2191bef6": {
+  "id": "cf38126974d4b3c5b5c50238b511557b2191bef6",
+  "source": "workday:sutterhealth",
+  "external_id": "R-146799",
+  "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Sacramento/Respiratory-Care-Practitioner-II_R-146799",
+  "title": "Respiratory Care Practitioner II",
+  "company": "Sutter Health",
+  "location": "Sacramento",
+  "remote": null,
+  "salary_min": 122096,
+  "salary_max": 170914,
+  "posted_at": "2026-11-25T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-26T08:10:09.769Z"
  }
 }
