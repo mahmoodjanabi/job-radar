@@ -16492,5 +16492,23 @@
    "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
   },
   "first_seen_at": "2026-11-26T21:27:20.008Z"
+ },
+ "b9422dab956d0b4f7bad98d17fac7ac2d65dde2b": {
+  "id": "b9422dab956d0b4f7bad98d17fac7ac2d65dde2b",
+  "source": "workday:philips",
+  "external_id": "596421",
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/India---Remote-Based/Account-Manager-IS_596421",
+  "title": "Account Manager IS",
+  "company": "Philips",
+  "location": "India - Remote Based",
+  "remote": null,
+  "salary_min": null,
+  "salary_max": null,
+  "posted_at": "2026-11-27T00:00:00.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-27T08:20:39.238Z"
  }
 }
