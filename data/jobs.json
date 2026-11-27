@@ -16510,5 +16510,41 @@
    "prefilter": "no title/domain keyword"
   },
   "first_seen_at": "2026-11-27T08:20:39.238Z"
+ },
+ "d4d57fb8824b82c6d9200376addcba746e4c3239": {
+  "id": "d4d57fb8824b82c6d9200376addcba746e4c3239",
+  "source": "adzuna",
+  "external_id": "5981043061",
+  "url": "https://www.adzuna.com/details/5981043061?utm_medium=api&utm_source=53549fa7",
+  "title": "Construction Project Manager (Healthcare / Medical)",
+  "company": "Essel Environmental",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 127437,
+  "salary_max": 127437,
+  "posted_at": "2026-11-27T14:21:39.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "location \"Sacramento, Sacramento County\" not CA/remote"
+  },
+  "first_seen_at": "2026-11-27T21:11:37.021Z"
+ },
+ "c3af3f019473e70f453c54004ccc20157af693a5": {
+  "id": "c3af3f019473e70f453c54004ccc20157af693a5",
+  "source": "adzuna",
+  "external_id": "5980693703",
+  "url": "https://www.adzuna.com/land/ad/5980693703?se=uP7kFafq8RG0VYAlbbclDw&utm_medium=api&utm_source=53549fa7&v=31921041B6ED1546233C5375781EA90F5EF96573",
+  "title": "Accounts Receivable Coordinator",
+  "company": "Deloitte",
+  "location": "Sacramento, Sacramento County",
+  "remote": null,
+  "salary_min": 49907,
+  "salary_max": 49907,
+  "posted_at": "2026-11-27T07:50:20.000Z",
+  "score": 0,
+  "verdict": {
+   "prefilter": "no title/domain keyword"
+  },
+  "first_seen_at": "2026-11-27T21:11:37.021Z"
  }
 }
